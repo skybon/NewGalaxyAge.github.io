@@ -19,9 +19,10 @@ html:
 
 clean:
 	-rm -rf $(BUILDDIR)/*
+	rm -rf .doctrees
 
 deploy: clean html
 	cd $(BUILDDIR) && git add . && git add -u && \
-	git commit -m "Updated at `LANG=C date`" && git push origin master && \
-	cd - && git add . && git add -u && \
+		git commit -m "Updated at `LANG=C date`" && git push origin master
+	git add . && git add -u && \
 	git commit -m "Updated at `LANG=C date`" && git push origin source
