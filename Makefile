@@ -21,4 +21,4 @@ clean:
 	-rm -rf $(BUILDDIR)/*
 
 deploy: clean html
-	cd $(BUILDDIR) && git add -u . && git commit -m "Updated at `LANG=C date`" && git push origin master
+	cd $(BUILDDIR) && git add . && git add -u . && git commit -m "Updated at `LANG=C date`" && git push origin master
