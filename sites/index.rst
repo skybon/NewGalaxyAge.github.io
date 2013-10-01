@@ -8,6 +8,7 @@ Vanguard (10)
 -------------
 
 .. toctree::
+    :maxdepth: 1
 
     nco
     nmc
@@ -16,13 +17,19 @@ Vanguard (10)
 Assoult (20)
 ------------
 
-.. include:: ncn.rst
-.. include:: ncs.rst
-.. include:: ocf.rst
+.. toctree::
+    :maxdepth: 1
+
+    ncn
+    ncs
+    ocf
 
 HQ (40)
 -------
 
-.. include:: nrf.rst
-.. include:: tcrc.rst
-.. include:: tpph.rst
+.. toctree::
+    :maxdepth: 1
+
+    nrf.rst
+    tcrc.rst
+    tpph.rst
