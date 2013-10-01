@@ -7,10 +7,11 @@
 Vanguard (10)
 -------------
 
-.. include:: nco.rst
-.. include:: nmc.rst
-.. include:: ota.rst
+.. toctree::
 
+    nco
+    nmc
+    ota
 
 Assoult (20)
 ------------
