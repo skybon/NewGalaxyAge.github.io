@@ -9,6 +9,8 @@ BUILDDIR      = build
 # Internal variables.
 ALLSPHINXOPTS   = -d .doctrees $(SPHINXOPTS) source
 
+.PHONY: clean html deploy
+
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/
 	touch $(BUILDDIR)/.nojekyll
@@ -19,6 +21,4 @@ clean:
 	-rm -rf $(BUILDDIR)/*
 
 deploy: clean html
-	cd $(BUILDDIR) && git add -u . && git commit -m "Updated at `date`" && git push origin master
-
-.PHONY: clean html
+	cd $(BUILDDIR) && git add -u . && git commit -m "Updated at `LANG=C date`" && git push origin master
