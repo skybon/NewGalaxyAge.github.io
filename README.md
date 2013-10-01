@@ -1,5 +1,4 @@
-Сайт raisa-shield.github.io
-===========================
+http://raisa-shield.github.io
 
 Сайт использует Sphinx при генерации страниц.
 
