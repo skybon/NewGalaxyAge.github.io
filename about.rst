@@ -1,32 +1,29 @@
 Russian Allied Incursions: Shield and Armor
 ===========================================
 
-Рассылки
---------
+.. sidebar: Рассылки
 
-* RAISA Shield
-* RAISA SRP
-* RAISA Shield Fits
-* RAISA Shield CTA
+    * RAISA Shield
+    * RAISA SRP
+    * RAISA Shield Fits
+    * RAISA Shield CTA
 
-Руководство канала
-------------------
+.. sidebar: Руководство канала
 
-* Zwo Zateki
-* Padegejas
-* Yart Skord
+    * Zwo Zateki
+    * Padegejas
+    * Yart Skord
 
-Список ФК канала
-----------------
+.. sidebar: Список ФК канала
 
-* Art Nask
-* Grim Hinken
-* Pavel Leopa
-* effekt vampire
-* n0th1nk
-* Nermarion
-* Eva Pride
-* Dev Yakenn
-* Xilia Otsu
-* LLAleX
-* Kobius
+    * Art Nask
+    * Dev Yakenn
+    * effekt vampire
+    * Eva Pride
+    * Grim Hinken
+    * Kobius
+    * LLAleX
+    * n0th1nk
+    * Nermarion
+    * Pavel Leopa
+    * Xilia Otsu
