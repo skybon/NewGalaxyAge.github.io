@@ -22,7 +22,7 @@ clean:
 	-rm -rf .doctrees
 
 deploy: clean html
-	cd $(BUILDDIR) && git add . && git add -u && \
+	cd $(BUILDDIR) && git add -A && \
 		git commit -m "Updated at `LANG=C date`" && git push origin master
-	git add . && git add -u && \
-	git commit -m "Updated at `LANG=C date`" && git push origin source
+	git add -A && \
+		git commit -m "Updated at `LANG=C date`" && git push origin source
