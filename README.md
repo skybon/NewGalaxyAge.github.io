@@ -1,3 +1,6 @@
+Сайт канала RAISA Shield
+========================
+
 Сайт использует Sphinx при генерации страниц.
 
 Подробнее: http://sphinx.readthedocs.org/en/latest/
