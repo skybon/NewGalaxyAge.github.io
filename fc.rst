@@ -1,6 +1,6 @@
 Руководства по вторжениям Саньши
 ================================
 
-.. include:: tutorials.rst
-.. include:: sites/index.rst
-.. include:: npc.rst
+.. toctree:: tutorials.rst
+.. toctree:: sites/index.rst
+.. toctree:: npc.rst
