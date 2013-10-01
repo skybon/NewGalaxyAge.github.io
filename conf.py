@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'RAISA Shield'
-copyright = u'2013, RAISA Shield'
+copyright = u'2013, Russian Allied Incursions: Shield and Armor'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
