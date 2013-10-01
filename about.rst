@@ -19,10 +19,6 @@ Russian Allied Incursions: Shield and Armor
 Список ФК канала
 ----------------
 
-.. warning::
-    Данная информация могла устареть. Актуальную информацию смотрите в шапке
-    канала RAISA Shield.
-
 * Art Nask
 * Grim Hinken
 * Pavel Leopa
