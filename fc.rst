@@ -4,20 +4,7 @@
 .. warning::
     Страница находится в разработке.
 
-Новичкам
---------
+.. include:: tutorials.rst
 
-Видео от Pavel Leopa: http://www.youtube.com/watch?v=wOyMuU9iH94
-
-Сайты вторжений
----------------
-
-.. include::
-    vanguard
-    assoult
-    hq
-
-Типы NPC
---------
-
-.. include:: npc
+.. include:: sites/index.rst
+.. include:: npc.rst
