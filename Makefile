@@ -19,7 +19,7 @@ html:
 
 clean:
 	-rm -rf $(BUILDDIR)/*
-	rm -rf .doctrees
+	-rm -rf .doctrees
 
 deploy: clean html
 	cd $(BUILDDIR) && git add . && git add -u && \
