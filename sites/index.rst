@@ -30,6 +30,6 @@ HQ (40)
 .. toctree::
     :maxdepth: 1
 
-    nrf.rst
-    tcrc.rst
-    tpph.rst
+    nrf
+    tcrc
+    tpph
