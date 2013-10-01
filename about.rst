@@ -20,13 +20,13 @@ Russian Allied Incursions: Shield and Armor
 ----------------
 
 * Art Nask
-* Grim Hinken
-* Pavel Leopa
+* Dev Yakenn
 * effekt vampire
+* Eva Pride
+* Grim Hinken
+* Kobius
+* LLAleX
 * n0th1nk
 * Nermarion
-* Eva Pride
-* Dev Yakenn
+* Pavel Leopa
 * Xilia Otsu
-* LLAleX
-* Kobius
