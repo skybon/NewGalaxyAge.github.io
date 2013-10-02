@@ -3,7 +3,7 @@
 
 # You can set these variables from the command line.
 SPHINXOPTS    =
-SPHINXBUILD   = sphinx-build2
+SPHINXBUILD   = sphinx-build
 BUILDDIR      = build
 
 # Internal variables.
@@ -22,6 +22,7 @@ clean:
 	-rm -rf .doctrees
 
 deploy: clean html
+	[ -d $(BUILDDIR) ] || git submodule init
 	cd $(BUILDDIR) && git add -A && \
 		git commit -m "Updated at `LANG=C date`" && git push origin master
 	git add -A && \
