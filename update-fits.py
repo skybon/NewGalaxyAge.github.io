@@ -28,7 +28,7 @@ def update_fit(fit_filename, rst_filename):
 
     with open(rst_filename, 'w') as f:
         f.write("%s\n%s\n\n" % (ship, '=' * len(ship)))
-        f.write("`%s <javascript:CCPEVE.showFitting('%s');>`\n\n" % (
+        f.write("`%s <javascript:CCPEVE.showFitting('%s');>`_\n\n" % (
             ship, dna
         ))
         f.write('.. code-block:: text\n\n')
