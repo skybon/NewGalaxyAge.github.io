@@ -17,13 +17,20 @@ html:
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/"
 
+submodule:
+	[ -e $(BUILDDIR)/.git ] || git submodule init && git submodule update
+
 clean:
 	-rm -rf $(BUILDDIR)/*
 	-rm -rf .doctrees
 
 deploy: clean html
-	[ -d $(BUILDDIR) ] || git submodule init
-	cd $(BUILDDIR) && git add -A && \
-		git commit -m "Updated at `LANG=C date`" && git push origin master
+	cd $(BUILDDIR) && \
+		git add -A && \
+		git commit -m "Updated at `LANG=C date`" && \
+		git fetch && git rebase master && \
+		git push origin master
 	git add -A && \
-		git commit -m "Updated at `LANG=C date`" && git push origin source
+		git commit -m "Updated at `LANG=C date`" && \
+		git rebase source && \
+		git push origin source
