@@ -28,9 +28,9 @@ deploy: clean html
 	cd $(BUILDDIR) && \
 		git add -A && \
 		git commit -m "Updated at `LANG=C date`" && \
-		git fetch && git rebase master && \
+		git fetch && git rebase origin/master && \
 		git push origin master
 	git add -A && \
 		git commit -m "Updated at `LANG=C date`" && \
-		git rebase source && \
+		git rebase origin/source && \
 		git push origin source
