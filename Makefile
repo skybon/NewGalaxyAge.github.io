@@ -12,6 +12,7 @@ ALLSPHINXOPTS   = -d .doctrees $(SPHINXOPTS) .
 .PHONY: clean html deploy
 
 html:
+	python update-fits.py
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/
 	touch $(BUILDDIR)/.nojekyll
 	@echo
