@@ -28,12 +28,12 @@ def update_fit(fit_filename, rst_filename):
 
     with open(rst_filename, 'w') as f:
         f.write("%s\n%s\n\n" % (ship, '=' * len(ship)))
-        f.write("%s <javascript:CCPEVE.showFitting('%s')\n\n" % (
+        f.write("`%s <javascript:CCPEVE.showFitting('%s');>`\n\n" % (
             ship, dna
         ))
         f.write('.. code-block:: text\n\n')
         for line in eft.splitlines():
-            f.write('    ' + line)
+            f.write('    ' + line.strip() + '\n')
 
 
 if __name__ == "__main__":
