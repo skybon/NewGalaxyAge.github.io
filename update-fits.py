@@ -24,7 +24,7 @@ def update_fit(fit_filename, rst_filename):
 
     eft = f.read()
 
-    ship, fit_name = eft.splitlines()[0][1:-1].split(',')
+    ship, fit_name = map(str.strip, eft.splitlines()[0][1:-1].split(','))
 
     with open(rst_filename, 'w') as f:
         f.write("%s\n%s\n\n" % (fit_name, '=' * len(fit_name)))
