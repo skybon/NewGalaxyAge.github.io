@@ -27,7 +27,7 @@ def update_fit(fit_filename, rst_filename):
     ship, fit_name = eft.splitlines()[0][1:-1].split(',')
 
     with open(rst_filename, 'w') as f:
-        f.write("%s\n%s\n\n" % (ship, '=' * len(ship)))
+        f.write("%s\n%s\n\n" % (fit_name, '=' * len(fit_name)))
         f.write("`%s <javascript:CCPEVE.showFitting('%s');>`_\n\n" % (
             ship, dna
         ))
