@@ -4,37 +4,37 @@
 High slots
 ----------
 
-- Mega Pulse Laser II
-- Mega Pulse Laser II
-- Mega Pulse Laser II
-- Mega Pulse Laser II
-- Mega Pulse Laser II
-- Mega Pulse Laser II
-- Mega Pulse Laser II
-- Mega Pulse Laser II
+- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
+- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
+- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
+- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
+- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
+- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
+- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
+- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
 
 Med slots
 ---------
 
-- Adaptive Invulnerability Field II
-- Adaptive Invulnerability Field II
-- Large Shield Extender II
+- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
+- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
+- `Large Shield Extender II <javascript:CCPEVE.showInfo(3841)>`_
 
 Low slots
 ---------
 
-- Capacitor Power Relay II
-- Capacitor Power Relay II
-- Capacitor Power Relay II
-- Damage Control II
-- Heat Sink II
-- Heat Sink II
-- Heat Sink II
+- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
+- `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
+- `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
+- `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
 
 Rigs
 ----
 
-- Large Energy Discharge Elutriation II
-- Large Anti-EM Screen Reinforcer II
-- Large Anti-Thermal Screen Reinforcer II
+- `Large Energy Discharge Elutriation II <javascript:CCPEVE.showInfo(26378)>`_
+- `Large Anti-EM Screen Reinforcer II <javascript:CCPEVE.showInfo(26436)>`_
+- `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
 

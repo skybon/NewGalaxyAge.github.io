@@ -59,36 +59,48 @@ def update_fit(eft_filename, rst_filename):
 
         f.write('High slots\n----------\n\n')
         for line in high_slots:
-            f.write('- %s\n' % line.strip())
+            f.write('- %s\n' % get_type_link(line.strip()))
         f.write('\n')
 
         f.write('Med slots\n---------\n\n')
         for line in med_slots:
-            f.write('- %s\n' % line.strip())
+            f.write('- %s\n' % get_type_link(line.strip()))
         f.write('\n')
 
         f.write('Low slots\n---------\n\n')
         for line in low_slots:
-            f.write('- %s\n' % line.strip())
+            f.write('- %s\n' % get_type_link(line.strip()))
         f.write('\n')
 
         if rigs:
             f.write('Rigs\n----\n\n')
             for line in rigs:
-                f.write('- %s\n' % line.strip())
+                f.write('- %s\n' % get_type_link(line.strip()))
             f.write('\n')
 
         if ammo:
             f.write('Ammo\n----\n\n')
             for line in ammo:
-                f.write('- %s\n' % line.strip())
+                f.write('- %s\n' % get_type_link(line.strip()))
             f.write('\n')
 
         if drones:
             f.write('Drones\n------\n\n')
             for line in drones:
-                f.write('- %s\n' % line.strip())
+                f.write('- %s\n' % get_type_link(line.strip()))
             f.write('\n')
+
+
+def get_type_link(t):
+    if t.lower() in ['[empty high slot]',
+                     '[empty low slot]',
+                     '[empty med slot]']:
+        return t
+    elif re.match('x\d+', t.split()[-1]) is not None and t.rsplit(' ', 1)[0] in TYPES:
+        return '`%s <javascript:CCPEVE.showInfo(%d)>`_' % (t, TYPES[t.rsplit(' ', 1)[0]])
+    elif t in TYPES:
+        return '`%s <javascript:CCPEVE.showInfo(%d)>`_' % (t, TYPES[t])
+    return t
 
 
 if __name__ == "__main__":
@@ -100,5 +112,8 @@ if __name__ == "__main__":
         m = re.match(r'^(?P<name>.*)\.eft$', fname)
         if m is not None:
             name = m.group('name')
-            update_fit(os.path.join('fits', '%s.eft' % name),
-                       os.path.join('fits', '%s.rst' % name))
+            try:
+                update_fit(os.path.join('fits', '%s.eft' % name),
+                           os.path.join('fits', '%s.rst' % name))
+            except:
+                logging.error('Problem with fit: %s', name, exc_info=True)

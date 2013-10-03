@@ -14,20 +14,20 @@ High slots
 Med slots
 ---------
 
-- Adaptive Invulnerability Field II
-- Adaptive Invulnerability Field II
-- EM Ward Amplifier II
-- Large Shield Extender II
+- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
+- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
+- `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
+- `Large Shield Extender II <javascript:CCPEVE.showInfo(3841)>`_
 
 Low slots
 ---------
 
-- Damage Control II
-- Reactor Control Unit II
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
+- `Reactor Control Unit II <javascript:CCPEVE.showInfo(1355)>`_
 
 Rigs
 ----
 
-- Medium Ancillary Current Router I
-- Medium Core Defense Field Extender I
+- `Medium Ancillary Current Router I <javascript:CCPEVE.showInfo(31360)>`_
+- `Medium Core Defense Field Extender I <javascript:CCPEVE.showInfo(31790)>`_
 

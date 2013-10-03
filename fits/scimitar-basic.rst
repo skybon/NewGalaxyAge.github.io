@@ -12,23 +12,23 @@ High slots
 Med slots
 ---------
 
-- Adaptive Invulnerability Field II
-- Adaptive Invulnerability Field II
+- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
+- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - Remote Tracking Computer II
 - Remote Tracking Computer II
-- 10MN Afterburner II
+- `10MN Afterburner II <javascript:CCPEVE.showInfo(12058)>`_
 
 Low slots
 ---------
 
-- Power Diagnostic System II
-- Capacitor Power Relay II
-- Capacitor Power Relay II
-- Capacitor Power Relay II
+- `Power Diagnostic System II <javascript:CCPEVE.showInfo(1541)>`_
+- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
 
 Rigs
 ----
 
-- Medium Ancillary Current Router II
-- Medium Capacitor Control Circuit II
+- `Medium Ancillary Current Router II <javascript:CCPEVE.showInfo(31366)>`_
+- `Medium Capacitor Control Circuit II <javascript:CCPEVE.showInfo(31378)>`_
 

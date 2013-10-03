@@ -4,52 +4,52 @@
 High slots
 ----------
 
-- 1400mm 'Scout' Artillery I
-- 1400mm 'Scout' Artillery I
-- 1400mm 'Scout' Artillery I
-- 1400mm 'Scout' Artillery I
-- 1400mm 'Scout' Artillery I
-- 1400mm 'Scout' Artillery I
-- 1400mm 'Scout' Artillery I
+- `1400mm 'Scout' Artillery I <javascript:CCPEVE.showInfo(9491)>`_
+- `1400mm 'Scout' Artillery I <javascript:CCPEVE.showInfo(9491)>`_
+- `1400mm 'Scout' Artillery I <javascript:CCPEVE.showInfo(9491)>`_
+- `1400mm 'Scout' Artillery I <javascript:CCPEVE.showInfo(9491)>`_
+- `1400mm 'Scout' Artillery I <javascript:CCPEVE.showInfo(9491)>`_
+- `1400mm 'Scout' Artillery I <javascript:CCPEVE.showInfo(9491)>`_
+- `1400mm 'Scout' Artillery I <javascript:CCPEVE.showInfo(9491)>`_
 - [Empty High slot]
 
 Med slots
 ---------
 
-- Sensor Booster II
-- Adaptive Invulnerability Field II
-- Adaptive Invulnerability Field II
-- 100MN Microwarpdrive II
-- EM Ward Amplifier II
+- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
+- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
+- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
+- `100MN Microwarpdrive II <javascript:CCPEVE.showInfo(12084)>`_
+- `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
 
 Low slots
 ---------
 
-- Damage Control II
-- Gyrostabilizer II
-- Gyrostabilizer II
-- Gyrostabilizer II
-- Gyrostabilizer II
-- Tracking Enhancer II
-- Tracking Enhancer II
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
+- `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
+- `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
+- `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
+- `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
+- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
+- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
 
 Rigs
 ----
 
-- Large Ancillary Current Router I
-- Large Anti-Thermal Screen Reinforcer II
-- Large Core Defense Field Extender II
+- `Large Ancillary Current Router I <javascript:CCPEVE.showInfo(25956)>`_
+- `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
+- `Large Core Defense Field Extender II <javascript:CCPEVE.showInfo(26448)>`_
 
 Ammo
 ----
 
-- Targeting Range Script x1
-- Nanite Repair Paste x1
-- Republic Fleet Phased Plasma L x1
+- `Targeting Range Script x1 <javascript:CCPEVE.showInfo(29009)>`_
+- `Nanite Repair Paste x1 <javascript:CCPEVE.showInfo(28668)>`_
+- `Republic Fleet Phased Plasma L x1 <javascript:CCPEVE.showInfo(21918)>`_
 
 Drones
 ------
 
-- Ogre I x4
-- Hobgoblin I x5
+- `Ogre I x4 <javascript:CCPEVE.showInfo(2444)>`_
+- `Hobgoblin I x5 <javascript:CCPEVE.showInfo(2454)>`_
 
