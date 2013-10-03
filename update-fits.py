@@ -37,7 +37,7 @@ def update_fit(eft_filename, rst_filename):
         elif re.match('x\d+', item.split()[-1]) is not None and item.rsplit(' ', 1)[0] in TYPES:
             modules[TYPES[item.rsplit(' ', 1)[0]]] = modules.get(TYPES[item.rsplit(' ', 1)[0]], 0) + int(item.split()[-1][1:])
 
-    dna = '%d:%s' % (
+    dna = '%d:%s::' % (
         TYPES[ship_name],
         ';'.join('%d:%d' % (type_id, quantity)
                  for type_id, quantity in modules.items())
