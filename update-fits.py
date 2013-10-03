@@ -7,7 +7,6 @@ import re
 from urllib import urlopen
 
 
-FITS_DIR = '/home/ei-grad/raisa/fits'
 DNA_FILENAME_RE = re.compile('^(?P<name>.*).dna$')
 DNA_RE = re.compile(r'^(?P<ship_id>\d+):(\d+;\d+:)+:$')
 SHIP_IMAGE_URL_FMT = 'http://image.eveonline.com/Render/%d_512.png'
@@ -84,10 +83,10 @@ if __name__ == "__main__":
     for i in glob('fits/*.rst'):
         logging.info('Removing %s', i)
         os.unlink(i)
-    for fit in os.listdir(FITS_DIR):
+    for fit in os.listdir('fits'):
         m = DNA_FILENAME_RE.match(fit)
         if m is not None:
             name = m.group('name')
-            update_fit(os.path.join(FITS_DIR, '%s.dna' % name),
-                       os.path.join(FITS_DIR, '%s.eft' % name),
-                       os.path.join(FITS_DIR, '%s.rst' % name))
+            update_fit(os.path.join('fits', '%s.dna' % name),
+                       os.path.join('fits', '%s.eft' % name),
+                       os.path.join('fits', '%s.rst' % name))
