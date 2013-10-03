@@ -47,6 +47,7 @@ def update_fit(dna_filename, eft_filename, rst_filename):
         low_slots = list(iter(eft_iter.next, ''))
         med_slots = list(iter(eft_iter.next, ''))
         high_slots = list(iter(eft_iter.next, ''))
+        rigs = list(iter(eft_iter.next, ''))
         ammo = list(iter(eft_iter.next, ''))
         drones = list(iter(eft_iter.next, ''))
 
@@ -64,6 +65,12 @@ def update_fit(dna_filename, eft_filename, rst_filename):
         for line in low_slots:
             f.write('- %s\n' % line.strip())
         f.write('\n')
+
+        if rigs:
+            f.write('Rigs\n----\n\n')
+            for line in rigs:
+                f.write('- %s\n' % line.strip())
+            f.write('\n')
 
         if ammo:
             f.write('Ammo\n----\n\n')
