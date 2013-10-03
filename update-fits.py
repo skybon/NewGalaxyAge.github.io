@@ -4,43 +4,49 @@ from glob import glob
 import logging
 import os
 import re
-from urllib import urlopen
+
+import ujson
 
 
-DNA_FILENAME_RE = re.compile('^(?P<name>.*).dna$')
-DNA_RE = re.compile(r'^(?P<ship_id>\d+):(\d+;\d+:)+:$')
 SHIP_IMAGE_URL_FMT = 'http://image.eveonline.com/Render/%d_512.png'
 
+TYPES = ujson.load(open('types.json'))
 
-def update_fit(dna_filename, eft_filename, rst_filename):
 
-    logging.info('Updating file (%s, %s) -> %s',
-                 dna_filename, eft_filename, rst_filename)
+def update_fit(eft_filename, rst_filename):
 
-    dna = open(dna_filename).read().strip()
-    logging.info('DNA: %s', dna)
-    dna_m = DNA_RE.match(dna)
-    assert dna_m is not None
-
-    logging.info(dna_m.groups())
+    logging.info('Updating file %s -> %s', eft_filename, rst_filename)
 
     eft = open(eft_filename).read().strip()
-    ship_raw_name, fit_name = eft.splitlines()[0].strip()[1:-1].split(',')
-    ship_norm_name = '-'.join(re.findall('[a-z0-9]+', ship_raw_name.lower()))
+    ship_name, fit_name = eft.splitlines()[0].strip()[1:-1].split(',')
+    ship_name = ship_name.strip()
     fit_name = fit_name.strip()
 
-    image_path = os.path.join('images', '%s.png' % ship_norm_name)
-    if not os.path.exists(image_path):
-        with open(image_path, 'w') as f:
-            ship_id = dna_m.group('ship_id')
-            ship_image_url = SHIP_IMAGE_URL_FMT % int(ship_id)
-            f.write(urlopen(ship_image_url).read())
+    modules = {}
+    for item in eft.splitlines()[2:]:
+        if not item:
+            continue
+        elif item.lower() in [
+            '[empty high slot]',
+            '[empty low slot]',
+            '[empty med slot]',
+        ]:
+            continue
+        elif item in TYPES:
+            modules[TYPES[item]] = modules.get(TYPES[item], 0) + 1
+        elif re.match('x\d+', item.split()[-1]) is not None and item.rsplit(' ', 1)[0] in TYPES:
+            modules[TYPES[item.rsplit(' ', 1)[0]]] = modules.get(TYPES[item.rsplit(' ', 1)[0]], 0) + int(item.split()[-1][1:])
+
+    dna = '%d:%s' % (
+        TYPES[ship_name],
+        ';'.join('%d:%d' % (type_id, quantity)
+                 for type_id, quantity in modules.items())
+    )
 
     with open(rst_filename, 'w') as f:
 
         s = "`%s <javascript:CCPEVE.showFitting('%s');>`_" % (fit_name, dna)
         f.write('%s\n%s\n\n' % (s, '=' * len(s)))
-        #f.write('.. image:: /%s\n\n' % image_path)
 
         eft_iter = iter(eft.splitlines()[2:])
 
@@ -90,10 +96,9 @@ if __name__ == "__main__":
     for i in glob('fits/*.rst'):
         logging.info('Removing %s', i)
         os.unlink(i)
-    for fit in os.listdir('fits'):
-        m = DNA_FILENAME_RE.match(fit)
+    for fname in os.listdir('fits'):
+        m = re.match(r'^(?P<name>.*)\.eft$', fname)
         if m is not None:
             name = m.group('name')
-            update_fit(os.path.join('fits', '%s.dna' % name),
-                       os.path.join('fits', '%s.eft' % name),
+            update_fit(os.path.join('fits', '%s.eft' % name),
                        os.path.join('fits', '%s.rst' % name))
