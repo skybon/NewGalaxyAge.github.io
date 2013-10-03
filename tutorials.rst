@@ -4,4 +4,4 @@
 .. warning::
     Страница находится в разработке.
 
-Видео от Pavel Leopa: http://www.youtube.com/watch?v=wOyMuU9iH94
+Обучающее видео перед вылетом на вторжение Sansha: http://www.youtube.com/watch?v=wOyMuU9iH94
