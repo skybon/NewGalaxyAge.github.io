@@ -6,5 +6,6 @@
 
 .. toctree::
     :glob:
+    :maxdepth: 1
 
     fits/*

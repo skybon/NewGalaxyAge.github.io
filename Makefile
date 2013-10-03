@@ -5,6 +5,7 @@
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 BUILDDIR      = build
+PYTHON        = python
 
 # Internal variables.
 ALLSPHINXOPTS   = -d .doctrees $(SPHINXOPTS) .
@@ -12,7 +13,7 @@ ALLSPHINXOPTS   = -d .doctrees $(SPHINXOPTS) .
 .PHONY: clean html deploy
 
 html:
-	python update-fits.py
+	$(PYTHON) update-fits.py
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/
 	touch $(BUILDDIR)/.nojekyll
 	@echo
