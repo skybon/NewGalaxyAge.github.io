@@ -25,10 +25,16 @@ Low slots
 - Tracking Enhancer II
 - Tracking Enhancer II
 
-Ammo
+Rigs
 ----
 
 - Large Ancillary Current Router I
 - Large Anti-Thermal Screen Reinforcer II
 - Large Core Defense Field Extender II
+
+Drones
+------
+
+- Ogre I x4
+- Hobgoblin I x5
 

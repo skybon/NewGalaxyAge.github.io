@@ -26,7 +26,7 @@ Low slots
 - Capacitor Power Relay II
 - Capacitor Power Relay II
 
-Ammo
+Rigs
 ----
 
 - Medium Ancillary Current Router II

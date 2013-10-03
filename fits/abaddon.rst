@@ -31,7 +31,7 @@ Low slots
 - Heat Sink II
 - Heat Sink II
 
-Ammo
+Rigs
 ----
 
 - Large Energy Discharge Elutriation II

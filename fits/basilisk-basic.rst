@@ -25,7 +25,7 @@ Low slots
 - Damage Control II
 - Reactor Control Unit II
 
-Ammo
+Rigs
 ----
 
 - Medium Ancillary Current Router I
