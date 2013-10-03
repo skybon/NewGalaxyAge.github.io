@@ -39,7 +39,7 @@ def update_fit(eft_filename, rst_filename):
 
     dna = '%d:%s::' % (
         TYPES[ship_name],
-        ';'.join('%d:%d' % (type_id, quantity)
+        ':'.join('%d;%d' % (type_id, quantity)
                  for type_id, quantity in modules.items())
     )
 
