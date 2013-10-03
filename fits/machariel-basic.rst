@@ -4,6 +4,13 @@
 High slots
 ----------
 
+- 1400mm 'Scout' Artillery I
+- 1400mm 'Scout' Artillery I
+- 1400mm 'Scout' Artillery I
+- 1400mm 'Scout' Artillery I
+- 1400mm 'Scout' Artillery I
+- 1400mm 'Scout' Artillery I
+- 1400mm 'Scout' Artillery I
 - [Empty High slot]
 
 Med slots
@@ -12,6 +19,7 @@ Med slots
 - Sensor Booster II
 - Adaptive Invulnerability Field II
 - Adaptive Invulnerability Field II
+- 100MN Microwarpdrive II
 - EM Ward Amplifier II
 
 Low slots
@@ -31,6 +39,13 @@ Rigs
 - Large Ancillary Current Router I
 - Large Anti-Thermal Screen Reinforcer II
 - Large Core Defense Field Extender II
+
+Ammo
+----
+
+- Targeting Range Script x1
+- Nanite Repair Paste x1
+- Republic Fleet Phased Plasma L x1
 
 Drones
 ------
