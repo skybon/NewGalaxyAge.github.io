@@ -5,7 +5,7 @@
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 BUILDDIR      = build
-PYTHON        = python
+PYTHON        = python2
 
 # Internal variables.
 ALLSPHINXOPTS   = -d .doctrees $(SPHINXOPTS) .
@@ -23,6 +23,7 @@ submodule:
 	[ -e $(BUILDDIR)/.git ] || git submodule init && git submodule update
 
 clean:
+	cd $(BUILDDIR) && git fetch && git reset --hard origin/master
 	-rm -rf $(BUILDDIR)/*
 	-rm -rf .doctrees
 
@@ -30,7 +31,6 @@ deploy: clean html
 	cd $(BUILDDIR) && \
 		git add -A && \
 		git commit -m "Updated at `LANG=C date`" && \
-		git fetch && git rebase origin/master && \
 		git push origin master
 	git add -A && \
 		git commit -m "Updated at `LANG=C date`" && \

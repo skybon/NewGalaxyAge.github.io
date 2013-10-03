@@ -2,7 +2,7 @@
 =====================
 
 .. note::
-    Смотри рассылку RAISA Shield Fits.
+    Смотри :doc:`старые фиты <oldfits>` из рассылки RAISA Shield Fits.
 
 .. toctree::
     :glob:
