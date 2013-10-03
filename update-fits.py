@@ -5,12 +5,12 @@ import logging
 import os
 import re
 
-import ujson
+import json
 
 
 SHIP_IMAGE_URL_FMT = 'http://image.eveonline.com/Render/%d_512.png'
 
-TYPES = ujson.load(open('types.json'))
+TYPES = json.load(open('types.json'))
 
 
 def update_fit(eft_filename, rst_filename):
