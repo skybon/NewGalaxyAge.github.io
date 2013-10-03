@@ -40,7 +40,7 @@ def update_fit(dna_filename, eft_filename, rst_filename):
 
         s = "`%s <javascript:CCPEVE.showFitting('%s');>`_" % (fit_name, dna)
         f.write('%s\n%s\n\n' % (s, '=' * len(s)))
-        f.write('.. image:: /%s\n\n' % image_path)
+        #f.write('.. image:: /%s\n\n' % image_path)
 
         eft_iter = iter(eft.splitlines()[2:])
 
