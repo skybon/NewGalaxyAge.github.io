@@ -1,15 +1,15 @@
-`Basilisk Basic <javascript:CCPEVE.showFitting('11985:2048;1:31360;1:3841;1:2281;2:1355;1:31790;1:2553;1::');>`_
-================================================================================================================
+`Basilisk Basic <javascript:CCPEVE.showFitting('11985:2048;1:3841;1:16487;2:2281;2:1355;1:31790;1:3608;4:2553;1:31360;1::');>`_
+===============================================================================================================================
 
 High slots
 ----------
 
-- Large 'Regard' Remote Capacitor Transmitter
-- Large 'Regard' Remote Capacitor Transmitter
-- Large Remote Shield Booster II
-- Large Remote Shield Booster II
-- Large Remote Shield Booster II
-- Large Remote Shield Booster II
+- `Large 'Regard' Remote Capacitor Transmitter <javascript:CCPEVE.showInfo(16487)>`_
+- `Large 'Regard' Remote Capacitor Transmitter <javascript:CCPEVE.showInfo(16487)>`_
+- `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
+- `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
+- `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
+- `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
 
 Med slots
 ---------

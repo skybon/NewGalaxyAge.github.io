@@ -1,21 +1,21 @@
-`Scimitar Basic <javascript:CCPEVE.showFitting('11978:1541;1:31366;1:1447;3:2281;2:31378;1:12058;1::');>`_
-==========================================================================================================
+`Scimitar Basic <javascript:CCPEVE.showFitting('11978:1541;1:31366;1:1447;3:2281;2:3608;4:31378;1:2104;2:12058;1::');>`_
+========================================================================================================================
 
 High slots
 ----------
 
-- Large Remote Shield Booster II
-- Large Remote Shield Booster II
-- Large Remote Shield Booster II
-- Large Remote Shield Booster II
+- `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
+- `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
+- `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
+- `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
 
 Med slots
 ---------
 
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
-- Remote Tracking Computer II
-- Remote Tracking Computer II
+- `Remote Tracking Computer II <javascript:CCPEVE.showInfo(2104)>`_
+- `Remote Tracking Computer II <javascript:CCPEVE.showInfo(2104)>`_
 - `10MN Afterburner II <javascript:CCPEVE.showInfo(12058)>`_
 
 Low slots
