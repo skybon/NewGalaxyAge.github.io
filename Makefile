@@ -16,6 +16,7 @@ html:
 	$(PYTHON) update-fits.py
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/
 	touch $(BUILDDIR)/.nojekyll
+	echo "raisa.su" > $(BUILDDIR)/CNAME
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/"
 
