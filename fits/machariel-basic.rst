@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/fits/machariel-basic.eft
 .. to edit it.
 
-`Machariel Basic <javascript:CCPEVE.showFitting('17738:2048;1:1952;1:25956;1:519;4:2281;2:26442;1:2444;4:1999;2:26448;1:29009;1:9491;7:12084;1:2454;5:2553;1:28668;1:21918;1::');>`_
-====================================================================================================================================================================================
+`Machariel - бюджет <javascript:CCPEVE.showFitting('17738:2048;1:1952;1:25956;1:519;4:2281;2:26442;1:2444;4:1999;2:26448;1:29009;1:9491;7:12084;1:2454;5:2553;1:28668;1:21918;1::');>`_
+=============================================================================================================================================================================================
 
 High slots
 ----------
@@ -15,7 +15,6 @@ High slots
 - `1400mm 'Scout' Artillery I <javascript:CCPEVE.showInfo(9491)>`_
 - `1400mm 'Scout' Artillery I <javascript:CCPEVE.showInfo(9491)>`_
 - `1400mm 'Scout' Artillery I <javascript:CCPEVE.showInfo(9491)>`_
-- [Empty High slot]
 
 Med slots
 ---------
@@ -47,9 +46,9 @@ Rigs
 Ammo
 ----
 
-- `Targeting Range Script x1 <javascript:CCPEVE.showInfo(29009)>`_
-- `Nanite Repair Paste x1 <javascript:CCPEVE.showInfo(28668)>`_
 - `Republic Fleet Phased Plasma L x1 <javascript:CCPEVE.showInfo(21918)>`_
+- `Nanite Repair Paste x1 <javascript:CCPEVE.showInfo(28668)>`_
+- `Targeting Range Script x1 <javascript:CCPEVE.showInfo(29009)>`_
 
 Drones
 ------

@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/fits/basilisk-basic.eft
 .. to edit it.
 
-`Basilisk Basic <javascript:CCPEVE.showFitting('11985:2048;1:3841;1:16487;2:2281;2:1355;1:31790;1:3608;4:2553;1:31360;1::');>`_
-===============================================================================================================================
+`Basilisk - бюджет <javascript:CCPEVE.showFitting('11985:2048;1:3841;1:31360;1:16487;2:2281;2:1355;1:31790;1:3608;4:2553;1:12058;1::');>`_
+================================================================================================================================================
 
 High slots
 ----------
@@ -21,6 +21,7 @@ Med slots
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
+- `10MN Afterburner II <javascript:CCPEVE.showInfo(12058)>`_
 - `Large Shield Extender II <javascript:CCPEVE.showInfo(3841)>`_
 
 Low slots
