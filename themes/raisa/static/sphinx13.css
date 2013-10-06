@@ -69,7 +69,7 @@ body {
 
 .pageheader li a:hover {
     background-color: rgba(0, 0, 0, 0.5);
-    //color: #0a507a;
+    color: #0a507a;
     text-shadow: none;
 }
 
