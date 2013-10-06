@@ -8,6 +8,7 @@ Russian Allied Incursions: Shield and Armor
 * RAISA SRP - :doc:`страхование <srp>`
 * RAISA Shield Fits - :doc:`фиты <fits>`
 * RAISA Shield CTA - оповещения о флотах и переездах
+* RAISA Trade - купи-продай на тему вторжений
 
 Руководство канала
 ------------------
