@@ -23,10 +23,12 @@ Russian Allied Incursions: Shield and Armor
 * Dev Yakenn
 * effekt vampire
 * Eva Pride
+* Grim Altero
 * Grim Hinken
 * Kobius
 * LLAleX
 * n0th1nk
 * Nermarion
 * Pavel Leopa
+* Sanich Crackpot
 * Xilia Otsu
