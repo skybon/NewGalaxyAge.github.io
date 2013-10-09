@@ -1,5 +1,9 @@
 #!/usr/bin/env python2
 # coding: utf-8
+#
+# Скрипт генерит EFT из DNA с указанного .rst-файла.
+#
+
 
 import os
 import re
@@ -62,7 +66,7 @@ def dna2eft(name, dna):
 
     fname = '-'.join(fname.split())
 
-    with open(os.path.join('fits', fname), 'w') as f:
+    with open(os.path.join('eft', fname), 'w') as f:
         f.write((u'[%s, %s]\n\n' % (ship, name)).encode('utf-8'))
         f.write('\n\n'.join('\n'.join(group) for group in [
             low, med, high, rigs, charges, drones
@@ -74,7 +78,7 @@ if __name__ == "__main__":
     CFG = EVE.getconfigmgr()
     fits = list((i.group('name'), i.group('dna'))
                 for i in FIT_LINK_RE.finditer(
-                    open('oldfits.rst').read().decode('utf-8')
+                    open('fits.rst').read().decode('utf-8')
                 ))
     for name, dna in fits:
         dna2eft(name, dna)
