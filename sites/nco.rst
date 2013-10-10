@@ -7,19 +7,37 @@ Nation Commander Outpost
 Доп. задания:
     нет
 
-Фрегаты
--------
+Первая волна:
 
-* Sansha Nation Commander
 * Niarja Myelen
+* Tama Cerebellum
 * Schmaeel Medulla
 * Renyn Meten
+* Eystur Rhomben
+
+Вторая волна:
+
+* Niarja Myelen
 * Tama Cerebellum
 * Eystur Rhomben
 
-Крейсера
---------
+Третья волна:
 
+* Sansha Nation Commander
 * Auga Hypophysis
 * Romi Thalamus
+* Tama Cerebellum
+* Schmaeel Medulla
+* Renyn Meten
+
+Четвертая волна:
+
+* Niarja Myelen
+* Auga Hypophysis
+* Romi Thalamus
+* Tama Cerebellum
+* Schmaeel Medulla
+* Renyn Meten
+* Eystur Rhomben
+
 
