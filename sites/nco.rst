@@ -1,5 +1,5 @@
-Nation Commander Outpost
-========================
+NCO - Nation Commander Outpost
+==============================
 
 Волны:
     4
