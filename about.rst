@@ -15,7 +15,7 @@ Russian Allied Incursions: Shield and Armor
 
 * Zwo Zateki
 * Padegejas
-* Yart Skord
+* Yart Skord (Alex Amato)
 
 Список ФК канала
 ----------------
@@ -24,12 +24,12 @@ Russian Allied Incursions: Shield and Armor
 * Dev Yakenn
 * effekt vampire
 * Eva Pride
-* Grim Altero
+* Grim Altero (Mia Cloks)
 * Grim Hinken
 * Kobius
+* Lexiboth Hita
 * LLAleX
+* Mikhail MustDie
 * n0th1nk
 * Nermarion
-* Pavel Leopa
-* Sanich Crackpot
-* Xilia Otsu
+* Xilia Otsu (Korami Barbokan/Wirro Winterstorm)
