@@ -1,5 +1,5 @@
-Nation Mining Colony
-====================
+NMC - Nation Mining Colony
+==========================
 
 Необходимо:
     255 ед. руды Lyavite (можно выкопать в плексе)
