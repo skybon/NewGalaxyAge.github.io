@@ -9,7 +9,7 @@ OTA - Override Transfer Array
 
 По заходу на комплекс логист с Data analyser летить взламывать башню (по приварпу поворачивает налево 90°), после взлома башни, вокруг нее появляется зеленоватое облако. 
 На данном сайте башня является логистом.
-По заходу на сайт дронов запускают только после респа 5 Eystur Rhomben. На данном сайте Eystur Rhomben не уничтожаются
+По заходу на сайт **дронов запускают только после респа 5 Eystur Rhomben.** На данном сайте Eystur Rhomben не уничтожаются
 
 Первая волна
 ------------
@@ -34,4 +34,4 @@ OTA - Override Transfer Array
 * Auga Hypophysis
 * Deltole Tagmentum
 * Tama Cerebellum
-
+<http://games.chruker.dk/eve_online/item.php?type_id=2936> _
