@@ -34,4 +34,4 @@ OTA - Override Transfer Array
 * Auga Hypophysis
 * Deltole Tagmentum
 * Tama Cerebellum
-<http://games.chruker.dk/eve_online/item.php?type_id=2936> _
+<http://games.chruker.dk/eve_online/item.php?type_id=2936>_
