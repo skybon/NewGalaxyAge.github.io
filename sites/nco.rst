@@ -10,6 +10,7 @@ NCO - Nation Commander Outpost
 Первая волна:
 
 * Niarja Myelen
+* Romi Thalamus
 * Tama Cerebellum
 * Schmaeel Medulla
 * Renyn Meten
@@ -18,6 +19,7 @@ NCO - Nation Commander Outpost
 Вторая волна:
 
 * Niarja Myelen
+* Romi Thalamus
 * Tama Cerebellum
 * Eystur Rhomben
 
@@ -34,7 +36,6 @@ NCO - Nation Commander Outpost
 
 * Niarja Myelen
 * Auga Hypophysis
-* Romi Thalamus
 * Tama Cerebellum
 * Schmaeel Medulla
 * Renyn Meten
