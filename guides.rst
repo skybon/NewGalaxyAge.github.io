@@ -6,3 +6,4 @@
    :maxdepth: 3
 .. toctree:: npc.rst
 .. toctree:: yellowpages.rst
+   :maxdepth: 1
