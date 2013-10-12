@@ -26,6 +26,7 @@ Russian Allied Incursions: Shield and Armor
 * Eva Pride
 * Grim Altero (Mia Cloks)
 * Grim Hinken
+* Djokart
 * Kobius
 * Lexiboth Hita
 * LLAleX
