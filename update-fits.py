@@ -109,7 +109,7 @@ def get_type_link(t):
 
 if __name__ == "__main__":
     logging.basicConfig(format="%(message)s", level=logging.DEBUG)
-    for i in glob('eft/*.rst'):
+    for i in glob('fit/*.rst'):
         logging.info('Removing %s', i)
         os.unlink(i)
     for fname in os.listdir('eft'):
@@ -118,6 +118,6 @@ if __name__ == "__main__":
             name = m.group('name')
             try:
                 update_fit(os.path.join('eft', '%s.eft' % name),
-                           os.path.join('eft', '%s.rst' % name))
+                           os.path.join('fit', '%s.rst' % name))
             except:
                 logging.error('Problem with fit: %s', name, exc_info=True)
