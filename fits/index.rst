@@ -1,8 +1,7 @@
 Фиты
 ====
 
-.. toctree:
-  :maxdepth: 1
+.. toctree::
 
   vg
   as
