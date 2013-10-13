@@ -7,29 +7,35 @@ OCF - Overwhelmed Civilian Facility
 В каждой волне с последнего уничтоженного Romi Thalamus выпадает конт с 15 человечками. Назначенный пилот собирает конты, когда соберет 40 человечков, то по уничтожению последней волны данный конт ложиться во фрейтер, после этого сайт считаеться законченым
 
 
-=Первая волна:=
-Deltole Tagmentum 
-Romi Thalamus
-Renyn Meten
+Первая волна
+------------
 
-=Вторая волна:=
+* Deltole Tagmentum 
+* Romi Thalamus
+* Renyn Meten
 
-Deltole Tagmentum
-Romi Thalamus
-Schmaeel Medulla
-Renyn Meten
+Вторая волна
+------------
 
-=Третья волна:= 
+* Deltole Tagmentum
+* Romi Thalamus
+* Schmaeel Medulla
+* Renyn Meten
 
-Auga Hypophysis
-Deltole Tagmentum
-=Outuni mesen отмечаеться тагом А и бьеться при подходе на 60 км=
-Romi Thalamus
-Renyn Meten
+Третья волна
+------------
 
-=Четвертая волна:= 
-Auga Hypophysis
-Deltole Tagmentum
-Romi Thalamus
-Schmaeel Medulla
-Renyn Meten
+* Auga Hypophysis
+* Deltole Tagmentum
+* Outuni mesen **отмечаеться тагом А и бьеться при подходе на 60 км**
+* Romi Thalamus
+* Renyn Meten
+
+Четвертая волна
+---------------
+
+* Auga Hypophysis
+* Deltole Tagmentum
+* Romi Thalamus
+* Schmaeel Medulla
+* Renyn Meten
