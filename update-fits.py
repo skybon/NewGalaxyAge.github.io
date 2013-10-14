@@ -109,15 +109,26 @@ def get_type_link(t):
 
 if __name__ == "__main__":
     logging.basicConfig(format="%(message)s", level=logging.DEBUG)
-    for i in glob('fit/*.rst'):
-        logging.info('Removing %s', i)
-        os.unlink(i)
-    for fname in os.listdir('eft'):
-        m = re.match(r'^(?P<name>.*)\.eft$', fname)
-        if m is not None:
-            name = m.group('name')
-            try:
-                update_fit(os.path.join('eft', '%s.eft' % name),
-                           os.path.join('fit', '%s.rst' % name))
-            except:
-                logging.error('Problem with fit: %s', name, exc_info=True)
+    for root, subdirs, files in list(os.walk('fit'))[::-1]:
+        for i in files:
+            logging.info('Removing %s', i)
+            os.unlink(os.path.join(root, i))
+        for i in subdirs:
+            logging.info('Removing directory %s', i)
+            os.rmdir(os.path.join(root, i))
+    for root, subdirs, files in os.walk('eft'):
+        if os.path.sep in root:
+            dirname = os.path.join('fit', root.split(os.path.sep, 1)[1])
+        else:
+            dirname = 'fit'
+        for fname in files:
+            m = re.match(r'^(?P<name>.*)\.eft$', fname)
+            if m is not None:
+                name = m.group('name')
+                try:
+                    update_fit(os.path.join(root, '%s.eft' % name),
+                               os.path.join(dirname, '%s.rst' % name))
+                except:
+                    logging.error('Problem with fit: %s', name, exc_info=True)
+        for subdir in subdirs:
+            os.mkdir(os.path.join(dirname, subdir))

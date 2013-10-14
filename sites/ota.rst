@@ -19,7 +19,7 @@ OTA - Override Transfer Array
 * Deltole Tagmentum
 * Tama Cerebellum
 
-Вторая волна:
+Вторая волна
 ------------
 
 * Niarja Myelen
@@ -27,7 +27,7 @@ OTA - Override Transfer Array
 * Deltole Tagmentum
 * Tama Cerebellum
 
-Третья волна:
+Третья волна
 ------------
 
 * Niarja Myelen
