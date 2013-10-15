@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'RAISA Shield'
+project = u'RAISA'
 copyright = u'2013, Russian Allied Incursions: Shield and Armor'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -103,7 +103,7 @@ html_theme_path = ['themes']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = u"Канал RAISA Shield"
+html_title = u"Канал RAISA"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 html_short_title = "RAISA"
@@ -164,7 +164,7 @@ html_show_sphinx = False
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'RAISAShielddoc'
+htmlhelp_basename = 'RAISAdoc'
 
 html_copy_source = False
 
@@ -184,8 +184,8 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'RAISAShield.tex', u'RAISA Shield Documentation',
-   u'RAISA Shield', 'manual'),
+  ('index', 'RAISA.tex', u'RAISA Documentation',
+   u'RAISA', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -214,8 +214,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'raisashield', u'RAISA Shield Documentation',
-     [u'RAISA Shield'], 1)
+    ('index', 'raisa', u'RAISA Documentation',
+     [u'RAISA'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -228,8 +228,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'RAISAShield', u'RAISA Shield Documentation',
-   u'RAISA Shield', 'RAISAShield', 'One line description of project.',
+  ('index', 'RAISA', u'RAISA  Documentation',
+   u'RAISA', 'RAISA', 'One line description of project.',
    'Miscellaneous'),
 ]
 
