@@ -2,7 +2,7 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/rokh.eft
 .. to edit it.
 
-`Rokh - 40 <javascript:CCPEVE.showFitting('24688:2048;1:3841;1:12803;1:23045;1:1447;1:26088;2:2281;2:12807;1:21740;1:10190;2:1999;1:2032;1:3090;8:12084;1:2456;10:19215;1:25948;1::');>`_
+`Rokh - 40 <javascript:CCPEVE.showFitting('24688:2048;1:3841;1:12803;1:1447;1:26088;2:2281;2:12807;1:10190;2:1999;1:2032;1:22993;1:3090;8:12084;1:22999;1:2456;10:19215;1:25948;1::');>`_
 =========================================================================================================================================================================================
 
 High slots
@@ -46,10 +46,10 @@ Rigs
 Ammo
 ----
 
-- `Caldari Navy Thorium Charge L x1 <javascript:CCPEVE.showInfo(23045)>`_
+- `Federation Navy Thorium Charge L x1 <javascript:CCPEVE.showInfo(22999)>`_
 - `Spike L x1 <javascript:CCPEVE.showInfo(12807)>`_
 - `Javelin L x1 <javascript:CCPEVE.showInfo(12803)>`_
-- `Caldari Navy Antimatter Charge L x1 <javascript:CCPEVE.showInfo(21740)>`_
+- `Federation Navy Antimatter Charge L x1 <javascript:CCPEVE.showInfo(22993)>`_
 
 Drones
 ------

@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/vindicator-basic.eft
 .. to edit it.
 
-`Vindicator - 40 - бюджет <javascript:CCPEVE.showFitting('17740:2048;1:1952;1:26404;1:7783;8:2281;2:26442;1:2444;4:10190;4:1999;2:26448;1:22993;1:29011;1:12084;1:2454;5:23001;1:2553;1:28668;1::');>`_
-=============================================================================================================================================================================================================
+`Vindicator - 40 - бюджет <javascript:CCPEVE.showFitting('17740:2048;1:1952;1:26404;1:7783;8:2281;2:26442;1:2444;4:10190;4:1999;2:26448;1:22993;10000:29011;1:12084;1:2454;5:23001;3200:2553;1:28668;1000::');>`_
+=======================================================================================================================================================================================================================
 
 High slots
 ----------
@@ -47,10 +47,10 @@ Rigs
 Ammo
 ----
 
-- `Nanite Repair Paste x1 <javascript:CCPEVE.showInfo(28668)>`_
-- `Federation Navy Antimatter Charge L x1 <javascript:CCPEVE.showInfo(22993)>`_
+- `Nanite Repair Paste x1000 <javascript:CCPEVE.showInfo(28668)>`_
+- `Federation Navy Antimatter Charge L x10000 <javascript:CCPEVE.showInfo(22993)>`_
 - `Scan Resolution Script x1 <javascript:CCPEVE.showInfo(29011)>`_
-- `Federation Navy Lead Charge L x1 <javascript:CCPEVE.showInfo(23001)>`_
+- `Federation Navy Lead Charge L x3200 <javascript:CCPEVE.showInfo(23001)>`_
 
 Drones
 ------

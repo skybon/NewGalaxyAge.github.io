@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/tengu.eft
 .. to edit it.
 
-`Tengu - 40 <javascript:CCPEVE.showFitting('29984:2048;1:31616;1:19814;2:2281;2:2410;6:22291;3:31606;1:31736;1:2553;1:12058;1::');>`_
-=====================================================================================================================================
+`Tengu - 40 <javascript:CCPEVE.showFitting('29984:2048;1:31616;1:19814;2:2281;2:2410;6:27441;2000:22291;3:31606;1:31736;1:2553;1:12058;1::');>`_
+================================================================================================================================================
 
 High slots
 ----------
@@ -39,4 +39,9 @@ Rigs
 - `Medium Rocket Fuel Cache Partition II <javascript:CCPEVE.showInfo(31616)>`_
 - `Medium Hydraulic Bay Thrusters II <javascript:CCPEVE.showInfo(31606)>`_
 - `Medium Anti-Explosive Screen Reinforcer II <javascript:CCPEVE.showInfo(31736)>`_
+
+Ammo
+----
+
+- `Caldari Navy Scourge Heavy Missile x2000 <javascript:CCPEVE.showInfo(27441)>`_
 

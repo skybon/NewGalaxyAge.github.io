@@ -2,7 +2,7 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/machariel-advanced.eft
 .. to edit it.
 
-`Machariel - 40 - ветеран <javascript:CCPEVE.showFitting('17738:2048;1:17520;1:19359;1:29009;1:28668;1:26442;1:2446;4:15792;1:2961;7:29001;1:21918;1:12761;1:2456;5:25956;1:26448;1:4347;1:24348;1:15965;2:15806;4:19231;1::');>`_
+`Machariel - 40 - ветеран <javascript:CCPEVE.showFitting('17738:2048;1:17520;1:19359;1:29009;1:28668;1:26442;1:2446;4:15792;1:2961;7:29011;1:21918;1:12761;1:2456;5:25956;1:26448;1:4347;1:24348;1:15965;2:15806;4:19231;1::');>`_
 =========================================================================================================================================================================================================================================
 
 High slots
@@ -50,7 +50,7 @@ Ammo
 - `Quake L x1 <javascript:CCPEVE.showInfo(12761)>`_
 - `Republic Fleet Phased Plasma L x1 <javascript:CCPEVE.showInfo(21918)>`_
 - `Nanite Repair Paste x1 <javascript:CCPEVE.showInfo(28668)>`_
-- `Tracking Speed Script x1 <javascript:CCPEVE.showInfo(29001)>`_
+- `Scan Resolution Script x1 <javascript:CCPEVE.showInfo(29011)>`_
 - `Targeting Range Script x1 <javascript:CCPEVE.showInfo(29009)>`_
 
 Drones

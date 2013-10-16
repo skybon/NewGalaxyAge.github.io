@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/vindicator-standard.eft
 .. to edit it.
 
-`Vindicator - 40 - средний <javascript:CCPEVE.showFitting('17740:2048;1:1952;1:26404;1:29001;1:26442;1:12791;1:19341;1:2446;4:1999;2:26448;1:2456;5:3186;8:29011;1:15895;4:12787;1:1978;1:19215;1:28668;1:4349;1::');>`_
-===============================================================================================================================================================================================================================
+`Vindicator - 40 - средний <javascript:CCPEVE.showFitting('17740:2048;1:1952;1:26404;1:26442;1:12791;3200:19341;1:2446;4:1999;2:26448;1:2456;5:3186;8:29011;1:15895;4:12787;10000:1978;1:19215;1:28668;1000:4349;1::');>`_
+=================================================================================================================================================================================================================================
 
 High slots
 ----------
@@ -47,11 +47,10 @@ Rigs
 Ammo
 ----
 
-- `Nanite Repair Paste x1 <javascript:CCPEVE.showInfo(28668)>`_
+- `Nanite Repair Paste x1000 <javascript:CCPEVE.showInfo(28668)>`_
 - `Scan Resolution Script x1 <javascript:CCPEVE.showInfo(29011)>`_
-- `Tracking Speed Script x1 <javascript:CCPEVE.showInfo(29001)>`_
-- `Void L x1 <javascript:CCPEVE.showInfo(12791)>`_
-- `Null L x1 <javascript:CCPEVE.showInfo(12787)>`_
+- `Void L x3200 <javascript:CCPEVE.showInfo(12791)>`_
+- `Null L x10000 <javascript:CCPEVE.showInfo(12787)>`_
 
 Drones
 ------
