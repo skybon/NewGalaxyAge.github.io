@@ -29,6 +29,10 @@ body {
     max-width: 1080px;
 }
 
+em {
+    font-style: normal;
+}
+
 .pageheader {
     background-image: url(headerbg.jpg);
     text-align: left;
