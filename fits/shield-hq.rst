@@ -7,46 +7,46 @@
 
     Чем больше звёзд перед фитом, тем больше вам рады во флоте.
 
-\*\*\*\*\* Basilisk ( `бюджет </shield/hq/basilisk-basic>`_ | `средний </shield/hq/basilisk-standard>`_ | `ветеран </shield/hq/basilisk-advanced>`_ )
+\*\*\*\*\* Basilisk ( `бюджет <fit/shield/hq/basilisk-basic>`_ | `средний <fit/shield/hq/basilisk-standard>`_ | `ветеран <fit/shield/hq/basilisk-advanced>`_ )
 
-\*\*\*\*\* Scimitar ( `бюджет </shield/hq/scimitar-basic>`_ | `средний </shield/hq/scimitar-standard>`_ | `ветеран </shield/hq/scimitar-advanced>`_ )
+\*\*\*\*\* Scimitar ( `бюджет <fit/shield/hq/scimitar-basic>`_ | `средний <fit/shield/hq/scimitar-standard>`_ | `ветеран <fit/shield/hq/scimitar-advanced>`_ )
 
-\*\*\*\*\* Machariel ( `бюджет </shield/hq/machariel-basic>`_ | `средний </shield/hq/machariel-standard>`_ | `ветеран </shield/hq/machariel-advanced>`_ )
+\*\*\*\*\* Machariel ( `бюджет <fit/shield/hq/machariel-basic>`_ | `средний <fit/shield/hq/machariel-standard>`_ | `ветеран <fit/shield/hq/machariel-advanced>`_ )
 
-\*\*\*\*\* Nightmare ( `бюджет </shield/hq/nightmare-basic>`_ | `средний </shield/hq/nightmare-standard>`_ | `ветеран </shield/hq/nightmare-advanced>`_ )
+\*\*\*\*\* Nightmare ( `бюджет <fit/shield/hq/nightmare-basic>`_ | `средний <fit/shield/hq/nightmare-standard>`_ | `ветеран <fit/shield/hq/nightmare-advanced>`_ )
 
-\*\*\*\*\* Vindicator ( `бюджет </shield/hq/vindicator-basic>`_ | `средний </shield/hq/vindicator-standard>`_ | `ветеран </shield/hq/vindicator-advanced>`_ )
+\*\*\*\*\* Vindicator ( `бюджет <fit/shield/hq/vindicator-basic>`_ | `средний <fit/shield/hq/vindicator-standard>`_ | `ветеран <fit/shield/hq/vindicator-advanced>`_ )
 
-\*\*\*\* Loki ( `бюджет </shield/hq/loki-basic>`_ | `средний </shield/hq/loki-standard>`_ | `ветеран </shield/hq/loki-advanced>`_ )
+\*\*\*\* Loki ( `бюджет <fit/shield/hq/loki-basic>`_ | `средний <fit/shield/hq/loki-standard>`_ | `ветеран <fit/shield/hq/loki-advanced>`_ )
 
-\*\*\* `Tengu </shield/hq/tengu>`_
+\*\*\* `Tengu <fit/shield/hq/tengu>`_
 
-\* `Drake </shield/hq/drake>`_
+\* `Drake <fit/shield/hq/drake>`_
 
-\*\*\* `Rattlesnake </shield/hq/rattlesnake>`_
+\*\*\* `Rattlesnake <fit/shield/hq/rattlesnake>`_
 
-\*\* `Abaddon </shield/hq/abaddon>`_
+\*\* `Abaddon <fit/shield/hq/abaddon>`_
 
-\* `Apocalypse Navy Issue </shield/hq/apocalypse-navy-issue>`_
+\* `Apocalypse Navy Issue <fit/shield/hq/apocalypse-navy-issue>`_
 
-\*\* `Armageddon Navy Issue </shield/hq/armageddon-navy-issue>`_
+\*\* `Armageddon Navy Issue <fit/shield/hq/armageddon-navy-issue>`_
 
-\*\* `Raven Navy Issue </shield/hq/raven-navy-issue>`_
+\*\* `Raven Navy Issue <fit/shield/hq/raven-navy-issue>`_
 
-\*\*\* `Rokh </shield/hq/rokh>`_
+\*\*\* `Rokh <fit/shield/hq/rokh>`_
 
-\*\* `Scorpion Navy Issue </shield/hq/scorpion-navy-issue>`_
+\*\* `Scorpion Navy Issue <fit/shield/hq/scorpion-navy-issue>`_
 
-\*\*\* `Hyperion </shield/hq/hyperion>`_
+\*\*\* `Hyperion <fit/shield/hq/hyperion>`_
 
-\*\* `Dominix Navy Issue </shield/hq/dominix-navy-issue>`_
+\*\* `Dominix Navy Issue <fit/shield/hq/dominix-navy-issue>`_
 
-\*\*\*\* `Megathron Navy Issue </shield/hq/megathron-navy-issue>`_
+\*\*\*\* `Megathron Navy Issue <fit/shield/hq/megathron-navy-issue>`_
 
-\*\*\* `Maelstrom </shield/hq/maelstrom>`_
+\*\*\* `Maelstrom <fit/shield/hq/maelstrom>`_
 
-\*\* `Tempest </shield/hq/tempest>`_
+\*\* `Tempest <fit/shield/hq/tempest>`_
 
-\*\*\* `Tempest Fleet Issue </shield/hq/tempest-fleet-issue>`_
+\*\*\* `Tempest Fleet Issue <fit/shield/hq/tempest-fleet-issue>`_
 
-\*\*\* `Vargur </shield/hq/vargur>`_
+\*\*\* `Vargur <fit/shield/hq/vargur>`_
