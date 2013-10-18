@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/rokh.eft
 .. to edit it.
 
-`Rokh - 40 <javascript:CCPEVE.showFitting('24688:2048;1:3841;1:12803;1:1447;1:26088;2:2281;2:12807;1:10190;2:1999;1:2032;1:22993;1:3090;8:12084;1:22999;1:2456;10:19215;1:25948;1::');>`_
-=========================================================================================================================================================================================
+`Rokh - 40 <javascript:CCPEVE.showFitting('24688:2048;1:1952;1:12803;1:1447;1:26088;1:2281;2:26442;1:12807;1:10190;2:1999;1:2032;1:22993;1:3090;8:12084;1:22999;1:2456;10:19215;1:25948;1::');>`_
+=================================================================================================================================================================================================
 
 High slots
 ----------
@@ -20,7 +20,7 @@ High slots
 Med slots
 ---------
 
-- `Large Shield Extender II <javascript:CCPEVE.showInfo(3841)>`_
+- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Cap Recharger II <javascript:CCPEVE.showInfo(2032)>`_
@@ -39,7 +39,7 @@ Low slots
 Rigs
 ----
 
-- `Large Core Defense Field Extender I <javascript:CCPEVE.showInfo(26088)>`_
+- `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
 - `Large Core Defense Field Extender I <javascript:CCPEVE.showInfo(26088)>`_
 - `Large Capacitor Control Circuit I <javascript:CCPEVE.showInfo(25948)>`_
 
