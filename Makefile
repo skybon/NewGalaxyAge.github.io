@@ -14,6 +14,7 @@ ALLSPHINXOPTS   = -d .doctrees $(SPHINXOPTS) .
 
 html:
 	$(PYTHON) update-fits.py
+	$(PYTHON) wallet.py
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/
 	touch $(BUILDDIR)/.nojekyll
 	echo "raisa.su" > $(BUILDDIR)/CNAME
