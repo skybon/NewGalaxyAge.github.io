@@ -1,0 +1,21 @@
+TPPH - True Power Provisional Headquarter
+=========================================
+
+Доп. задания:
+    Нет
+
+Первый карман
+-------------
+
+По заходу на комплекс поворот на лево, на 90 градусов и топим до следуйщего гейта на МВД (3-4 цикла).
+
+* Auga Hypophysis
+* Outuni Mesen
+* Vylade Deen
+* Ostingele Tectum
+* Schmaeel Medulla
+* Renyn Meten
+
+Второй карман
+-------------
+
