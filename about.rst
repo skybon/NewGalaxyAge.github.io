@@ -20,9 +20,7 @@ Russian Allied Incursions: Shield and Armor
 Список ФК канала
 ----------------
 
-* Art Nask
 * Dev Yakenn
-* effekt vampire
 * Eva Pride
 * Grim Altero (Mia Cloks)
 * Grim Hinken
@@ -31,6 +29,5 @@ Russian Allied Incursions: Shield and Armor
 * Lexiboth Hita
 * LLAleX
 * Mikhail MustDie
-* n0th1nk
 * Nermarion
 * Xilia Otsu (Korami Barbokan/Wirro Winterstorm)
