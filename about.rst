@@ -20,6 +20,7 @@ Russian Allied Incursions: Shield and Armor
 Список ФК канала
 ----------------
 
+* Cloned S0ul
 * Dev Yakenn
 * Eva Pride
 * Grim Altero (Mia Cloks)
