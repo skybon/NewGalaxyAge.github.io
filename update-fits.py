@@ -1,6 +1,6 @@
 #!/usr/bin/env python2
+# coding: utf-8
 
-from glob import glob
 import logging
 import os
 import re
@@ -51,6 +51,8 @@ def update_fit(eft_filename, rst_filename):
 
         s = "`%s <javascript:CCPEVE.showFitting('%s');>`_" % (fit_name, dna)
         f.write('%s\n%s\n\n' % (s, '=' * len(s)))
+
+        f.write('*(кликните по заголовку чтобы открыть фит в Eve)*\n\n')
 
         eft_iter = iter(eft.splitlines()[2:])
 
