@@ -29,4 +29,4 @@ Russian Allied Incursions: Shield and Armor
 * LLAleX
 * Mikhail MustDie
 * Nermarion
-* Xilia Otsu (Korami Barbokan/Wirro Winterstorm)
+* Xilia Otsu (Korami Barbokan)
