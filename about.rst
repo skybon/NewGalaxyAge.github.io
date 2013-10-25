@@ -15,7 +15,14 @@ Russian Allied Incursions: Shield and Armor
 * Padegejas
 * Yart Skord (Alex Amato)
 
-Список ФК канала
+Cтаршие ФК канала
+------------------------
+
+Обладает полномочиями зам. руководства
+
+* Pavel Leopa
+
+ФК канала
 ----------------
 
 * Cloned S0ul
