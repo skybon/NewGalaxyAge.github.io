@@ -22,10 +22,12 @@ TPPH - True Power Provisional Headquarters
 Все корабли топят вперёд до следующей вилки. Артовые корабли сначала делают выстрел по Mara Paleo и потом летят вперёд.
 
 Снайпера:
+
 * Mara Paleo
 * Antem Neo
 
 Ближние ДД:
+
 * Auga Hypophysis
 * Deltole Tegmentum
 * Romi Thalamus
