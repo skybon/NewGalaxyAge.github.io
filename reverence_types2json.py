@@ -1,6 +1,5 @@
 #!/usr/bin/env python2
 
-import sys
 import json
 from collections import OrderedDict
 
@@ -26,6 +25,8 @@ def get_slot(t):
         return 'charge'
     elif category == 'Ship':
         return 'ship'
+    elif category == 'Subsystem':
+        return 'sybsystem'
 
 
 def get_json(*args, **kwargs):

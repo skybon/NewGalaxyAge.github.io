@@ -10,7 +10,9 @@ import json
 
 SHIP_IMAGE_URL_FMT = 'http://image.eveonline.com/Render/%d_512.png'
 
-TYPES = json.load(open('types.json'))
+_types_by_name = json.load(open('types_by_name.json')).items()
+
+TYPES = dict((k, v['id']) for k, v in _types_by_name)
 
 
 def update_fit(eft_filename, rst_filename):
