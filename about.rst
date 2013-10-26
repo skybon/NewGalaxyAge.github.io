@@ -4,17 +4,17 @@ Russian Allied Incursions: Shield and Armor
 Рассылки
 --------
 
-Рассылки Shield-формата:
+Shield-формат:
 
 * RAISA Shield - новости канала RAISA Shield
 * RAISA Shield CTA - оповещения о сборе флота и переездах
 
-Рассылки Armor-формата:
+Armor-формат:
 
 * RAISA Armor - новости канала RAISA Armor
 * RAISA Armor CTA - оповещения о сборе флота и переездах
 
-Общая рассылка:
+Общие рассылки:
 
 * RAISA Trade - купи-продай на тему вторжений
 
