@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/armor/vg/megathron.eft
 .. to edit it.
 
-`Megathron <javascript:CCPEVE.showFitting('641:2048;1:20353;1:2185;5:17559;2:26290;1:15792;1:3186;7:19347;1:18708;2:15895;3:2488;5:26292;1:26364;1:18813;1::');>`_
-==================================================================================================================================================================
+`Megathron <javascript:CCPEVE.showFitting('641:2048;1:20353;1:1952;1:2185;5:17559;2:26290;1:15792;1:3186;7:18708;2:15895;3:2488;5:26292;1:26364;1:18813;1::');>`_
+=================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -22,7 +22,7 @@ Med slots
 ---------
 
 - `Federation Navy Tracking Computer <javascript:CCPEVE.showInfo(15792)>`_
-- `Gist B-Type 100MN Microwarpdrive <javascript:CCPEVE.showInfo(19347)>`_
+- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 - `Federation Navy Stasis Webifier <javascript:CCPEVE.showInfo(17559)>`_
 - `Federation Navy Stasis Webifier <javascript:CCPEVE.showInfo(17559)>`_
 
