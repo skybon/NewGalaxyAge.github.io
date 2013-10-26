@@ -5,5 +5,7 @@
 .. toctree:: sites/index.rst
    :maxdepth: 3
 .. toctree:: npc.rst
+.. toctree:: ddd.rst
+   :maxdepth: 1
 .. toctree:: yellowpages.rst
    :maxdepth: 1
