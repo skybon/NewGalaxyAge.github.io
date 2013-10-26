@@ -23,8 +23,8 @@ NRF - Nation Rebirth facility
 
 Снайп цели:
 
-Antem Neo
-Yulai Crus Cerebi
+* Antem Neo
+* Yulai Crus Cerebi
 
 Клоз цели:
 
