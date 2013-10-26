@@ -41,7 +41,7 @@ TPPH - True Power Provisional Headquarters
 1-ая волна:
 
 * Mara Paleo
-* Ostingele Tectum (последнего следует пометить тагом J т.к. он тригер для следующей волны)
+* Ostingele Tectum (последнего следует пометить тагом "J" т.к. он тригер для следующей волны)
 * Romi Thalamus
 * Tama Cerebellum
 * Schmaeel Medulla
@@ -51,7 +51,7 @@ TPPH - True Power Provisional Headquarters
 
 * Deltole Tegmentum
 * Intaki Colliculus
-* Ostingele Tectum (последнего следует пометить тагом J т.к. он тригер для следующей волны)
+* Ostingele Tectum (последнего следует пометить тагом "J" т.к. он тригер для следующей волны)
 * Romi Thalamus
 * Tama Cerebellum
 * Schmaeel Medulla
