@@ -23,7 +23,7 @@ TCRC - True Creations Research Center
 
 Когда башня уничтожена, перед отварпом уничтожаются шипы с поинтами:
 
-*Auga Hypophysis 
+* Auga Hypophysis 
 * Deltole Tegmentum ( в случае ихи респа)
 * Schmaeel Medulla
 
