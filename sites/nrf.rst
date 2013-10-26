@@ -40,8 +40,8 @@ NRF - Nation Rebirth facility
 
 Снайп цели:
 
-Antem Neo
-Yulai Crus Cerebi
+* Antem Neo
+* Yulai Crus Cerebi
 
 Клоз цели:
 
@@ -59,8 +59,8 @@ Outuni Mesen (Общая цель для всех) После уничтожен
 
 Снайп цели:
 
-Antem Neo
-Yulai Crus Cerebi
+* Antem Neo
+* Yulai Crus Cerebi
 
 Клоз цели:
 
