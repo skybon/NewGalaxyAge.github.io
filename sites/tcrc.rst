@@ -10,7 +10,18 @@ TCRC - True Creations Research Center
 *НЕ ЗАБЫВАЕМ ОТЖИМАТЬ БРОДКАСТЫ ЕСЛИ ВАС НЕ БЬЮТ*
 
 
-По заходу на сайт, ждем респа Outuni Mesen, после их отстрела флот двигается на МВД к Sansha battletower на оптимал, при этом клозы отстреливают клозовый цели по тагам, снайпы отстреливают снайповые цели.
+По заходу на сайт, ждем респа Outuni Mesen, после их отстрела флот двигается на МВД к Sansha battletower на оптимал.
+
+Общие цели:
+
+* Deltole Tegmentum
+* Ostingele Tectum (цель отмеченная тагом "J" не уничтожаеться т.к. является тригером)
+
+Снайп цели:
+
+
+* Yulai Crus Cerebi
+
 
 MTAC-P и MTAC-D двигаются на свои позиции. MTAC-P двигается к Concord MTAC factory, MTAC-D двигается к  Shield Transfer Control Tower.
 
