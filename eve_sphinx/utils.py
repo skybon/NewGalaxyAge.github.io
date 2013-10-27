@@ -5,6 +5,12 @@ import re
 
 import json
 
+import os
+
+from pprint import pprint
+
+pprint(os.environ)
+
 
 TYPES_BY_ID = json.load(open('types_by_id.json'))
 TYPES_BY_NAME = json.load(open('types_by_name.json'))
