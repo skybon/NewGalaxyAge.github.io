@@ -1,4 +1,9 @@
+from docutils import nodes
 from sphinx.util.compat import Directive
+
+
+class eft(nodes.General, nodes.Element):
+    pass
 
 
 class EFT(Directive):
@@ -10,4 +15,7 @@ class EFT(Directive):
     option_spec = {}
 
     def run(self):
-        pass
+        node = eft()
+        node['eft'] = '\n'.join(self.content)
+        node['dna'] = eft2dna(node['eft'])
+        return [node]

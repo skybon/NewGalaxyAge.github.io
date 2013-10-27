@@ -1,5 +1,6 @@
 #!/usr/bin/env python2
 
+import os
 import json
 from collections import OrderedDict
 
@@ -46,7 +47,9 @@ def get_json(*args, **kwargs):
 
 
 if __name__ == "__main__":
-    EVE = blue.EVE('/home/ei-grad/.wine/drive_c/Program Files (x86)/CCP/EVE')
+    EVE = blue.EVE(os.path.expanduser(
+        '~/.wine/drive_c/Program Files (x86)/CCP/EVE'
+    ))
     CFG = EVE.getconfigmgr()
     types_by_name, types_by_id = get_json(indent=4)
     with open('types_by_name.json', 'w') as f:
