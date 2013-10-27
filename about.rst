@@ -23,7 +23,15 @@ Armor-формат:
 
 * Zwo Zateki
 * Padegejas
-* Yart Skord (Alex Amato)
+* Yart Skord / Alex Amato
+
+Дипломатический корпус
+----------------------
+
+* Zwo Zateki
+* Padegejas
+* Grim Hinken
+* Xilia Otsu / Korami Barbokan / Wirro Winterstorm
 
 ФК канала RAISA Shield
 ----------------------
@@ -36,16 +44,16 @@ Armor-формат:
 
 * Cloned S0ul
 * Dev Yakenn
+* Djokart
 * Eva Pride
 * Grim Altero / Mia Cloks
 * Grim Hinken
-* Djokart
 * Kobius
 * Lexiboth Hita
 * LLAleX
 * Mikhail MustDie
 * Nermarion
-* Xilia Otsu / Korami Barbokan
+* Xilia Otsu / Korami Barbokan / Wirro Winterstorm
 
 ФК канала RAISA Armor
 ---------------------
