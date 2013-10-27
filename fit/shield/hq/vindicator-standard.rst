@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/vindicator-standard.eft
 .. to edit it.
 
-`Vindicator - 40 - средний <javascript:CCPEVE.showFitting('17740:2048;1:1952;1:26404;1:26442;1:12791;3200:19341;1:2446;4:1999;2:26448;1:2456;5:3186;8:29011;1:15895;4:12787;10000:1978;1:19215;1:28668;1000:4349;1::');>`_
-=================================================================================================================================================================================================================================
+`Vindicator - 40 - средний <javascript:CCPEVE.showFitting('17740:2048;1:26404;1:28668;1000:26442;1:12791;3200:19341;1:2446;4:19215;1:26448;1:2456;5:3186;8:29011;1:15895;4:12787;10000:1999;2:14268;2:4349;1::');>`_
+===========================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -22,9 +22,9 @@ High slots
 Med slots
 ---------
 
-- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
+- `True Sansha Stasis Webifier <javascript:CCPEVE.showInfo(14268)>`_
+- `True Sansha Stasis Webifier <javascript:CCPEVE.showInfo(14268)>`_
 - `Gist C-Type 100MN Microwarpdrive <javascript:CCPEVE.showInfo(19341)>`_
-- `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
 - `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
 - `Pithum C-Type Adaptive Invulnerability Field <javascript:CCPEVE.showInfo(4349)>`_
 

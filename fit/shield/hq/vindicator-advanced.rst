@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/vindicator-advanced.eft
 .. to edit it.
 
-`Vindicator - 40 - ветеран <javascript:CCPEVE.showFitting('17740:2048;1:26448;1:19359;1:12791;3200:26442;1:15895;4:2446;4:12787;10000:17520;1:3186;8:29011;1:17559;1:2456;5:26404;1:4347;1:28668;1000:15965;2:19231;1::');>`_
-====================================================================================================================================================================================================================================
+`Vindicator - 40 - ветеран <javascript:CCPEVE.showFitting('17740:2048;1:19359;1:28668;1000:26442;1:12791;3200:2446;4:12787;10000:26448;1:3186;8:29011;1:15895;4:2456;5:26404;1:4347;1:14268;2:15965;2:19231;1::');>`_
+============================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -22,9 +22,9 @@ High slots
 Med slots
 ---------
 
-- `Federation Navy Sensor Booster <javascript:CCPEVE.showInfo(17520)>`_
 - `Pithum A-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19231)>`_
-- `Federation Navy Stasis Webifier <javascript:CCPEVE.showInfo(17559)>`_
+- `True Sansha Stasis Webifier <javascript:CCPEVE.showInfo(14268)>`_
+- `True Sansha Stasis Webifier <javascript:CCPEVE.showInfo(14268)>`_
 - `Pithum A-Type Adaptive Invulnerability Field <javascript:CCPEVE.showInfo(4347)>`_
 - `Gist X-Type 100MN Microwarpdrive <javascript:CCPEVE.showInfo(19359)>`_
 
