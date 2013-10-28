@@ -2,7 +2,7 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/rokh.eft
 .. to edit it.
 
-`Rokh - 10 <javascript:CCPEVE.showFitting('24688:1952;1:2456;10:12803;1:12807;1:26088;1:2281;2:26442;1:10190;4:1999;1:22993;1:3090;8:22999;1:25948;1:1978;1:19215;1:14268;1::');>`_
+`Rokh - 10 <javascript:CCPEVE.showFitting('24688:1952;1:2456;10:26088;1:2281;2:26442;1:22999;1:10190;4:1999;1:22993;1:3186;8:12787;1:12791;1:25948;1:1978;1:19215;1:14268;1::');>`_
 ===================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
@@ -10,14 +10,14 @@
 High slots
 ----------
 
-- `425mm Railgun II <javascript:CCPEVE.showInfo(3090)>`_
-- `425mm Railgun II <javascript:CCPEVE.showInfo(3090)>`_
-- `425mm Railgun II <javascript:CCPEVE.showInfo(3090)>`_
-- `425mm Railgun II <javascript:CCPEVE.showInfo(3090)>`_
-- `425mm Railgun II <javascript:CCPEVE.showInfo(3090)>`_
-- `425mm Railgun II <javascript:CCPEVE.showInfo(3090)>`_
-- `425mm Railgun II <javascript:CCPEVE.showInfo(3090)>`_
-- `425mm Railgun II <javascript:CCPEVE.showInfo(3090)>`_
+- `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
+- `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
+- `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
+- `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
+- `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
+- `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
+- `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
+- `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
 
 Med slots
 ---------
@@ -48,10 +48,10 @@ Rigs
 Ammo
 ----
 
-- `Federation Navy Thorium Charge L x1 <javascript:CCPEVE.showInfo(22999)>`_
-- `Spike L x1 <javascript:CCPEVE.showInfo(12807)>`_
-- `Javelin L x1 <javascript:CCPEVE.showInfo(12803)>`_
+- `Null L x1 <javascript:CCPEVE.showInfo(12787)>`_
+- `Void L x1 <javascript:CCPEVE.showInfo(12791)>`_
 - `Federation Navy Antimatter Charge L x1 <javascript:CCPEVE.showInfo(22993)>`_
+- `Federation Navy Thorium Charge L x1 <javascript:CCPEVE.showInfo(22999)>`_
 
 Drones
 ------
