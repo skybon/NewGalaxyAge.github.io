@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/basilisk-basic.eft
 .. to edit it.
 
-`Basilisk - 40 - бюджет <javascript:CCPEVE.showFitting('11985:2048;1:3841;1:31360;1:16487;2:2281;2:1355;1:31790;1:2456;5:3608;4:2553;1:12058;1::');>`_
-============================================================================================================================================================
+`Basilisk - 40 - бюджет <javascript:CCPEVE.showFitting('11985:2048;1:3841;1:1987;1:31366;2:16487;2:2281;2:2456;5:3608;4:2553;1:12058;1::');>`_
+====================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -30,13 +30,13 @@ Low slots
 ---------
 
 - `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
-- `Reactor Control Unit II <javascript:CCPEVE.showInfo(1355)>`_
+- `Signal Amplifier II <javascript:CCPEVE.showInfo(1987)>`_
 
 Rigs
 ----
 
-- `Medium Ancillary Current Router I <javascript:CCPEVE.showInfo(31360)>`_
-- `Medium Core Defense Field Extender I <javascript:CCPEVE.showInfo(31790)>`_
+- `Medium Ancillary Current Router II <javascript:CCPEVE.showInfo(31366)>`_
+- `Medium Ancillary Current Router II <javascript:CCPEVE.showInfo(31366)>`_
 
 Ammo
 ----

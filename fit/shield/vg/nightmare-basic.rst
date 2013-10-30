@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/nightmare-basic.eft
 .. to edit it.
 
-`Nightmare - 10 - бюджет <javascript:CCPEVE.showFitting('17736:7171;4:26378;1:2444;5:3608;1:2454;5:12824;1:12828;1:1952;2:29001;2:1978;2:2364;4:23105;1:23109;1:12102;1:28999;2:23113;1:26442;1:14268;1:1999;1:29009;2:29011;2:25948;1:2281;1:2553;1:28668;1::');>`_
-==========================================================================================================================================================================================================================================================================
+`Nightmare - 10 - бюджет <javascript:CCPEVE.showFitting('17736:2048;1:7171;4:26378;1:12824;4:2454;15:3608;1:12828;4:1952;2:29001;2:1978;2:14268;1:23105;4:23109;4:12102;1:28999;2:23113;4:26442;1:1999;1:29009;2:29011;2:2364;3:25948;1:2281;1:2553;1:28668;1::');>`_
+===========================================================================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -31,7 +31,7 @@ Med slots
 Low slots
 ---------
 
-- `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
 - `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
 - `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
 - `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
@@ -52,15 +52,14 @@ Ammo
 - `Optimal Range Script x2 <javascript:CCPEVE.showInfo(28999)>`_
 - `Scan Resolution Script x2 <javascript:CCPEVE.showInfo(29011)>`_
 - `Targeting Range Script x2 <javascript:CCPEVE.showInfo(29009)>`_
-- `Aurora L x1 <javascript:CCPEVE.showInfo(12824)>`_
-- `Gleam L x1 <javascript:CCPEVE.showInfo(12828)>`_
-- `Imperial Navy Standard L x1 <javascript:CCPEVE.showInfo(23113)>`_
-- `Imperial Navy Xray L x1 <javascript:CCPEVE.showInfo(23109)>`_
-- `Imperial Navy Multifrequency L x1 <javascript:CCPEVE.showInfo(23105)>`_
+- `Aurora L x4 <javascript:CCPEVE.showInfo(12824)>`_
+- `Gleam L x4 <javascript:CCPEVE.showInfo(12828)>`_
+- `Imperial Navy Standard L x4 <javascript:CCPEVE.showInfo(23113)>`_
+- `Imperial Navy Xray L x4 <javascript:CCPEVE.showInfo(23109)>`_
+- `Imperial Navy Multifrequency L x4 <javascript:CCPEVE.showInfo(23105)>`_
 
 Drones
 ------
 
-- `Hobgoblin I x5 <javascript:CCPEVE.showInfo(2454)>`_
-- `Ogre I x5 <javascript:CCPEVE.showInfo(2444)>`_
+- `Hobgoblin I x15 <javascript:CCPEVE.showInfo(2454)>`_
 

@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/vargur.eft
 .. to edit it.
 
-`Vargur - 10 <javascript:CCPEVE.showFitting('28665:1952;1:2456;5:519;3:2281;2:26442;1:1999;2:26448;1:2929;4:3608;1:2553;1:1978;1:14268;1::');>`_
-================================================================================================================================================
+`Vargur - 10 <javascript:CCPEVE.showFitting('28665:1952;2:2456;15:12102;2:519;3:26428;1:26442;1:1999;2:2929;4:3608;1:2553;1:1978;1:14268;1:4349;1:21918;35000::');>`_
+=====================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -14,14 +14,15 @@ High slots
 - `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
 - `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
 - `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
+- `Large Remote Capacitor Transmitter II x2 <javascript:CCPEVE.showInfo(12102)>`_
 - `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
 
 Med slots
 ---------
 
 - `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
-- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
-- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
+- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
+- `Pithum C-Type Adaptive Invulnerability Field <javascript:CCPEVE.showInfo(4349)>`_
 - `True Sansha Stasis Webifier <javascript:CCPEVE.showInfo(14268)>`_
 - `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
 - `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
@@ -39,10 +40,15 @@ Rigs
 ----
 
 - `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
-- `Large Core Defense Field Extender II <javascript:CCPEVE.showInfo(26448)>`_
+- `Large Projectile Ambit Extension II <javascript:CCPEVE.showInfo(26428)>`_
 
 Ammo
 ----
 
-- `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
+- `Republic Fleet Phased Plasma L x35000 <javascript:CCPEVE.showInfo(21918)>`_
+
+Drones
+------
+
+- `Hobgoblin II x15 <javascript:CCPEVE.showInfo(2456)>`_
 

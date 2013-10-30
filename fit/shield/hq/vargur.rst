@@ -2,26 +2,29 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/vargur.eft
 .. to edit it.
 
-`Vargur - 40 <javascript:CCPEVE.showFitting('28665:2048;1:3841;1:519;3:2281;2:26442;1:1999;1:26448;1:2961;4:12084;1:2456;5:2553;1:1978;1::');>`_
-================================================================================================================================================
+`Vargur - 40 <javascript:CCPEVE.showFitting('28665:2048;1:1952;1:2456;5:12102;1:519;3:21480;1:2281;1:26442;1:1999;1:2929;4:26428;1:2185;5:3608;1:2553;1:1978;1:24348;1:4349;1:21918;35000::');>`_
+=================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
 High slots
 ----------
 
-- `1400mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2961)>`_
-- `1400mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2961)>`_
-- `1400mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2961)>`_
-- `1400mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2961)>`_
+- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
+- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
+- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
+- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
+- `Large Remote Capacitor Transmitter II <javascript:CCPEVE.showInfo(12102)>`_
+- `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
+- `Small Tractor Beam I <javascript:CCPEVE.showInfo(24348)>`_
 
 Med slots
 ---------
 
-- `Large Shield Extender II <javascript:CCPEVE.showInfo(3841)>`_
+- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
+- `Pithum C-Type Adaptive Invulnerability Field <javascript:CCPEVE.showInfo(4349)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
-- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
-- `100MN Microwarpdrive II <javascript:CCPEVE.showInfo(12084)>`_
+- `100MN Digital Booster Rockets <javascript:CCPEVE.showInfo(21480)>`_
 - `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
 - `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
 
@@ -38,10 +41,16 @@ Rigs
 ----
 
 - `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
-- `Large Core Defense Field Extender II <javascript:CCPEVE.showInfo(26448)>`_
+- `Large Projectile Ambit Extension II <javascript:CCPEVE.showInfo(26428)>`_
 
 Ammo
 ----
 
+- `Republic Fleet Phased Plasma L x35000 <javascript:CCPEVE.showInfo(21918)>`_
+
+Drones
+------
+
+- `Hammerhead II x5 <javascript:CCPEVE.showInfo(2185)>`_
 - `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 
