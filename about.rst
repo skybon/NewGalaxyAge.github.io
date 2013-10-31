@@ -31,7 +31,7 @@ Armor-формат:
 * Zwo Zateki
 * Padegejas
 * Grim Hinken
-* Xilia Otsu / Korami Barbokan / Wirro Winterstorm
+* Xilia Otsu / Korami Barbokan 
 
 ФК канала RAISA Shield
 ----------------------
@@ -53,7 +53,7 @@ Armor-формат:
 * LLAleX
 * Mikhail MustDie
 * Nermarion
-* Xilia Otsu / Korami Barbokan / Wirro Winterstorm
+* Xilia Otsu / Korami Barbokan 
 
 ФК канала RAISA Armor
 ---------------------
