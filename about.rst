@@ -58,4 +58,8 @@ Armor-формат:
 ФК канала RAISA Armor
 ---------------------
 
+* Cloned S0ul
+* Nermarion
+* Xilia Otsu / Korami Barbokan 
+
 *Список ФК канала RAISA Armor ещё не сформирован.*
