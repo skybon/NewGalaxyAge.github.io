@@ -62,4 +62,4 @@ Armor-формат:
 * Nermarion
 * Xilia Otsu / Korami Barbokan 
 
-*Список ФК канала RAISA Armor ещё не сформирован.*
+
