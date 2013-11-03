@@ -42,6 +42,7 @@ Armor-формат:
 
 ФК:
 
+* Bellatrix Atria
 * Cloned S0ul
 * Dev Yakenn
 * Djokart
@@ -60,6 +61,4 @@ Armor-формат:
 
 * Cloned S0ul
 * Nermarion
-* Xilia Otsu / Korami Barbokan 
-
-
+* Xilia Otsu / Korami Barbokan
