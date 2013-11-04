@@ -10,7 +10,7 @@
       $.getJSON('srp.json', function(data) {{
         $.plot(
           $('<div>')
-            .css('width', '800px')
+            .css('width', '588px')
             .css('height', '300px')
             .insertBefore($('#raisa-srp table')),
           [data],
