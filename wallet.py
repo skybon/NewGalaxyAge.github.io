@@ -1,6 +1,8 @@
 #!/usr/bin/env python2
 # coding: utf-8
 
+import time
+import json
 from xml.etree.ElementTree import fromstring
 from urllib import urlopen, urlencode
 from ConfigParser import RawConfigParser
@@ -73,3 +75,12 @@ if __name__ == "__main__":
 
     with open('srp_info.rst', 'w') as f:
         f.write(data)
+
+    srp_json = json.dumps([
+        (int(time.strftime('%s', time.strptime(
+            i['date'], "%Y-%m-%d %H:%M:%S"
+         ))) * 1000, float(i['balance']))
+        for i in journal
+    ]).replace('], ', '],\n ')
+    with open('srp.json', 'w') as f:
+        f.write(srp_json)

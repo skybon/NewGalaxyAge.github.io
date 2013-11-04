@@ -3,3 +3,4 @@
 .doctrees
 *.pyc
 srp_info.rst
+srp.json
