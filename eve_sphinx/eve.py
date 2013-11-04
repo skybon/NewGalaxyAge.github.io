@@ -1,7 +1,8 @@
 from docutils import nodes
 from sphinx.util.compat import Directive
 
-from .utils import eft2dna
+
+from utils import eft2dna
 
 
 class eft(nodes.General, nodes.Element):
@@ -21,8 +22,3 @@ class EFT(Directive):
         node['eft'] = '\n'.join(self.content)
         node['dna'] = eft2dna(node['eft'])
         return [node]
-
-
-def setup(app):
-    app.add_node(eft, html=(html_visit_eft, None))
-    app.add_directive('eft', EFT)
