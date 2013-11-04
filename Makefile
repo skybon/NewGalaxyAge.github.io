@@ -30,6 +30,7 @@ clean:
 	-rm -rf .doctrees
 
 deploy: clean html
+	lockfile-create --retry 1 deploy.lock
 	cd $(BUILDDIR) && \
 		git add -A && \
 		git commit -m "Updated at `LANG=C date`" && \
@@ -38,3 +39,4 @@ deploy: clean html
 		git commit -m "Updated at `LANG=C date`" && \
 		git rebase origin/source && \
 		git push origin source
+	lockfile-remove deploy.lock
