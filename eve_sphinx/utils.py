@@ -46,7 +46,7 @@ def dna2eft(name, dna):
 
 def eft2dna(eft):
     lines = eft.split('\n')
-    ship, fitname = map(str.strip, lines[0].strip('[ ]').split(','))
+    ship, fitname = map(lambda x: x.strip(), lines[0].strip('[ ]').split(','))
     return text2dna(ship, lines[1:])
 
 

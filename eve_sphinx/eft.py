@@ -23,6 +23,10 @@ class EFT(Directive):
         return [node]
 
 
+def html_visit_eft(self, node):
+    raise nodes.SkipNode
+
+
 def setup(app):
     app.add_node(eft, html=(html_visit_eft, None))
     app.add_directive('eft', EFT)
