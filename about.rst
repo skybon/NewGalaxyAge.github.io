@@ -44,6 +44,7 @@ Armor-формат:
 
 * Bellatrix Atria
 * Cloned S0ul
+* DarkMishgan
 * Dev Yakenn
 * Djokart
 * Eva Pride
