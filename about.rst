@@ -47,7 +47,6 @@ Armor-формат:
 * Bellatrix Atria
 * Cloned S0ul
 * DarkMishgan
-* Dev Yakenn
 * Djokart
 * Eva Pride
 * Grim Altero / Mia Cloks
@@ -56,7 +55,6 @@ Armor-формат:
 * Lexiboth Hita
 * LLAleX
 * Mikhail MustDie
-* Nermarion
 * Xilia Otsu / Korami Barbokan 
 
 ФК канала RAISA Armor

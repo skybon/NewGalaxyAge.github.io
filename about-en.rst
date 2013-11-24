@@ -20,11 +20,9 @@ English-speaking RAISA Shield FCs
 
 * Grim Altero / Mia Cloks
 * Grim Hinken
-* Nermarion
 * Xilia Otsu / Korami Barbokan 
 
 English-speaking RAISA Armor FCs
 ---------------------
 
-* Nermarion
 * Xilia Otsu / Korami Barbokan
