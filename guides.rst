@@ -1,7 +1,7 @@
 Руководства по вторжениям Саньши
 ================================
 
-.. toctree:: tutorials.rst
+.. toctree:: crash-course.rst
 .. toctree:: sites/index.rst
    :maxdepth: 3
 .. toctree:: npc.rst
