@@ -55,6 +55,7 @@ Armor-формат:
 * Lexiboth Hita
 * LLAleX
 * Mikhail MustDie
+* Sheryl Niome
 * Xilia Otsu / Korami Barbokan 
 
 ФК канала RAISA Armor

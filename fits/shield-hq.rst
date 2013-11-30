@@ -33,9 +33,11 @@
 
 \*\* :doc:`Raven Navy Issue </fit/shield/hq/raven-navy-issue>`
 
-\*\*\* :doc:`Rokh </fit/shield/hq/rokh>`
-
 \*\* :doc:`Scorpion Navy Issue </fit/shield/hq/scorpion-navy-issue>`
+
+\*\*\* :doc: `Golem </fit/shield/hq/golem>`
+
+\*\*\* :doc:`Rokh </fit/shield/hq/rokh>`
 
 \*\*\* :doc:`Hyperion </fit/shield/hq/hyperion>`
 
