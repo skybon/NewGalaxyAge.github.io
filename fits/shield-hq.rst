@@ -35,7 +35,7 @@
 
 \*\* :doc:`Scorpion Navy Issue </fit/shield/hq/scorpion-navy-issue>`
 
-\*\*\* :doc: `Golem </fit/shield/hq/golem>`
+\*\*\* :doc:`Golem </fit/shield/hq/golem>`
 
 \*\*\* :doc:`Rokh </fit/shield/hq/rokh>`
 

@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/armor/vg/armageddon.eft
 .. to edit it.
 
-`Armageddon <javascript:CCPEVE.showFitting('643:2048;1:20353;1:25890;1:1952;2:25892;1:11269;2:16455;1:16487;1:26380;1:3057;5:28211;5:17559;1:1978;1:2364;2:11229;1::');>`_
-==========================================================================================================================================================================
+`Armageddon - армор - 10 <javascript:CCPEVE.showFitting('643:2048;1:20353;1:25890;1:1952;2:25892;1:11269;2:519;2:16455;1:2929;5:28211;5:17559;1:1978;1:16487;1:11229;1:26430;1::');>`_
+===========================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -12,11 +12,11 @@ High slots
 
 - `Large 'Solace' Remote Armor Repairer <javascript:CCPEVE.showInfo(16455)>`_
 - `Large 'Regard' Remote Capacitor Transmitter <javascript:CCPEVE.showInfo(16487)>`_
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
+- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
+- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
+- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
+- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
+- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
 
 Med slots
 ---------
@@ -33,8 +33,8 @@ Low slots
 - `1600mm Reinforced Steel Plates II <javascript:CCPEVE.showInfo(20353)>`_
 - `Energized Adaptive Nano Membrane II <javascript:CCPEVE.showInfo(11269)>`_
 - `Energized Adaptive Nano Membrane II <javascript:CCPEVE.showInfo(11269)>`_
-- `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
-- `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
+- `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
+- `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
 - `Energized Explosive Membrane II <javascript:CCPEVE.showInfo(11229)>`_
 
 Rigs
@@ -42,5 +42,10 @@ Rigs
 
 - `Large Anti-Kinetic Pump I <javascript:CCPEVE.showInfo(25890)>`_
 - `Large Anti-Thermic Pump I <javascript:CCPEVE.showInfo(25892)>`_
-- `Large Energy Burst Aerator II <javascript:CCPEVE.showInfo(26380)>`_
+- `Large Projectile Burst Aerator II <javascript:CCPEVE.showInfo(26430)>`_
+
+Ammo
+----
+
+- `Garde II x5 <javascript:CCPEVE.showInfo(28211)>`_
 
