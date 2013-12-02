@@ -12240,19 +12240,19 @@
         "id": 29986
     }, 
     "Legion Defensive - Adaptive Augmenter": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29964
     }, 
     "Legion Defensive - Augmented Plating": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29966
     }, 
     "Legion Defensive - Nanobot Injector": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29965
     }, 
     "Legion Defensive - Warfare Processor": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29967
     }, 
     "Legion ECM Ion Field Projector": {
@@ -12276,67 +12276,67 @@
         "id": 28737
     }, 
     "Legion Electronics - Dissolution Sequencer": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30040
     }, 
     "Legion Electronics - Emergent Locus Analyzer": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30042
     }, 
     "Legion Electronics - Energy Parasitic Complex": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30036
     }, 
     "Legion Electronics - Tactical Targeting Network": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30038
     }, 
     "Legion Engineering - Augmented Capacitor Reservoir": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30171
     }, 
     "Legion Engineering - Capacitor Regeneration Matrix": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30173
     }, 
     "Legion Engineering - Power Core Multiplier": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30169
     }, 
     "Legion Engineering - Supplemental Coolant Injector": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30175
     }, 
     "Legion Offensive - Assault Optimization": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30118
     }, 
     "Legion Offensive - Covert Reconfiguration": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30120
     }, 
     "Legion Offensive - Drone Synthesis Projector": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30117
     }, 
     "Legion Offensive - Liquid Crystal Magnifiers": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30119
     }, 
     "Legion Propulsion - Chassis Optimization": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30076
     }, 
     "Legion Propulsion - Fuel Catalyst": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30078
     }, 
     "Legion Propulsion - Interdiction Nullifier": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30082
     }, 
     "Legion Propulsion - Wake Limiter": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30080
     }, 
     "Leviathan": {
@@ -12612,83 +12612,83 @@
         "id": 29990
     }, 
     "Loki Defensive - Adaptive Augmenter": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29975
     }, 
     "Loki Defensive - Adaptive Shielding": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29974
     }, 
     "Loki Defensive - Amplification Node": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29976
     }, 
     "Loki Defensive - Warfare Processor": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29977
     }, 
     "Loki Electronics - Dissolution Sequencer": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30070
     }, 
     "Loki Electronics - Emergent Locus Analyzer": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30072
     }, 
     "Loki Electronics - Immobility Drivers": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30066
     }, 
     "Loki Electronics - Tactical Targeting Network": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30068
     }, 
     "Loki Engineering - Augmented Capacitor Reservoir": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30161
     }, 
     "Loki Engineering - Capacitor Regeneration Matrix": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30163
     }, 
     "Loki Engineering - Power Core Multiplier": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30159
     }, 
     "Loki Engineering - Supplemental Coolant Injector": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30165
     }, 
     "Loki Offensive - Covert Reconfiguration": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30135
     }, 
     "Loki Offensive - Hardpoint Efficiency Configuration": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30134
     }, 
     "Loki Offensive - Projectile Scoping Array": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30133
     }, 
     "Loki Offensive - Turret Concurrence Registry": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30132
     }, 
     "Loki Propulsion - Chassis Optimization": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30106
     }, 
     "Loki Propulsion - Fuel Catalyst": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30110
     }, 
     "Loki Propulsion - Intercalated Nanofibers": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30108
     }, 
     "Loki Propulsion - Interdiction Nullifier": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30112
     }, 
     "Low Cost Mercenary Assault Unit": {
@@ -15580,83 +15580,83 @@
         "id": 29988
     }, 
     "Proteus Defensive - Adaptive Augmenter": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29979
     }, 
     "Proteus Defensive - Augmented Plating": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29981
     }, 
     "Proteus Defensive - Nanobot Injector": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29980
     }, 
     "Proteus Defensive - Warfare Processor": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29982
     }, 
     "Proteus Electronics - CPU Efficiency Gate": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30058
     }, 
     "Proteus Electronics - Dissolution Sequencer": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30060
     }, 
     "Proteus Electronics - Emergent Locus Analyzer": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30062
     }, 
     "Proteus Electronics - Friction Extension Processor": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30056
     }, 
     "Proteus Engineering - Augmented Capacitor Reservoir": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30151
     }, 
     "Proteus Engineering - Capacitor Regeneration Matrix": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30153
     }, 
     "Proteus Engineering - Power Core Multiplier": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30149
     }, 
     "Proteus Engineering - Supplemental Coolant Injector": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30155
     }, 
     "Proteus Offensive - Covert Reconfiguration": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30130
     }, 
     "Proteus Offensive - Dissonic Encoding Platform": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30127
     }, 
     "Proteus Offensive - Drone Synthesis Projector": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30129
     }, 
     "Proteus Offensive - Hybrid Propulsion Armature": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30128
     }, 
     "Proteus Propulsion - Gravitational Capacitor": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30100
     }, 
     "Proteus Propulsion - Interdiction Nullifier": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30102
     }, 
     "Proteus Propulsion - Localized Injectors": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30098
     }, 
     "Proteus Propulsion - Wake Limiter": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30096
     }, 
     "Proton L": {
@@ -19548,83 +19548,83 @@
         "id": 29984
     }, 
     "Tengu Defensive - Adaptive Shielding": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29969
     }, 
     "Tengu Defensive - Amplification Node": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29970
     }, 
     "Tengu Defensive - Supplemental Screening": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29971
     }, 
     "Tengu Defensive - Warfare Processor": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 29972
     }, 
     "Tengu Electronics - CPU Efficiency Gate": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30048
     }, 
     "Tengu Electronics - Dissolution Sequencer": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30050
     }, 
     "Tengu Electronics - Emergent Locus Analyzer": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30052
     }, 
     "Tengu Electronics - Obfuscation Manifold": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30046
     }, 
     "Tengu Engineering - Augmented Capacitor Reservoir": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30141
     }, 
     "Tengu Engineering - Capacitor Regeneration Matrix": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30143
     }, 
     "Tengu Engineering - Power Core Multiplier": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30139
     }, 
     "Tengu Engineering - Supplemental Coolant Injector": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30145
     }, 
     "Tengu Offensive - Accelerated Ejection Bay": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30122
     }, 
     "Tengu Offensive - Covert Reconfiguration": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30125
     }, 
     "Tengu Offensive - Magnetic Infusion Basin": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30124
     }, 
     "Tengu Offensive - Rifling Launcher Pattern": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30123
     }, 
     "Tengu Propulsion - Fuel Catalyst": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30090
     }, 
     "Tengu Propulsion - Gravitational Capacitor": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30088
     }, 
     "Tengu Propulsion - Intercalated Nanofibers": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30086
     }, 
     "Tengu Propulsion - Interdiction Nullifier": {
-        "slot": "sybsystem", 
+        "slot": "subsystem", 
         "id": 30092
     }, 
     "Terran Data Analyzer I": {

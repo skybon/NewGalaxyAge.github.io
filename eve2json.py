@@ -27,7 +27,7 @@ def get_slot(t):
     elif category == 'Ship':
         return 'ship'
     elif category == 'Subsystem':
-        return 'sybsystem'
+        return 'subsystem'
 
 
 def get_json(*args, **kwargs):
