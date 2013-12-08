@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/as/vindicator-basic.eft
 .. to edit it.
 
-`Vindicator - 20 - бюджет <javascript:CCPEVE.showFitting('17740:2048;1:26404;1:7783;8:2281;2:26442;1:2444;4:28668;1000:10190;4:1999;2:26448;1:22993;10000:29011;1:2454;5:23001;3200:2553;1:14268;1::');>`_
-================================================================================================================================================================================================================
+`Vindicator - 20 - бюджет <javascript:CCPEVE.showFitting('17740:2048;1:1952;1:26404;1:7783;8:2281;2:26442;1:2444;4:28668;1000:10190;4:1999;2:26448;1:22993;10000:29011;1:2454;5:23001;3200:2553;1:14268;1::');>`_
+=======================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -22,7 +22,7 @@ High slots
 Med slots
 ---------
 
-- Federation Navy Sensor Booster II
+- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 - `True Sansha Stasis Webifier <javascript:CCPEVE.showInfo(14268)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
