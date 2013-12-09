@@ -2,20 +2,20 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/tengu.eft
 .. to edit it.
 
-`Tengu - 40 <javascript:CCPEVE.showFitting('29984:2048;1:31616;1:19814;2:2281;2:2410;6:27441;2000:22291;3:31606;1:31736;1:2553;1:12058;1::');>`_
-================================================================================================================================================
+`Tengu - 20/40 <javascript:CCPEVE.showFitting('29984:2048;1:31616;1:30050;1:25715;6:19814;2:29971;1:2281;2:30122;1:22291;3:6005;1:31606;1:2679;2000:31640;1:2553;1:30141;1:30090;1::');>`_
+==========================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
 High slots
 ----------
 
-- `Heavy Missile Launcher II <javascript:CCPEVE.showInfo(2410)>`_
-- `Heavy Missile Launcher II <javascript:CCPEVE.showInfo(2410)>`_
-- `Heavy Missile Launcher II <javascript:CCPEVE.showInfo(2410)>`_
-- `Heavy Missile Launcher II <javascript:CCPEVE.showInfo(2410)>`_
-- `Heavy Missile Launcher II <javascript:CCPEVE.showInfo(2410)>`_
-- `Heavy Missile Launcher II <javascript:CCPEVE.showInfo(2410)>`_
+- `Heavy Assault Missile Launcher II <javascript:CCPEVE.showInfo(25715)>`_
+- `Heavy Assault Missile Launcher II <javascript:CCPEVE.showInfo(25715)>`_
+- `Heavy Assault Missile Launcher II <javascript:CCPEVE.showInfo(25715)>`_
+- `Heavy Assault Missile Launcher II <javascript:CCPEVE.showInfo(25715)>`_
+- `Heavy Assault Missile Launcher II <javascript:CCPEVE.showInfo(25715)>`_
+- `Heavy Assault Missile Launcher II <javascript:CCPEVE.showInfo(25715)>`_
 
 Med slots
 ---------
@@ -25,25 +25,34 @@ Med slots
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
-- `10MN Afterburner II <javascript:CCPEVE.showInfo(12058)>`_
+- `Experimental 10MN Afterburner I <javascript:CCPEVE.showInfo(6005)>`_
 
 Low slots
 ---------
 
+- `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
+- `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
+- `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
 - `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
-- `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
-- `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
-- `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
 
 Rigs
 ----
 
-- `Medium Rocket Fuel Cache Partition II <javascript:CCPEVE.showInfo(31616)>`_
 - `Medium Hydraulic Bay Thrusters II <javascript:CCPEVE.showInfo(31606)>`_
-- `Medium Anti-Explosive Screen Reinforcer II <javascript:CCPEVE.showInfo(31736)>`_
+- `Medium Rocket Fuel Cache Partition II <javascript:CCPEVE.showInfo(31616)>`_
+- `Medium Warhead Flare Catalyst II <javascript:CCPEVE.showInfo(31640)>`_
 
 Ammo
 ----
 
-- `Caldari Navy Scourge Heavy Missile x2000 <javascript:CCPEVE.showInfo(27441)>`_
+- `Tengu Defensive - Supplemental Screening <javascript:CCPEVE.showInfo(29971)>`_
+- `Tengu Electronics - Dissolution Sequencer <javascript:CCPEVE.showInfo(30050)>`_
+- `Tengu Engineering - Augmented Capacitor Reservoir <javascript:CCPEVE.showInfo(30141)>`_
+- `Tengu Offensive - Accelerated Ejection Bay <javascript:CCPEVE.showInfo(30122)>`_
+- `Tengu Propulsion - Fuel Catalyst <javascript:CCPEVE.showInfo(30090)>`_
+
+Drones
+------
+
+- `Scourge Rage Heavy Assault Missile x2000 <javascript:CCPEVE.showInfo(2679)>`_
 

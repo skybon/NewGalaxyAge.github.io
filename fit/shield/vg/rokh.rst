@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/rokh.eft
 .. to edit it.
 
-`Rokh - 10 <javascript:CCPEVE.showFitting('24688:1952;1:2456;10:26088;1:2281;2:26442;1:22999;1:10190;4:1999;1:22993;1:3186;8:12787;1:12791;1:25948;1:1978;1:19215;1:14268;1::');>`_
-===================================================================================================================================================================================
+`Rokh - 10 <javascript:CCPEVE.showFitting('24688:2048;1:1952;1:2456;10:26088;1:2281;2:26442;1:22999;1:10190;3:1999;1:22993;1:3186;8:12787;1:12791;1:25948;1:1978;1:19215;1:14268;1::');>`_
+==========================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -32,7 +32,7 @@ Med slots
 Low slots
 ---------
 
-- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_

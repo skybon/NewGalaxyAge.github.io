@@ -2,15 +2,14 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/as/drake.eft
 .. to edit it.
 
-`Drake - 40 <javascript:CCPEVE.showFitting('24698:3841;1:19814;2:23527;1:2281;2:2410;6:31634;1:3888;1:31754;1:22291;3:2301;1:31646;1::');>`_
-============================================================================================================================================
+`Drake - 20/40 <javascript:CCPEVE.showFitting('24698:2048;1:3841;1:19814;1:2281;2:2410;6:31634;1:31754;1:22291;3:6005;1:2301;1:31646;1::');>`_
+==============================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
 High slots
 ----------
 
-- `Drone Link Augmentor I <javascript:CCPEVE.showInfo(23527)>`_
 - `Heavy Missile Launcher II <javascript:CCPEVE.showInfo(2410)>`_
 - `Heavy Missile Launcher II <javascript:CCPEVE.showInfo(2410)>`_
 - `Heavy Missile Launcher II <javascript:CCPEVE.showInfo(2410)>`_
@@ -22,7 +21,7 @@ Med slots
 ---------
 
 - `Phased Weapon Navigation Array Generation Extron <javascript:CCPEVE.showInfo(19814)>`_
-- `Phased Weapon Navigation Array Generation Extron <javascript:CCPEVE.showInfo(19814)>`_
+- `Experimental 10MN Afterburner I <javascript:CCPEVE.showInfo(6005)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Large Shield Extender II <javascript:CCPEVE.showInfo(3841)>`_
@@ -31,7 +30,7 @@ Med slots
 Low slots
 ---------
 
-- `Co-Processor II <javascript:CCPEVE.showInfo(3888)>`_
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
 - `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
 - `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
 - `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_

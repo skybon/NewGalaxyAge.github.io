@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/apocalypse-navy-issue.eft
 .. to edit it.
 
-`Apocalypse Navy Issue - 10 <javascript:CCPEVE.showFitting('17726:1952;1:26436;1:1447;3:2281;2:26442;1:14268;1:1999;2:26448;1:3057;8:2364;3::');>`_
-===================================================================================================================================================
+`Apocalypse Navy Issue - 10 <javascript:CCPEVE.showFitting('17726:2048;1:1952;1:26436;1:1447;2:2281;2:26442;1:14268;1:1999;2:26448;1:3057;8:2364;3::');>`_
+==========================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -31,7 +31,7 @@ Low slots
 ---------
 
 - `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
-- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
 - `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
 - `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
 - `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_

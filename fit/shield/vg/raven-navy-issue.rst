@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/raven-navy-issue.eft
 .. to edit it.
 
-`Raven Navy Issue - 10 <javascript:CCPEVE.showFitting('17636:1952;1:19814;2:2281;2:26442;1:26448;2:22291;5:2456;5:2553;1:19739;8:14268;1::');>`_
-================================================================================================================================================
+`Raven Navy Issue - 10 <javascript:CCPEVE.showFitting('17636:2048;1:1952;1:19814;2:2281;2:26442;1:26448;2:22291;4:2456;5:2553;1:19739;8:14268;1::');>`_
+=======================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -33,7 +33,7 @@ Med slots
 Low slots
 ---------
 
-- `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
 - `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
 - `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
 - `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_

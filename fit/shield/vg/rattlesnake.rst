@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/rattlesnake.eft
 .. to edit it.
 
-`Rattlesnake - 10 <javascript:CCPEVE.showFitting('17918:1952;2:26436;1:28197;5:2281;1:24427;2:2446;5:26448;2:22291;3:4405;3:24438;4:2456;5:19739;4::');>`_
-==========================================================================================================================================================
+`Rattlesnake - 10 <javascript:CCPEVE.showFitting('17918:2048;1:1952;2:28197;5:2281;2:26442;1:24427;2:19215;1:26448;2:28211;5:22291;3:4405;2:24438;2:2456;5:19739;4::');>`_
+==========================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -21,10 +21,10 @@ Med slots
 ---------
 
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
+- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
+- `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
 - `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 - `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
-- `Omnidirectional Tracking Link II <javascript:CCPEVE.showInfo(24438)>`_
-- `Omnidirectional Tracking Link II <javascript:CCPEVE.showInfo(24438)>`_
 - `Omnidirectional Tracking Link II <javascript:CCPEVE.showInfo(24438)>`_
 - `Omnidirectional Tracking Link II <javascript:CCPEVE.showInfo(24438)>`_
 
@@ -36,12 +36,12 @@ Low slots
 - `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
 - `Drone Damage Amplifier II <javascript:CCPEVE.showInfo(4405)>`_
 - `Drone Damage Amplifier II <javascript:CCPEVE.showInfo(4405)>`_
-- `Drone Damage Amplifier II <javascript:CCPEVE.showInfo(4405)>`_
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
 
 Rigs
 ----
 
-- `Large Anti-EM Screen Reinforcer II <javascript:CCPEVE.showInfo(26436)>`_
+- `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
 - `Large Core Defense Field Extender II <javascript:CCPEVE.showInfo(26448)>`_
 - `Large Core Defense Field Extender II <javascript:CCPEVE.showInfo(26448)>`_
 
@@ -49,6 +49,6 @@ Ammo
 ----
 
 - `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
-- `Ogre II x5 <javascript:CCPEVE.showInfo(2446)>`_
+- `Garde II x5 <javascript:CCPEVE.showInfo(28211)>`_
 - `Heavy Armor Maintenance Bot II x5 <javascript:CCPEVE.showInfo(28197)>`_
 

@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/abaddon.eft
 .. to edit it.
 
-`Abaddon - 40 <javascript:CCPEVE.showFitting('24692:2048;1:3841;1:26436;1:1447;3:2281;2:26378;1:3057;8:12084;1:2364;3:26442;1::');>`_
-=====================================================================================================================================
+`Abaddon - 40 <javascript:CCPEVE.showFitting('24692:2048;1:3841;1:26436;1:1447;3:2281;2:26378;1:3057;8:12084;1:2456;5:2364;3:26442;1::');>`_
+============================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -44,4 +44,9 @@ Rigs
 - `Large Anti-EM Screen Reinforcer II <javascript:CCPEVE.showInfo(26436)>`_
 - `Large Energy Discharge Elutriation II <javascript:CCPEVE.showInfo(26378)>`_
 - `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
+
+Ammo
+----
+
+- `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 

@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/megathron-navy-issue.eft
 .. to edit it.
 
-`Megathron Navy Issue - 10 <javascript:CCPEVE.showFitting('17728:1952;1:26436;1:2281;2:26442;1:10190;4:1999;4:26448;1:2456;5:3186;7:3608;1:14268;1::');>`_
-==========================================================================================================================================================
+`Megathron Navy Issue - 10 <javascript:CCPEVE.showFitting('17728:2048;1:1952;1:26436;1:2281;2:26442;1:10190;3:1999;4:26448;1:2456;5:3186;7:3608;1:14268;1::');>`_
+=================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -30,7 +30,7 @@ Med slots
 Low slots
 ---------
 
-- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_

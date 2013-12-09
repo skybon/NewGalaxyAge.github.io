@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/as/apocalypse-navy-issue.eft
 .. to edit it.
 
-`Apocalypse Navy Issue - 20 <javascript:CCPEVE.showFitting('17726:2048;1:1952;1:26436;1:1447;3:2281;2:26442;1:1999;1:26448;1:3057;8:1978;1:2364;3::');>`_
-=========================================================================================================================================================
+`Apocalypse Navy Issue - 20 <javascript:CCPEVE.showFitting('17726:2048;1:1952;1:26436;1:1447;3:2281;2:26442;1:1999;1:26448;1:3057;8:2456;5:1978;1:2364;3::');>`_
+================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -45,4 +45,9 @@ Rigs
 - `Large Anti-EM Screen Reinforcer II <javascript:CCPEVE.showInfo(26436)>`_
 - `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
 - `Large Core Defense Field Extender II <javascript:CCPEVE.showInfo(26448)>`_
+
+Ammo
+----
+
+- `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 

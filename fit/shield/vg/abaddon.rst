@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/abaddon.eft
 .. to edit it.
 
-`Abaddon - 10 <javascript:CCPEVE.showFitting('24692:3841;1:26436;1:1447;3:2281;2:26378;1:14268;1:1999;1:3057;8:2364;3:26442;1::');>`_
-=====================================================================================================================================
+`Abaddon - 10 <javascript:CCPEVE.showFitting('24692:2048;1:1952;1:26436;1:1447;2:2281;2:26378;1:14268;1:1999;1:3057;8:2456;5:2364;3:26442;1::');>`_
+===================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -22,7 +22,7 @@ High slots
 Med slots
 ---------
 
-- `Large Shield Extender II <javascript:CCPEVE.showInfo(3841)>`_
+- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `True Sansha Stasis Webifier <javascript:CCPEVE.showInfo(14268)>`_
@@ -31,7 +31,7 @@ Low slots
 ---------
 
 - `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
-- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
 - `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
 - `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
 - `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
@@ -44,4 +44,9 @@ Rigs
 - `Large Anti-EM Screen Reinforcer II <javascript:CCPEVE.showInfo(26436)>`_
 - `Large Energy Discharge Elutriation II <javascript:CCPEVE.showInfo(26378)>`_
 - `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
+
+Ammo
+----
+
+- `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 

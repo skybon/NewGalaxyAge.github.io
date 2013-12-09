@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/tempest.eft
 .. to edit it.
 
-`Tempest - 10 <javascript:CCPEVE.showFitting('639:1952;1:2456;5:519;4:2281;2:26442;1:16487;1:1999;2:26448;2:2929;6:3608;1:2553;1:14268;1::');>`_
-================================================================================================================================================
+`Tempest - 10 <javascript:CCPEVE.showFitting('639:2048;1:1952;1:2456;5:519;3:2281;2:26442;1:16487;1:1999;2:26448;2:2929;6:3608;1:2553;1:14268;1::');>`_
+=======================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -31,7 +31,7 @@ Med slots
 Low slots
 ---------
 
-- `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
 - `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
 - `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
 - `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_

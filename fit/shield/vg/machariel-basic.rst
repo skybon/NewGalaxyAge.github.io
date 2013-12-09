@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/machariel-basic.eft
 .. to edit it.
 
-`Machariel - 10 - бюджет <javascript:CCPEVE.showFitting('17738:1952;1:25956;1:519;4:2281;2:26442;1:2444;4:28668;1:1999;3:26448;1:29009;1:29011;1:2454;5:3608;1:2553;1:9327;7:14268;1:21918;1::');>`_
-==========================================================================================================================================================================================================
+`Machariel - 10 - бюджет <javascript:CCPEVE.showFitting('17738:2048;1:1952;1:25956;1:519;3:2281;2:26442;1:9327;7:2444;4:28668;1:1999;3:26448;1:29009;1:29011;1:2454;5:3608;1:19215;1:14268;1:21918;1::');>`_
+==================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -26,12 +26,12 @@ Med slots
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `True Sansha Stasis Webifier <javascript:CCPEVE.showInfo(14268)>`_
-- `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
+- `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
 
 Low slots
 ---------
 
-- `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
+- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
 - `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
 - `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
 - `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_

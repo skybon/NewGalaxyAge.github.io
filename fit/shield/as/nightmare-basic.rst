@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/as/nightmare-basic.eft
 .. to edit it.
 
-`Nightmare - 20 - бюджет <javascript:CCPEVE.showFitting('17736:2048;1:7171;4:2185;5:26378;1:3608;1:12824;4:12828;4:1952;1:2456;5:29001;2:1978;2:2364;3:23105;4:23109;4:12102;1:28999;2:23113;4:26442;1:1999;1:29009;2:29011;2:25948;1:19814;1:2281;2:2553;1:28668;100::');>`_
-===================================================================================================================================================================================================================================================================================
+`Nightmare - 20 - бюджет <javascript:CCPEVE.showFitting('17736:2048;1:7171;4:2185;5:26378;1:19215;1:3608;1:12824;4:12828;4:1952;1:2456;5:29001;2:1978;2:2364;3:23105;4:23109;4:12102;1:28999;2:23113;4:26442;1:1999;1:29009;2:29011;2:25948;1:19814;1:2281;2:28668;100::');>`_
+====================================================================================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -24,7 +24,7 @@ Med slots
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Phased Weapon Navigation Array Generation Extron <javascript:CCPEVE.showInfo(19814)>`_
-- `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
+- `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
 - `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
 - `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
 
