@@ -55,6 +55,7 @@ Armor-формат:
 * Lexiboth Hita
 * LLAleX
 * Mikhail MustDie
+* Sigmius
 * Sheryl Niome
 * Vokoramys
 * Xilia Otsu / Korami Barbokan 
