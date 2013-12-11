@@ -19,7 +19,7 @@
 
 \*\*\*\* Loki ( :doc:`бюджет </fit/shield/hq/loki-basic>` | :doc:`средний </fit/shield/hq/loki-standard>` | :doc:`ветеран </fit/shield/hq/loki-advanced>` )
 
-\*\*\*\* :doc:`Bhaalgorn </fit/shield/as/bhaalgorn>`
+\*\*\*\* :doc:`Bhaalgorn </fit/shield/hq/bhaalgorn>`
 
 \*\*\* :doc:`Tengu </fit/shield/hq/tengu>`
 
