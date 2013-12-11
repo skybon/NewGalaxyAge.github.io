@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/loki-basic.eft
 .. to edit it.
 
-`Loki - 10 - бюджет <javascript:CCPEVE.showFitting('29990:2048;1:21922;1:31748;1:519;3:2281;1:28668;1:1999;1:31796;1:17559;3:31736;1:2969;6:24348;1::');>`_
-=================================================================================================================================================================
+`Loki - 10/20 - бюджет <javascript:CCPEVE.showFitting('29990:2048;1:21922;10000:31748;1:519;4:2281;1:30132;1:28668;100:30159;1:30066;1:31796;1:29974;1:17559;3:31736;1:2969;6:30106;1:1436;1::');>`_
+==========================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -16,15 +16,15 @@ High slots
 - `720mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2969)>`_
 - `720mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2969)>`_
 - `720mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2969)>`_
-- `Small Tractor Beam I <javascript:CCPEVE.showInfo(24348)>`_
+- `Auto Targeting System II <javascript:CCPEVE.showInfo(1436)>`_
 
 Med slots
 ---------
 
-- `Federation Navy Stasis Webifier <javascript:CCPEVE.showInfo(17559)>`_
-- `Federation Navy Stasis Webifier <javascript:CCPEVE.showInfo(17559)>`_
-- `Federation Navy Stasis Webifier <javascript:CCPEVE.showInfo(17559)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
+- `Federation Navy Stasis Webifier <javascript:CCPEVE.showInfo(17559)>`_
+- `Federation Navy Stasis Webifier <javascript:CCPEVE.showInfo(17559)>`_
+- `Federation Navy Stasis Webifier <javascript:CCPEVE.showInfo(17559)>`_
 
 Low slots
 ---------
@@ -33,7 +33,7 @@ Low slots
 - `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
 - `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
 - `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
-- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
+- `Gyrostabilizer II <javascript:CCPEVE.showInfo(519)>`_
 
 Rigs
 ----
@@ -45,6 +45,15 @@ Rigs
 Ammo
 ----
 
-- `Republic Fleet Phased Plasma M x1 <javascript:CCPEVE.showInfo(21922)>`_
-- `Nanite Repair Paste x1 <javascript:CCPEVE.showInfo(28668)>`_
+- `Loki Electronics - Immobility Drivers <javascript:CCPEVE.showInfo(30066)>`_
+- `Loki Offensive - Turret Concurrence Registry <javascript:CCPEVE.showInfo(30132)>`_
+- `Loki Propulsion - Chassis Optimization <javascript:CCPEVE.showInfo(30106)>`_
+- `Loki Defensive - Adaptive Shielding <javascript:CCPEVE.showInfo(29974)>`_
+- `Loki Engineering - Power Core Multiplier <javascript:CCPEVE.showInfo(30159)>`_
+
+Drones
+------
+
+- `Republic Fleet Phased Plasma M x10000 <javascript:CCPEVE.showInfo(21922)>`_
+- `Nanite Repair Paste x100 <javascript:CCPEVE.showInfo(28668)>`_
 
