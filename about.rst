@@ -53,12 +53,12 @@ Armor-формат:
 * Grim Hinken
 * Kobius
 * Lexiboth Hita
-* LLAleX
 * Mikhail MustDie
 * Sigmius
 * Sheryl Niome
+* Trong Sa
 * Vokoramys
-* Xilia Otsu / Korami Barbokan 
+* Xilia Otsu / Korami Barbokan
 
 ФК канала RAISA Armor
 ---------------------
