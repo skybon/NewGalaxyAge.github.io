@@ -11,13 +11,15 @@
 
 \*\*\*\*\* Scimitar ( :doc:`бюджет </fit/shield/vg/scimitar-basic>` | :doc:`средний </fit/shield/vg/scimitar-standard>` | :doc:`ветеран </fit/shield/vg/scimitar-advanced>` )
 
-\*\*\*\*\* Machariel ( :doc:`бюджет </fit/shield/vg/machariel-basic>` | :doc:`средний </fit/shield/vg/machariel-standard>` | :doc:`ветеран </fit/shield/vg/machariel-advanced>` )
-
 \*\*\*\*\* Nightmare ( :doc:`бюджет </fit/shield/vg/nightmare-basic>` | :doc:`средний </fit/shield/vg/nightmare-standard>` | :doc:`ветеран </fit/shield/vg/nightmare-advanced>` )
 
 \*\*\*\*\* Vindicator ( :doc:`бюджет </fit/shield/vg/vindicator-basic>` | :doc:`средний </fit/shield/vg/vindicator-standard>` | :doc:`ветеран </fit/shield/vg/vindicator-advanced>` )
 
+\*\*\*\* Machariel ( :doc:`бюджет </fit/shield/vg/machariel-basic>` | :doc:`средний </fit/shield/vg/machariel-standard>` | :doc:`ветеран </fit/shield/vg/machariel-advanced>` )
+
 \*\*\*\* Loki ( :doc:`бюджет </fit/shield/vg/loki-basic>` | :doc:`средний </fit/shield/vg/loki-standard>` | :doc:`ветеран </fit/shield/vg/loki-advanced>` )
+
+\*\*\*\* :doc:`Bhaalgorn </fit/shield/vg/bhaalgorn>`
 
 \*\*\* :doc:`Tengu </fit/shield/vg/tengu>`
 
