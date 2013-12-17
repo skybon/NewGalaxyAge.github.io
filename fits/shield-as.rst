@@ -33,6 +33,8 @@
 
 \*\* :doc:`Armageddon Navy Issue </fit/shield/as/armageddon-navy-issue>`
 
+\* :doc:`Raven </fit/shield/as/raven>`
+
 \*\* :doc:`Raven Navy Issue </fit/shield/as/raven-navy-issue>`
 
 \*\*\* :doc:`Rokh </fit/shield/as/rokh>`

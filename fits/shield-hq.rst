@@ -33,6 +33,8 @@
 
 \*\* :doc:`Armageddon Navy Issue </fit/shield/hq/armageddon-navy-issue>`
 
+\* :doc:`Raven </fit/shield/hq/raven>`
+
 \*\* :doc:`Raven Navy Issue </fit/shield/hq/raven-navy-issue>`
 
 \*\* :doc:`Scorpion Navy Issue </fit/shield/hq/scorpion-navy-issue>`
