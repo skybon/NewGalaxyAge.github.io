@@ -2,7 +2,7 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/drake.eft
 .. to edit it.
 
-`Drake - 20/40 <javascript:CCPEVE.showFitting('24698:2048;1:3841;1:19814;1:2281;2:2410;6:31634;1:31754;1:22291;3:6005;1:2301;1:31646;1::');>`_
+`Drake - 20/40 <javascript:CCPEVE.showFitting('24698:2048;1:3841;1:19814;1:2281;2:2410;6:31634;1:22291;3:6005;1:2553;1:31754;1:31646;1::');>`_
 ==============================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
@@ -25,7 +25,7 @@ Med slots
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Large Shield Extender II <javascript:CCPEVE.showInfo(3841)>`_
-- `EM Ward Field II <javascript:CCPEVE.showInfo(2301)>`_
+- `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
 
 Low slots
 ---------

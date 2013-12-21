@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/vindicator-basic.eft
 .. to edit it.
 
-`Vindicator - 40 - бюджет <javascript:CCPEVE.showFitting('17740:2048;1:23001;3200:26404;1:7783;8:2281;2:26442;1:2444;4:10190;4:1999;2:26448;1:22993;10000:29011;1:12084;1:2454;5:17559;1:2553;1:28668;1000::');>`_
-========================================================================================================================================================================================================================
+`Vindicator - 40 - бюджет <javascript:CCPEVE.showFitting('17740:2048;1:26404;1:7783;8:2281;2:26442;1:2444;4:10190;4:1999;2:26448;1:22993;10000:29011;1:12084;1:2454;5:17559;1:23001;3200:19215;1:28668;1000::');>`_
+=========================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -26,7 +26,7 @@ Med slots
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `100MN Microwarpdrive II <javascript:CCPEVE.showInfo(12084)>`_
-- `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
+- `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
 
 Low slots
 ---------

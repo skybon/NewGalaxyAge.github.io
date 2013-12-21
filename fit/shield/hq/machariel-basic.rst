@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/machariel-basic.eft
 .. to edit it.
 
-`Machariel - 40 - бюджет <javascript:CCPEVE.showFitting('17738:2048;1:1952;1:25956;1:519;4:2281;2:26442;1:29011;1:28668;1:1999;2:26448;1:29009;1:9491;7:12084;1:2454;5:2553;1:2444;4:24348;1:21918;1::');>`_
-==================================================================================================================================================================================================================
+`Machariel - 40 - бюджет <javascript:CCPEVE.showFitting('17738:2048;1:1952;1:25956;1:519;4:2281;2:26442;1:29011;1:28668;1:1999;2:26448;1:29009;1:9491;7:12084;1:2454;5:2444;4:19215;1:24348;1:21918;1::');>`_
+===================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -26,7 +26,7 @@ Med slots
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `100MN Microwarpdrive II <javascript:CCPEVE.showInfo(12084)>`_
-- `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
+- `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
 
 Low slots
 ---------
