@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/raven.eft
 .. to edit it.
 
-`Raven - 40 <javascript:CCPEVE.showFitting('638:2048;1:3841;1:1952;1:19814;1:2185;5:2281;2:26442;1:24427;1:26412;1:26448;1:29009;1:22291;4:24533;1:5975;1:2456;5:2553;1:19739;6::');>`_
-=======================================================================================================================================================================================
+`Raven - 40 <javascript:CCPEVE.showFitting('638:2048;1:3841;1:1952;1:19814;1:2281;2:26442;1:24427;1:26412;1:26448;1:29009;1:22291;4:12084;1:24533;1:2185;5:2456;5:2553;1:19739;6::');>`_
+========================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -25,7 +25,7 @@ Med slots
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
 - `Phased Weapon Navigation Array Generation Extron <javascript:CCPEVE.showInfo(19814)>`_
-- `Experimental 10MN Microwarpdrive I <javascript:CCPEVE.showInfo(5975)>`_
+- `100MN Microwarpdrive II <javascript:CCPEVE.showInfo(12084)>`_
 - `Large Shield Extender II <javascript:CCPEVE.showInfo(3841)>`_
 - `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 
