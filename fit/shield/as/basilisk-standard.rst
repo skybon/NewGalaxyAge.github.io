@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/as/basilisk-standard.eft
 .. to edit it.
 
-`Basilisk - 20/40 - средний <javascript:CCPEVE.showFitting('11985:2048;1:1987;1:31366;2:16487;2:1964;1:19215;1:2456;5:3608;4:12058;1:31932;1:4349;1::');>`_
-==================================================================================================================================================================
+`Basilisk - 20/40 - средний <javascript:CCPEVE.showFitting('11985:2048;1:31366;1:16487;2:1355;1:1964;1:19215;1:2456;5:31796;1:3608;4:12058;1:31932;1:4349;1::');>`_
+==========================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -30,12 +30,12 @@ Low slots
 ---------
 
 - `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
-- `Signal Amplifier II <javascript:CCPEVE.showInfo(1987)>`_
+- `Reactor Control Unit II <javascript:CCPEVE.showInfo(1355)>`_
 
 Rigs
 ----
 
-- `Medium Ancillary Current Router II <javascript:CCPEVE.showInfo(31366)>`_
+- `Medium Core Defense Field Extender II <javascript:CCPEVE.showInfo(31796)>`_
 - `Medium Ancillary Current Router II <javascript:CCPEVE.showInfo(31366)>`_
 
 Ammo

@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/tengu.eft
 .. to edit it.
 
-`Tengu - 20/40 <javascript:CCPEVE.showFitting('29984:2048;1:31616;1:30050;1:25715;6:19814;2:29971;1:2281;2:30122;1:22291;3:6005;1:31606;1:2679;2000:31640;1:2553;1:30141;1:30090;1::');>`_
-==========================================================================================================================================================================================
+`Tengu - 20/40 <javascript:CCPEVE.showFitting('29984:2048;1:31616;1:30050;1:25715;6:19814;2:29971;1:2281;2:30122;1:19215;1:22291;3:6005;1:31606;1:2679;2000:31640;1:30141;1:30090;1::');>`_
+===========================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -24,7 +24,7 @@ Med slots
 - `Phased Weapon Navigation Array Generation Extron <javascript:CCPEVE.showInfo(19814)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
-- `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
+- `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
 - `Experimental 10MN Afterburner I <javascript:CCPEVE.showInfo(6005)>`_
 
 Low slots
