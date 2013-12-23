@@ -57,6 +57,7 @@ Armor-формат:
 * Sigmius
 * Sheryl Niome
 * Trong Sa
+* Tech Ostus
 * Vokoramys
 * Xilia Otsu / Korami Barbokan
 
