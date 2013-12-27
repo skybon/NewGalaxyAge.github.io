@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/scimitar-advanced.eft
 .. to edit it.
 
-`Scimitar - 10 - ветеран <javascript:CCPEVE.showFitting('11978:14240;3:18688;1:2456;5:1987;1:31366;1:3608;4:29009;1:28668;409:28999;5:17528;2:31378;1:29011;1:29001;2:14136;1:4348;1::');>`_
-===================================================================================================================================================================================================
+`Scimitar - 10 - ветеран <javascript:CCPEVE.showFitting('11978:14240;3:18688;1:2456;5:31366;1:3608;4:28999;3:28668;300:17528;3:31378;1:29001;3:14136;1:4348;1::');>`_
+============================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -18,17 +18,17 @@ High slots
 Med slots
 ---------
 
-- `Shadow Serpentis Remote Tracking Computer <javascript:CCPEVE.showInfo(14240)>`_
-- `Shadow Serpentis Remote Tracking Computer <javascript:CCPEVE.showInfo(14240)>`_
-- `Shadow Serpentis Remote Tracking Computer <javascript:CCPEVE.showInfo(14240)>`_
-- `Corelum B-Type 10MN Afterburner <javascript:CCPEVE.showInfo(18688)>`_
 - `Pithum B-Type Adaptive Invulnerability Field <javascript:CCPEVE.showInfo(4348)>`_
+- `Corelum B-Type 10MN Afterburner <javascript:CCPEVE.showInfo(18688)>`_
+- `Shadow Serpentis Remote Tracking Computer <javascript:CCPEVE.showInfo(14240)>`_
+- `Shadow Serpentis Remote Tracking Computer <javascript:CCPEVE.showInfo(14240)>`_
+- `Shadow Serpentis Remote Tracking Computer <javascript:CCPEVE.showInfo(14240)>`_
 
 Low slots
 ---------
 
-- `Signal Amplifier II <javascript:CCPEVE.showInfo(1987)>`_
 - `True Sansha Power Diagnostic System <javascript:CCPEVE.showInfo(14136)>`_
+- `Imperial Navy Capacitor Power Relay <javascript:CCPEVE.showInfo(17528)>`_
 - `Imperial Navy Capacitor Power Relay <javascript:CCPEVE.showInfo(17528)>`_
 - `Imperial Navy Capacitor Power Relay <javascript:CCPEVE.showInfo(17528)>`_
 
@@ -41,11 +41,9 @@ Rigs
 Ammo
 ----
 
-- `Targeting Range Script x1 <javascript:CCPEVE.showInfo(29009)>`_
-- `Scan Resolution Script x1 <javascript:CCPEVE.showInfo(29011)>`_
-- `Nanite Repair Paste x409 <javascript:CCPEVE.showInfo(28668)>`_
-- `Tracking Speed Script x2 <javascript:CCPEVE.showInfo(29001)>`_
-- `Optimal Range Script x5 <javascript:CCPEVE.showInfo(28999)>`_
+- `Nanite Repair Paste x300 <javascript:CCPEVE.showInfo(28668)>`_
+- `Tracking Speed Script x3 <javascript:CCPEVE.showInfo(29001)>`_
+- `Optimal Range Script x3 <javascript:CCPEVE.showInfo(28999)>`_
 
 Drones
 ------
