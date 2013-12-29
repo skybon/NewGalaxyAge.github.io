@@ -26,6 +26,7 @@ Armor-формат:
 * Zwo Zateki
 * Padegejas
 * Yart Skord / Alex Amato
+* *Pavel Leopa*
 
 Дипломатический корпус
 ----------------------
@@ -54,16 +55,13 @@ Armor-формат:
 * Kobius
 * Lexiboth Hita
 * Mikhail MustDie
-* Sigmius
 * Sheryl Niome
-* Trong Sa
 * Tech Ostus
-* Vokoramys
+* Trong Sa
 * Xilia Otsu / Korami Barbokan
 
 ФК канала RAISA Armor
 ---------------------
 
 * Cloned S0ul
-* Nermarion
 * Xilia Otsu / Korami Barbokan
