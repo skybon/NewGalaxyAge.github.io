@@ -7,15 +7,15 @@
 
     Чем больше звёзд перед фитом, тем больше вам рады во флоте.
 
-**\*\*\*\*\* Vindicator ( :doc:`бюджет </fit/shield/hq/vindicator-basic>` | :doc:`средний </fit/shield/hq/vindicator-standard>` | :doc:`ветеран </fit/shield/hq/vindicator-advanced>` )**
+**\*\*\*\*\*** Vindicator ( :doc:`бюджет </fit/shield/hq/vindicator-basic>` | :doc:`средний </fit/shield/hq/vindicator-standard>` | :doc:`ветеран </fit/shield/hq/vindicator-advanced>` )
 
-**\*\*\*\*\* Scimitar ( :doc:`бюджет </fit/shield/hq/scimitar-basic>` | :doc:`средний </fit/shield/hq/scimitar-standard>` | :doc:`ветеран </fit/shield/hq/scimitar-advanced>` )**
+**\*\*\*\*\*** Scimitar ( :doc:`бюджет </fit/shield/hq/scimitar-basic>` | :doc:`средний </fit/shield/hq/scimitar-standard>` | :doc:`ветеран </fit/shield/hq/scimitar-advanced>` )
 
-**\*\*\*\*\* Nightmare ( :doc:`бюджет </fit/shield/hq/nightmare-basic>` | :doc:`средний </fit/shield/hq/nightmare-standard>` | :doc:`ветеран </fit/shield/hq/nightmare-advanced>` )**
+**\*\*\*\*\*** Nightmare ( :doc:`бюджет </fit/shield/hq/nightmare-basic>` | :doc:`средний </fit/shield/hq/nightmare-standard>` | :doc:`ветеран </fit/shield/hq/nightmare-advanced>` )
 
-**\*\*\*\*\* Basilisk ( :doc:`бюджет </fit/shield/hq/basilisk-basic>` | :doc:`средний </fit/shield/hq/basilisk-standard>` | :doc:`ветеран </fit/shield/hq/basilisk-advanced>` )**
+**\*\*\*\*\*** Basilisk ( :doc:`бюджет </fit/shield/hq/basilisk-basic>` | :doc:`средний </fit/shield/hq/basilisk-standard>` | :doc:`ветеран </fit/shield/hq/basilisk-advanced>` )
 
-**\*\*\*\* Machariel ( :doc:`бюджет </fit/shield/hq/machariel-basic>` | :doc:`средний </fit/shield/hq/machariel-standard>` | :doc:`ветеран </fit/shield/hq/machariel-advanced>` )**
+**\*\*\*\*** Machariel ( :doc:`бюджет </fit/shield/hq/machariel-basic>` | :doc:`средний </fit/shield/hq/machariel-standard>` | :doc:`ветеран </fit/shield/hq/machariel-advanced>` )
 
 \*\*\*\* Loki ( :doc:`бюджет </fit/shield/hq/loki-basic>` | :doc:`средний </fit/shield/hq/loki-standard>` | :doc:`ветеран </fit/shield/hq/loki-advanced>` )
 
@@ -33,7 +33,7 @@
 
 \*\*\* :doc:`Hyperion </fit/shield/hq/hyperion>`
 
-**\*\*\* :doc:`Golem </fit/shield/hq/golem>`**
+**\*\*\*** :doc:`Golem </fit/shield/hq/golem>`
 
 \*\* :doc:`Tengu </fit/shield/hq/tengu>`
 
