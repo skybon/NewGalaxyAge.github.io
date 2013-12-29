@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/as/raven-navy-issue.eft
 .. to edit it.
 
-`Raven Navy Issue - 20 <javascript:CCPEVE.showFitting('17636:2048;1:1952;1:19814;2:2281;2:26442;1:26448;2:22291;4:2456;5:2553;1:19739;8:14268;1::');>`_
-=======================================================================================================================================================
+`Raven Navy Issue - 20 <javascript:CCPEVE.showFitting('17636:2048;1:1952;1:19814;2:2281;2:26442;1:26414;1:26448;1:22291;4:2456;5:2553;1:19739;8:14268;1::');>`_
+===============================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -44,7 +44,7 @@ Rigs
 
 - `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
 - `Large Core Defense Field Extender II <javascript:CCPEVE.showInfo(26448)>`_
-- `Large Core Defense Field Extender II <javascript:CCPEVE.showInfo(26448)>`_
+- `Large Warhead Rigor Catalyst II <javascript:CCPEVE.showInfo(26414)>`_
 
 Ammo
 ----
