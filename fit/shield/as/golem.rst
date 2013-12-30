@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/as/golem.eft
 .. to edit it.
 
-`Golem - 20 <javascript:CCPEVE.showFitting('28710:2048;1:16487;1:31944;2:2281;2:24427;1:26412;1:26414;1:19215;1:2456;5:22291;3:24533;1:2185;5:3608;1:19739;4:27932;1::');>`_
-============================================================================================================================================================================
+`Golem - 20 <javascript:CCPEVE.showFitting('28710:2048;1:1952;2:16487;1:31944;2:2281;2:29011;2:24427;1:26412;1:26414;1:19215;1:2456;5:22291;3:24533;1:2185;5:3608;1:19739;4:27932;1::');>`_
+===========================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -27,8 +27,8 @@ Med slots
 - `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
 - `Republic Fleet Target Painter <javascript:CCPEVE.showInfo(31944)>`_
 - `Republic Fleet Target Painter <javascript:CCPEVE.showInfo(31944)>`_
-- Sensor Booster II, Scan Resolution Script
-- Sensor Booster II, Scan Resolution Script
+- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
+- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 
 Low slots
 ---------
@@ -47,7 +47,12 @@ Rigs
 Ammo
 ----
 
+- `Scourge Fury Cruise Missile x1 <javascript:CCPEVE.showInfo(24533)>`_
+- `Scan Resolution Script x2 <javascript:CCPEVE.showInfo(29011)>`_
+
+Drones
+------
+
 - `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 - `Hammerhead II x5 <javascript:CCPEVE.showInfo(2185)>`_
-- `Scourge Fury Cruise Missile x1 <javascript:CCPEVE.showInfo(24533)>`_
 

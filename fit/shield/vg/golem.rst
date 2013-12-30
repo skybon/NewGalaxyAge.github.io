@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/golem.eft
 .. to edit it.
 
-`Golem - 10 <javascript:CCPEVE.showFitting('28710:2185;5:16487;2:31944;2:2281;2:26412;1:2637;1:26414;1:19215;1:2456;5:22291;3:17559;1:3608;1:19739;4:27932;1::');>`_
-====================================================================================================================================================================
+`Golem - 10 <javascript:CCPEVE.showFitting('28710:1952;1:2185;5:16487;2:31944;2:2281;2:29011;1:26412;1:26414;1:19215;1:2456;5:22291;3:17559;1:3608;1:19739;4:27932;1:24541;1::');>`_
+====================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -27,7 +27,7 @@ Med slots
 - `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
 - `Republic Fleet Target Painter <javascript:CCPEVE.showInfo(31944)>`_
 - `Republic Fleet Target Painter <javascript:CCPEVE.showInfo(31944)>`_
-- Sensor Booster II, Scan Resolution Script
+- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 - `Federation Navy Stasis Webifier <javascript:CCPEVE.showInfo(17559)>`_
 
 Low slots
@@ -46,7 +46,12 @@ Rigs
 Ammo
 ----
 
+- `Scourge Precision Cruise Missile x1 <javascript:CCPEVE.showInfo(24541)>`_
+- `Scan Resolution Script x1 <javascript:CCPEVE.showInfo(29011)>`_
+
+Drones
+------
+
 - `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 - `Hammerhead II x5 <javascript:CCPEVE.showInfo(2185)>`_
-- `Inferno Precision Cruise Missile x1 <javascript:CCPEVE.showInfo(2637)>`_
 
