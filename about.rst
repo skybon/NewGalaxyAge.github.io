@@ -63,5 +63,6 @@ Armor-формат:
 ФК канала RAISA Armor
 ---------------------
 
+* Bellatrix Atria
 * Cloned S0ul
 * Xilia Otsu / Korami Barbokan
