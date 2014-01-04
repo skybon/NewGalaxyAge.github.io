@@ -2,7 +2,7 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/armageddon-navy-issue.eft
 .. to edit it.
 
-`Armageddon Navy Issue - 10 <javascript:CCPEVE.showFitting('32305:2048;1:1952;1:26436;1:1447;2:2281;2:26442;1:14268;1:2446;5:1999;2:3057;7:2456;5:2364;3:26378;1:23711;5::');>`_
+`Armageddon Navy Issue - 10 <javascript:CCPEVE.showFitting('32305:2048;1:1952;1:26436;1:2281;2:26442;1:14268;1:8173;1:2446;5:1999;2:3057;7:2456;5:2364;4:26378;1:23711;5::');>`_
 ================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
@@ -30,10 +30,10 @@ Low slots
 ---------
 
 - `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
-- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
-- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Beta Reactor Control: Capacitor Power Relay I <javascript:CCPEVE.showInfo(8173)>`_
 - `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
 - `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
+- `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
 - `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
 - `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
 - `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_

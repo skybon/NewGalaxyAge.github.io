@@ -2,15 +2,14 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/megathron-navy-issue.eft
 .. to edit it.
 
-`Megathron Navy Issue - 40 <javascript:CCPEVE.showFitting('17728:2048;1:3841;1:26436;1:1447;1:2281;2:26442;1:10190;4:1999;2:26448;1:3186;7:12084;1:24348;1::');>`_
-==================================================================================================================================================================
+`Megathron Navy Issue - 40 <javascript:CCPEVE.showFitting('17728:2048;1:3841;1:26436;1:2281;2:26442;1:24427;1:10190;4:1999;3:26448;1:28211;5:3186;7:12787;1:12084;1:12791;1:2456;5:23711;5::');>`_
+==================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
 High slots
 ----------
 
-- `Small Tractor Beam I <javascript:CCPEVE.showInfo(24348)>`_
 - `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
 - `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
 - `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
@@ -18,26 +17,27 @@ High slots
 - `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
 - `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
 - `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
+- `Drone Link Augmentor II <javascript:CCPEVE.showInfo(24427)>`_
 
 Med slots
 ---------
 
+- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
+- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Large Shield Extender II <javascript:CCPEVE.showInfo(3841)>`_
-- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
-- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `100MN Microwarpdrive II <javascript:CCPEVE.showInfo(12084)>`_
 
 Low slots
 ---------
 
+- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
+- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
+- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
+- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
+- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
+- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
+- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
 - `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
-- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
-- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
-- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
-- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
-- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
-- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
-- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
 
 Rigs
 ----
@@ -45,4 +45,17 @@ Rigs
 - `Large Anti-EM Screen Reinforcer II <javascript:CCPEVE.showInfo(26436)>`_
 - `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
 - `Large Core Defense Field Extender II <javascript:CCPEVE.showInfo(26448)>`_
+
+Ammo
+----
+
+- `Void L x1 <javascript:CCPEVE.showInfo(12791)>`_
+- `Null L x1 <javascript:CCPEVE.showInfo(12787)>`_
+
+Drones
+------
+
+- `Garde II x5 <javascript:CCPEVE.showInfo(28211)>`_
+- `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
+- `Light Armor Maintenance Bot I x5 <javascript:CCPEVE.showInfo(23711)>`_
 

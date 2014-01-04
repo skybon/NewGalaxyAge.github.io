@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/scorpion-navy-issue.eft
 .. to edit it.
 
-`Scorpion Navy Issue - 10 <javascript:CCPEVE.showFitting('32309:2048;1:1952;2:19814;2:2281;2:26412;1:22291;4:26420;1:2456;5:2553;1:19739;6:14268;1::');>`_
-==========================================================================================================================================================
+`Scorpion Navy Issue - 10 <javascript:CCPEVE.showFitting('32309:2048;1:1952;2:19814;2:16487;1:2281;2:26442;1:26412;1:2637;1:26416;1:22291;4:2456;15:2553;1:19739;6:14268;1::');>`_
+==================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -16,6 +16,7 @@ High slots
 - `Cruise Missile Launcher II <javascript:CCPEVE.showInfo(19739)>`_
 - `Cruise Missile Launcher II <javascript:CCPEVE.showInfo(19739)>`_
 - `Cruise Missile Launcher II <javascript:CCPEVE.showInfo(19739)>`_
+- `Large 'Regard' Remote Capacitor Transmitter <javascript:CCPEVE.showInfo(16487)>`_
 
 Med slots
 ---------
@@ -41,11 +42,17 @@ Low slots
 Rigs
 ----
 
+- `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
+- `Large Hydraulic Bay Thrusters II <javascript:CCPEVE.showInfo(26416)>`_
 - `Large Warhead Flare Catalyst II <javascript:CCPEVE.showInfo(26412)>`_
-- `Large Warhead Calefaction Catalyst II <javascript:CCPEVE.showInfo(26420)>`_
 
 Ammo
 ----
 
-- `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
+- `Inferno Precision Cruise Missile x1 <javascript:CCPEVE.showInfo(2637)>`_
+
+Drones
+------
+
+- `Hobgoblin II x15 <javascript:CCPEVE.showInfo(2456)>`_
 

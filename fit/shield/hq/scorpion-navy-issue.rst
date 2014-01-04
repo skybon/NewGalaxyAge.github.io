@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/scorpion-navy-issue.eft
 .. to edit it.
 
-`Scorpion Navy Issue - 40 <javascript:CCPEVE.showFitting('32309:2048;1:3841;1:1952;1:2281;2:26412;1:22291;4:12084;1:26420;1:2456;5:2553;1:19739;6:19806;2::');>`_
-=================================================================================================================================================================
+`Scorpion Navy Issue - 40 <javascript:CCPEVE.showFitting('32309:2048;1:3841;1:1952;1:19814;2:2281;2:26442;1:24427;1:26412;1:26416;1:22291;4:12084;1:24533;1:2456;5:2553;1:19739;6::');>`_
+=========================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -16,6 +16,7 @@ High slots
 - `Cruise Missile Launcher II <javascript:CCPEVE.showInfo(19739)>`_
 - `Cruise Missile Launcher II <javascript:CCPEVE.showInfo(19739)>`_
 - `Cruise Missile Launcher II <javascript:CCPEVE.showInfo(19739)>`_
+- `Drone Link Augmentor II <javascript:CCPEVE.showInfo(24427)>`_
 
 Med slots
 ---------
@@ -26,8 +27,8 @@ Med slots
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `100MN Microwarpdrive II <javascript:CCPEVE.showInfo(12084)>`_
 - `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
-- `Target Painter II <javascript:CCPEVE.showInfo(19806)>`_
-- `Target Painter II <javascript:CCPEVE.showInfo(19806)>`_
+- `Phased Weapon Navigation Array Generation Extron <javascript:CCPEVE.showInfo(19814)>`_
+- `Phased Weapon Navigation Array Generation Extron <javascript:CCPEVE.showInfo(19814)>`_
 
 Low slots
 ---------
@@ -41,11 +42,17 @@ Low slots
 Rigs
 ----
 
+- `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
+- `Large Hydraulic Bay Thrusters II <javascript:CCPEVE.showInfo(26416)>`_
 - `Large Warhead Flare Catalyst II <javascript:CCPEVE.showInfo(26412)>`_
-- `Large Warhead Calefaction Catalyst II <javascript:CCPEVE.showInfo(26420)>`_
 
 Ammo
 ----
+
+- `Scourge Fury Cruise Missile x1 <javascript:CCPEVE.showInfo(24533)>`_
+
+Drones
+------
 
 - `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 

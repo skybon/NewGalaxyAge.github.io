@@ -2,22 +2,22 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/abaddon.eft
 .. to edit it.
 
-`Abaddon - 10 <javascript:CCPEVE.showFitting('24692:2048;1:1952;1:26436;1:1447;2:2281;2:26378;1:14268;1:1999;1:3057;8:2456;5:2364;3:26442;1::');>`_
-===================================================================================================================================================
+`Abaddon - 10 <javascript:CCPEVE.showFitting('24692:2048;1:1952;1:26436;1:19814;1:1447;2:2281;2:26378;1:14268;1:1999;1:2456;5:7087;8:2364;3:26442;1::');>`_
+===========================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
 High slots
 ----------
 
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
-- `Mega Pulse Laser II <javascript:CCPEVE.showInfo(3057)>`_
+- `Mega Modulated Pulse Energy Beam I <javascript:CCPEVE.showInfo(7087)>`_
+- `Mega Modulated Pulse Energy Beam I <javascript:CCPEVE.showInfo(7087)>`_
+- `Mega Modulated Pulse Energy Beam I <javascript:CCPEVE.showInfo(7087)>`_
+- `Mega Modulated Pulse Energy Beam I <javascript:CCPEVE.showInfo(7087)>`_
+- `Mega Modulated Pulse Energy Beam I <javascript:CCPEVE.showInfo(7087)>`_
+- `Mega Modulated Pulse Energy Beam I <javascript:CCPEVE.showInfo(7087)>`_
+- `Mega Modulated Pulse Energy Beam I <javascript:CCPEVE.showInfo(7087)>`_
+- `Mega Modulated Pulse Energy Beam I <javascript:CCPEVE.showInfo(7087)>`_
 
 Med slots
 ---------
@@ -47,6 +47,11 @@ Rigs
 
 Ammo
 ----
+
+- `Phased Weapon Navigation Array Generation Extron <javascript:CCPEVE.showInfo(19814)>`_
+
+Drones
+------
 
 - `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 

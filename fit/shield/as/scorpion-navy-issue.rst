@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/as/scorpion-navy-issue.eft
 .. to edit it.
 
-`Scorpion Navy Issue - 20 <javascript:CCPEVE.showFitting('32309:2048;1:1952;2:19814;2:2281;2:26412;1:22291;4:26420;1:2456;5:2553;1:19739;6:14268;1::');>`_
-==========================================================================================================================================================
+`Scorpion Navy Issue - 20 <javascript:CCPEVE.showFitting('32309:2048;1:1952;2:27395;1:19814;3:2281;2:24427;1:26412;1:22291;4:26420;1:24533;1:2456;15:2553;1:19739;6::');>`_
+===========================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -16,6 +16,7 @@ High slots
 - `Cruise Missile Launcher II <javascript:CCPEVE.showInfo(19739)>`_
 - `Cruise Missile Launcher II <javascript:CCPEVE.showInfo(19739)>`_
 - `Cruise Missile Launcher II <javascript:CCPEVE.showInfo(19739)>`_
+- `Drone Link Augmentor II <javascript:CCPEVE.showInfo(24427)>`_
 
 Med slots
 ---------
@@ -25,9 +26,9 @@ Med slots
 - `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
 - `Phased Weapon Navigation Array Generation Extron <javascript:CCPEVE.showInfo(19814)>`_
 - `Phased Weapon Navigation Array Generation Extron <javascript:CCPEVE.showInfo(19814)>`_
+- `Phased Weapon Navigation Array Generation Extron <javascript:CCPEVE.showInfo(19814)>`_
 - `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 - `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
-- `True Sansha Stasis Webifier <javascript:CCPEVE.showInfo(14268)>`_
 
 Low slots
 ---------
@@ -47,5 +48,11 @@ Rigs
 Ammo
 ----
 
-- `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
+- `Scourge Fury Cruise Missile x1 <javascript:CCPEVE.showInfo(24533)>`_
+- `Caldari Navy Scourge Cruise Missile x1 <javascript:CCPEVE.showInfo(27395)>`_
+
+Drones
+------
+
+- `Hobgoblin II x15 <javascript:CCPEVE.showInfo(2456)>`_
 

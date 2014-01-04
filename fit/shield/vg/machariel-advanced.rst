@@ -2,31 +2,31 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/machariel-advanced.eft
 .. to edit it.
 
-`Machariel - 10 - ветеран <javascript:CCPEVE.showFitting('17738:26448;1:17520;1:2456;5:25956;1:29009;1:28668;1:26442;1:12779;1:2446;4:15792;1:2929;7:29011;1:21918;1:3608;1:4347;1:14268;1:15965;3:15806;4:19231;1::');>`_
-=================================================================================================================================================================================================================================
+`Machariel - 10 - ветеран <javascript:CCPEVE.showFitting('17738:26448;1:17520;2:25956;1:29001;1:26442;1:24427;1:15792;1:28211;5:29011;2:2456;5:12761;1:4347;1:28668;1:15965;3:15806;4:19231;1::');>`_
+============================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
 High slots
 ----------
 
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
+- 1400mm Repeating Artillery II
+- 1400mm Repeating Artillery II
+- 1400mm Repeating Artillery II
+- 1400mm Repeating Artillery II
+- 1400mm Repeating Artillery II
+- 1400mm Repeating Artillery II
+- 1400mm Repeating Artillery II
+- `Drone Link Augmentor II <javascript:CCPEVE.showInfo(24427)>`_
 
 Med slots
 ---------
 
 - `Federation Navy Tracking Computer <javascript:CCPEVE.showInfo(15792)>`_
 - `Federation Navy Sensor Booster <javascript:CCPEVE.showInfo(17520)>`_
+- `Federation Navy Sensor Booster <javascript:CCPEVE.showInfo(17520)>`_
 - `Pithum A-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19231)>`_
 - `Pithum A-Type Adaptive Invulnerability Field <javascript:CCPEVE.showInfo(4347)>`_
-- `True Sansha Stasis Webifier <javascript:CCPEVE.showInfo(14268)>`_
 
 Low slots
 ---------
@@ -49,15 +49,14 @@ Rigs
 Ammo
 ----
 
-- `Hail L x1 <javascript:CCPEVE.showInfo(12779)>`_
-- `Republic Fleet Phased Plasma L x1 <javascript:CCPEVE.showInfo(21918)>`_
+- `Quake L x1 <javascript:CCPEVE.showInfo(12761)>`_
 - `Nanite Repair Paste x1 <javascript:CCPEVE.showInfo(28668)>`_
-- `Scan Resolution Script x1 <javascript:CCPEVE.showInfo(29011)>`_
-- `Targeting Range Script x1 <javascript:CCPEVE.showInfo(29009)>`_
+- `Scan Resolution Script x2 <javascript:CCPEVE.showInfo(29011)>`_
+- `Tracking Speed Script x1 <javascript:CCPEVE.showInfo(29001)>`_
 
 Drones
 ------
 
-- `Ogre II x4 <javascript:CCPEVE.showInfo(2446)>`_
+- `Garde II x5 <javascript:CCPEVE.showInfo(28211)>`_
 - `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 

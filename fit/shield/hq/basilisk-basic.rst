@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/basilisk-basic.eft
 .. to edit it.
 
-`Basilisk - 20/40 - бюджет <javascript:CCPEVE.showFitting('11985:2048;1:3841;1:31366;1:16487;2:2281;2:1355;1:19215;1:2456;5:31796;1:3608;4:12058;1::');>`_
-================================================================================================================================================================
+`Basilisk - 20/40 - бюджет <javascript:CCPEVE.showFitting('11985:2048;1:3841;1:31366;1:16487;2:2281;2:1355;1:2456;5:31796;1:3608;4:2553;1:12058;1::');>`_
+===============================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -22,7 +22,7 @@ Med slots
 
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
-- `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
+- `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
 - `10MN Afterburner II <javascript:CCPEVE.showInfo(12058)>`_
 - `Large Shield Extender II <javascript:CCPEVE.showInfo(3841)>`_
 

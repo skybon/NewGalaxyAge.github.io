@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/scimitar-basic.eft
 .. to edit it.
 
-`Scimitar - 10 - бюджет <javascript:CCPEVE.showFitting('11978:2456;5:1541;1:31366;1:1447;3:2281;2:28999;2:3608;4:31378;1:29001;2:2104;2:12058;1:28668;300::');>`_
-=======================================================================================================================================================================
+`Scimitar - 10 - бюджет <javascript:CCPEVE.showFitting('11978:2456;5:1541;1:31366;1:1447;3:2281;1:28999;3:3608;4:31378;1:29001;3:2104;3:12058;1:28668;300:22175;1::');>`_
+===============================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -19,8 +19,8 @@ Med slots
 ---------
 
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
-- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `10MN Afterburner II <javascript:CCPEVE.showInfo(12058)>`_
+- `Remote Tracking Computer II <javascript:CCPEVE.showInfo(2104)>`_
 - `Remote Tracking Computer II <javascript:CCPEVE.showInfo(2104)>`_
 - `Remote Tracking Computer II <javascript:CCPEVE.showInfo(2104)>`_
 
@@ -41,9 +41,10 @@ Rigs
 Ammo
 ----
 
+- `Data Analyzer I <javascript:CCPEVE.showInfo(22175)>`_
 - `Nanite Repair Paste x300 <javascript:CCPEVE.showInfo(28668)>`_
-- `Tracking Speed Script x2 <javascript:CCPEVE.showInfo(29001)>`_
-- `Optimal Range Script x2 <javascript:CCPEVE.showInfo(28999)>`_
+- `Tracking Speed Script x3 <javascript:CCPEVE.showInfo(29001)>`_
+- `Optimal Range Script x3 <javascript:CCPEVE.showInfo(28999)>`_
 
 Drones
 ------

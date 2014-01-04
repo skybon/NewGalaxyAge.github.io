@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/raven-navy-issue.eft
 .. to edit it.
 
-`Raven Navy Issue - 10 <javascript:CCPEVE.showFitting('17636:2048;1:1952;1:19814;2:2281;2:26442;1:26414;1:26448;1:22291;4:2456;5:2553;1:19739;8:14268;1::');>`_
-===============================================================================================================================================================
+`Raven Navy Issue - 10 <javascript:CCPEVE.showFitting('17636:2048;1:1952;1:19814;2:2281;2:26442;1:26412;1:2637;1:26414;1:29011;1:22291;4:24533;1:2456;15:2553;1:19739;8:14268;1::');>`_
+=======================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -43,11 +43,18 @@ Rigs
 ----
 
 - `Large Anti-Thermal Screen Reinforcer II <javascript:CCPEVE.showInfo(26442)>`_
-- `Large Core Defense Field Extender II <javascript:CCPEVE.showInfo(26448)>`_
+- `Large Warhead Flare Catalyst II <javascript:CCPEVE.showInfo(26412)>`_
 - `Large Warhead Rigor Catalyst II <javascript:CCPEVE.showInfo(26414)>`_
 
 Ammo
 ----
 
-- `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
+- `Inferno Precision Cruise Missile x1 <javascript:CCPEVE.showInfo(2637)>`_
+- `Scourge Fury Cruise Missile x1 <javascript:CCPEVE.showInfo(24533)>`_
+- `Scan Resolution Script x1 <javascript:CCPEVE.showInfo(29011)>`_
+
+Drones
+------
+
+- `Hobgoblin II x15 <javascript:CCPEVE.showInfo(2456)>`_
 

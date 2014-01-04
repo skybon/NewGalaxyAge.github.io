@@ -2,15 +2,15 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/megathron-navy-issue.eft
 .. to edit it.
 
-`Megathron Navy Issue - 10 <javascript:CCPEVE.showFitting('17728:2048;1:1952;1:26436;1:2281;2:26442;1:10190;3:1999;4:26448;1:2456;5:3186;7:3608;1:14268;1::');>`_
-=================================================================================================================================================================
+`Megathron Navy Issue - 10 <javascript:CCPEVE.showFitting('17728:1952;1:26436;1:2281;2:26442;1:24427;1:10190;4:1999;2:26448;1:22993;1:3186;7:29011;1:4405;2:28211;5:2456;5:23001;1:14268;1:23711;5::');>`_
+==========================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
 High slots
 ----------
 
-- `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
+- `Drone Link Augmentor II <javascript:CCPEVE.showInfo(24427)>`_
 - `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
 - `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
 - `Neutron Blaster Cannon II <javascript:CCPEVE.showInfo(3186)>`_
@@ -30,14 +30,14 @@ Med slots
 Low slots
 ---------
 
-- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
+- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
 - `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
-- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
-- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
+- `Drone Damage Amplifier II <javascript:CCPEVE.showInfo(4405)>`_
+- `Drone Damage Amplifier II <javascript:CCPEVE.showInfo(4405)>`_
 
 Rigs
 ----
@@ -49,11 +49,14 @@ Rigs
 Ammo
 ----
 
-- Federation Navy Antimatter L x1
-- Federation Navy Lead L x1
+- `Federation Navy Antimatter Charge L x1 <javascript:CCPEVE.showInfo(22993)>`_
+- `Federation Navy Lead Charge L x1 <javascript:CCPEVE.showInfo(23001)>`_
+- `Scan Resolution Script x1 <javascript:CCPEVE.showInfo(29011)>`_
 
 Drones
 ------
 
+- `Garde II x5 <javascript:CCPEVE.showInfo(28211)>`_
 - `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
+- `Light Armor Maintenance Bot I x5 <javascript:CCPEVE.showInfo(23711)>`_
 

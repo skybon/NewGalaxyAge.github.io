@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/as/scimitar-advanced.eft
 .. to edit it.
 
-`Scimitar - 20/40 - ветеран <javascript:CCPEVE.showFitting('11978:14240;3:18688;1:2456;5:31366;1:3608;4:28999;3:28668;300:17528;3:31378;1:29001;3:14136;1:4348;1::');>`_
-===============================================================================================================================================================================
+`Scimitar - 20/40 - ветеран <javascript:CCPEVE.showFitting('11978:18688;1:14240;3:1541;1:31366;1:1447;3:28668;300:28999;3:2456;5:31378;1:29001;3:3608;4:4348;1::');>`_
+=============================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -27,10 +27,10 @@ Med slots
 Low slots
 ---------
 
-- `True Sansha Power Diagnostic System <javascript:CCPEVE.showInfo(14136)>`_
-- `Imperial Navy Capacitor Power Relay <javascript:CCPEVE.showInfo(17528)>`_
-- `Imperial Navy Capacitor Power Relay <javascript:CCPEVE.showInfo(17528)>`_
-- `Imperial Navy Capacitor Power Relay <javascript:CCPEVE.showInfo(17528)>`_
+- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Power Diagnostic System II <javascript:CCPEVE.showInfo(1541)>`_
 
 Rigs
 ----

@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/vindicator-basic.eft
 .. to edit it.
 
-`Vindicator - 10 - бюджет <javascript:CCPEVE.showFitting('17740:2048;1:1952;1:26404;1:7783;8:2281;2:26442;1:2444;4:28668;1000:10190;3:1999;3:26448;1:22993;10000:29011;1:2454;5:23001;3200:19215;1:14268;1::');>`_
-========================================================================================================================================================================================================================
+`Vindicator - 10 - бюджет <javascript:CCPEVE.showFitting('17740:1952;1:26404;1:7783;8:2281;2:26442;1:28668;1000:10190;4:19215;1:26448;1:22993;10000:29011;1:2454;5:23561;5:23001;3200:1999;3:14268;1::');>`_
+==================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -31,7 +31,7 @@ Med slots
 Low slots
 ---------
 
-- `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
+- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
@@ -57,6 +57,6 @@ Ammo
 Drones
 ------
 
-- `Ogre I x4 <javascript:CCPEVE.showInfo(2444)>`_
+- `Garde I x5 <javascript:CCPEVE.showInfo(23561)>`_
 - `Hobgoblin I x5 <javascript:CCPEVE.showInfo(2454)>`_
 

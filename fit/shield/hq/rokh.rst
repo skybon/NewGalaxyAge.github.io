@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/hq/rokh.eft
 .. to edit it.
 
-`Rokh - 40 <javascript:CCPEVE.showFitting('24688:2048;1:1952;1:12803;1:1447;1:26088;1:2281;2:26442;1:12807;1:10190;2:1999;1:2032;1:22993;1:3090;8:12084;1:22999;1:2456;5:19215;1:25948;1::');>`_
-================================================================================================================================================================================================
+`Rokh - 40 <javascript:CCPEVE.showFitting('24688:2048;1:1952;1:12803;1:1447;1:26088;1:2281;2:26442;1:12807;1:10190;2:1999;1:2032;1:22993;1:3090;8:12084;1:22999;1:2456;5:2553;1:25948;1::');>`_
+===============================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -27,7 +27,7 @@ Med slots
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Cap Recharger II <javascript:CCPEVE.showInfo(2032)>`_
 - `100MN Microwarpdrive II <javascript:CCPEVE.showInfo(12084)>`_
-- `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
+- `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
 
 Low slots
 ---------

@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/scimitar-standard.eft
 .. to edit it.
 
-`Scimitar - 10 - средний <javascript:CCPEVE.showFitting('11978:2456;5:1541;2:31366;1:1447;2:3608;4:31378;1:2104;3:12058;1:4349;1::');>`_
-===============================================================================================================================================
+`Scimitar - 10 - средний <javascript:CCPEVE.showFitting('11978:2456;5:1541;1:31366;1:1447;3:29001;3:28999;3:3608;4:31378;1:2104;3:18682;1:28668;300:4349;1:22175;1::');>`_
+=================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -21,14 +21,14 @@ Med slots
 - `Remote Tracking Computer II <javascript:CCPEVE.showInfo(2104)>`_
 - `Remote Tracking Computer II <javascript:CCPEVE.showInfo(2104)>`_
 - `Remote Tracking Computer II <javascript:CCPEVE.showInfo(2104)>`_
-- `10MN Afterburner II <javascript:CCPEVE.showInfo(12058)>`_
+- `Corelum C-Type 10MN Afterburner <javascript:CCPEVE.showInfo(18682)>`_
 - `Pithum C-Type Adaptive Invulnerability Field <javascript:CCPEVE.showInfo(4349)>`_
 
 Low slots
 ---------
 
 - `Power Diagnostic System II <javascript:CCPEVE.showInfo(1541)>`_
-- `Power Diagnostic System II <javascript:CCPEVE.showInfo(1541)>`_
+- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
 - `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
 - `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
 
@@ -40,6 +40,14 @@ Rigs
 
 Ammo
 ----
+
+- `Data Analyzer I <javascript:CCPEVE.showInfo(22175)>`_
+- `Nanite Repair Paste x300 <javascript:CCPEVE.showInfo(28668)>`_
+- `Tracking Speed Script x3 <javascript:CCPEVE.showInfo(29001)>`_
+- `Optimal Range Script x3 <javascript:CCPEVE.showInfo(28999)>`_
+
+Drones
+------
 
 - `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 
