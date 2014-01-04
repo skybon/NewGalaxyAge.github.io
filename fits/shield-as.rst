@@ -19,13 +19,13 @@
 
 **\*\*\*\*** Machariel ( :doc:`бюджет </fit/shield/as/machariel-basic>` | :doc:`средний </fit/shield/as/machariel-standard>` | :doc:`ветеран </fit/shield/as/machariel-advanced>` )
 
-\*\*\*\* Loki ( :doc:`бюджет </fit/shield/as/loki-basic>` | :doc:`средний </fit/shield/as/loki-standard>` | :doc:`ветеран </fit/shield/as/loki-advanced>` )
+**\*\*\*\*** :doc:`Vargur </fit/shield/as/vargur>`
+
+\*\*\*\* :doc:`Loki </fit/shield/as/loki>`
 
 \*\*\*\* :doc:`Megathron Navy Issue </fit/shield/as/megathron-navy-issue>`
 
 \*\*\*\* :doc:`Bhaalgorn </fit/shield/as/bhaalgorn>`
-
-\*\*\* :doc:`Vargur </fit/shield/as/vargur>`
 
 \*\*\* :doc:`Tempest Fleet Issue </fit/shield/as/tempest-fleet-issue>`
 
