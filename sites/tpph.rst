@@ -1,8 +1,8 @@
 TPPH - True Power Provisional Headquarters
 =========================================
 
-Доп. задания:
-    Нет
+Задание:
+    Уничтожить башню (Штаб-квартиру True Power)
 
 Первый карман
 -------------
@@ -11,7 +11,7 @@ TPPH - True Power Provisional Headquarters
 
 * Auga Hypophysis
 * Outuni Mesen
-* Vylade Deen
+* Vylade Dien
 * Ostingele Tectum
 * Schmaeel Medulla
 * Renyn Meten
@@ -52,14 +52,13 @@ TPPH - True Power Provisional Headquarters
 * Deltole Tegmentum
 * Intaki Colliculus
 * Ostingele Tectum (последний - триггер следующей волны)
-* Romi Thalamus
 * Tama Cerebellum
 * Schmaeel Medulla
 * Renyn Meten
 
 3-ая волна:
 
-* Arnon Epithalamus (данный тип неписи ФК озвучивает голосом, и таги не назначаются)
+* Arnon Epithalamus (любой без тага - данный тип NPC ФК озвучивает голосом, и таги не назначаются)
 * Outuni Mesen
 * Vylade Deen
 * Antem Neo
@@ -71,4 +70,4 @@ TPPH - True Power Provisional Headquarters
 
 
 Когда в гриде флот сносит фрегаты, следует команда выпустить тяжелых дронов (Центриков). По уничтожению всей неписи, лочится и уничтожается башня (Sansha Battletower). Тяжелые дроны отправляются на башню самостоятельно.
-По остатку 15% структуры башни, идёт команда собрать дронов. После уничтожения башни флот получает выплату.
+По остатку 15% структуры башни, флот собирает дронов, а по уничтожению - получает выплату.
