@@ -55,6 +55,7 @@ Armor-формат:
 * Kobius
 * Lexiboth Hita
 * Mikhail MustDie
+* Samarys Flint
 * Sheryl Niome
 * Tech Ostus
 * Trong Sa
