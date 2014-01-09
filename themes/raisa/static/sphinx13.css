@@ -14,9 +14,9 @@
 /* -- page layout ----------------------------------------------------------- */
 
 body {
-    font-family: 'Open Sans', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva',
+    font-family: 'Ubuntu', 'Open Sans', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva',
                  'Verdana', sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
     background-image: url(bodybg.png);
     color: black;
@@ -170,7 +170,7 @@ div.sphinxsidebar .logo img {
 
 div.sphinxsidebar input {
     border: 1px solid #aaa;
-    font-family: 'Open Sans', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva',
+    font-family: 'Ubuntu', 'Open Sans', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva',
                  'Verdana', sans-serif;
     font-size: 1em;
 }
@@ -298,7 +298,7 @@ a.headerlink:hover {
 }
 
 cite, code, tt {
-    font-family: 'Consolas', 'DejaVu Sans Mono',
+    font-family: 'Ubuntu Mono', 'Consolas', 'DejaVu Sans Mono',
                  'Bitstream Vera Sans Mono', monospace;
     font-size: 14px;
     letter-spacing: -0.02em;
@@ -331,7 +331,7 @@ a tt:hover {
 }
 
 pre {
-    font-family: 'Consolas', 'DejaVu Sans Mono',
+    font-family: 'Ubuntu Mono', 'Consolas', 'DejaVu Sans Mono',
                  'Bitstream Vera Sans Mono', monospace;
     font-size: 13px;
     letter-spacing: 0.015em;
@@ -413,7 +413,7 @@ div.warning ul, div.warning ol {
 }
 
 .viewcode-back {
-    font-family: 'Open Sans', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva',
+    font-family: 'Ubuntu', 'Open Sans', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva',
                  'Verdana', sans-serif;
 }
 
