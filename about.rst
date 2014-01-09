@@ -16,54 +16,48 @@ Armor-формат:
 * RAISA Armor - новости канала RAISA Armor
 * RAISA Armor CTA - оповещения о сборе флота и переездах
 
-Общие рассылки:
+Команда RAISA
+-------------
 
-* RAISA Trade - купи-продай на тему вторжений
-
-Руководство RAISA
------------------
-
-* Zwo Zateki
-* Padegejas
-* Yart Skord / Alex Amato
-* *Pavel Leopa*
-
-Дипломатический корпус
-----------------------
-
-* Zwo Zateki
-* Padegejas
-* Grim Hinken
-* Xilia Otsu / Korami Barbokan 
-
-ФК канала RAISA Shield
-----------------------
-
-Старшие ФК (обладают полномочиями зам. руководства):
-
-* Pavel Leopa
-
-ФК:
-
-* Bellatrix Atria
-* Cloned S0ul
-* DarkMishgan
-* Djokart
-* Eva Pride
-* Grim Altero / Mia Cloks
-* Grim Hinken
-* Kobius
-* Lexiboth Hita
-* Mikhail MustDie
-* Samarys Flint
-* Sheryl Niome
-* Tech Ostus
-* Trong Sa
-* Xilia Otsu / Korami Barbokan
-
-ФК канала RAISA Armor
----------------------
-
-* Bellatrix Atria
-* Cloned S0ul
-* Xilia Otsu / Korami Barbokan
++----------------------------+------------------------------------------------------+----------------+
+|Имя пилота                  |Должность / роль                                      |Владение языками|
++----------------------------+------------------------------------------------------+----------------+
+|Zwo Zateki                  |Основатель сообщества, администратор фонда страхования|RU / EN / DE    |
+|                            |                                                      |                |
+|Padegejas                   |Руководство                                           |LV / RU / EN    |
+|                            |                                                      |                |
+|Yart Skord / Alex Amato     |Руководство                                           |RU              |
+|                            |                                                      |                |
+|Pavel Leopa                 |Зам. руководства                                      |RU              |
+|                            |                                                      |                |
+|Grim Hinken                 |Дипломат                                              |RU / EN         |
+|                            |                                                      |                |
+|Xilia Otsu / Korami Barbokan|Дипломат                                              |RU / EN         |
+|                            |                                                      |                |
+|Grim Altero / Mia Cloks     |Инфраструктура сообщества                             |RU / EN         |
++----------------------------+------------------------------------------------------+----------------+
+|Bellatrix Atria             |ФК                                                    |RU              |
+|                            |                                                      |                |
+|Cloned S0ul                 |ФК                                                    |RU              |
+|                            |                                                      |                |
+|DarkMishgan                 |ФК                                                    |RU              |
+|                            |                                                      |                |
+|Djokart                     |ФК                                                    |RU              |
+|                            |                                                      |                |
+|Eva Pride                   |ФК                                                    |RU              |
+|                            |                                                      |                |
+|Kobius                      |ФК                                                    |RU              |
+|                            |                                                      |                |
+|Lexiboth Hita               |ФК                                                    |RU              |
+|                            |                                                      |                |
+|Mikhail MustDie             |ФК                                                    |RU              |
+|                            |                                                      |                |
+|Samarys Flint               |ФК                                                    |RU              |
+|                            |                                                      |                |
+|Sheryl Niome                |ФК                                                    |RU              |
+|                            |                                                      |                |
+|Tech Ostus                  |ФК                                                    |RU              |
+|                            |                                                      |                |
+|Trong Sa                    |ФК                                                    |RU              |
+|                            |                                                      |                |
++----------------------------+------------------------------------------------------+----------------+
