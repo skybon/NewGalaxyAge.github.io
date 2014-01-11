@@ -2,7 +2,7 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/golem.eft
 .. to edit it.
 
-`Golem - 10 <javascript:CCPEVE.showFitting('28710:1952;1:2185;5:16487;2:31944;2:2281;2:29011;1:26412;1:26414;1:19215;1:2456;5:22291;3:17559;1:3608;1:19739;4:27932;1:24541;1::');>`_
+`Golem - 10 <javascript:CCPEVE.showFitting('28710:1952;1:16487;2:31944;2:2281;2:29011;1:26412;1:26414;1:19215;1:2456;5:22291;4:27932;1:2185;5:3608;1:19739;4:14268;1:24541;1::');>`_
 ====================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
@@ -28,11 +28,12 @@ Med slots
 - `Republic Fleet Target Painter <javascript:CCPEVE.showInfo(31944)>`_
 - `Republic Fleet Target Painter <javascript:CCPEVE.showInfo(31944)>`_
 - `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
-- `Federation Navy Stasis Webifier <javascript:CCPEVE.showInfo(17559)>`_
+- `True Sansha Stasis Webifier <javascript:CCPEVE.showInfo(14268)>`_
 
 Low slots
 ---------
 
+- `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
 - `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
 - `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
 - `Ballistic Control System II <javascript:CCPEVE.showInfo(22291)>`_
