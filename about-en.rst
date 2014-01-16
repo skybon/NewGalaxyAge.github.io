@@ -1,28 +1,9 @@
 Russian Allied Incursions: Shield and Armor
 ===========================================
 
-English-speaking leadership / Head FCs
+RAISA Team
 -----------------
 
-* Zwo Zateki
-* Padegejas
+.. raw:: html
 
-Diplomacy
-----------------------
-
-* Zwo Zateki
-* Padegejas
-* Grim Hinken
-* Xilia Otsu / Korami Barbokan 
-
-English-speaking RAISA Shield FCs
-----------------------
-
-* Grim Altero / Mia Cloks
-* Grim Hinken
-* Xilia Otsu / Korami Barbokan 
-
-English-speaking RAISA Armor FCs
----------------------
-
-* Xilia Otsu / Korami Barbokan
+   <div style="margin-top:10px;"><iframe width='800' height='1200' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0AgSlDnvUmcWUdHM3aWdnM2xQNS1kd2Q1c09PSWI2dVE&single=true&gid=0&range=A1%3AC100&output=html&widget=false'></iframe></div>
