@@ -2,22 +2,22 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/maelstrom.eft
 .. to edit it.
 
-`Maelstrom - 10 <javascript:CCPEVE.showFitting('24694:2048;1:1952;1:519;3:2281;2:26442;1:1999;1:26448;2:2929;8:2456;5:2553;1:1978;1:14268;1::');>`_
-===================================================================================================================================================
+`Maelstrom - 10 <javascript:CCPEVE.showFitting('24694:2048;1:1952;1:519;3:2281;2:26442;1:1999;1:26448;2:2456;5:2553;1:1978;1:14268;1::');>`_
+============================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
 High slots
 ----------
 
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
+- 800mm Repeating Cannon II
+- 800mm Repeating Cannon II
+- 800mm Repeating Cannon II
+- 800mm Repeating Cannon II
+- 800mm Repeating Cannon II
+- 800mm Repeating Cannon II
+- 800mm Repeating Cannon II
+- 800mm Repeating Cannon II
 
 Med slots
 ---------

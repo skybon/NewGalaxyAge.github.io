@@ -2,21 +2,21 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/machariel-basic.eft
 .. to edit it.
 
-`Machariel - 10 - бюджет <javascript:CCPEVE.showFitting('17738:2048;1:1952;1:25956;1:519;4:2281;2:26442;1:9327;7:2444;4:28668;1:1999;2:26448;1:29009;1:29011;1:2454;5:3608;1:19215;1:14268;1:21918;1::');>`_
-==================================================================================================================================================================================================================
+`Machariel - 10 - бюджет <javascript:CCPEVE.showFitting('17738:2048;1:1952;1:25956;1:519;4:2281;2:26442;1:2444;4:28668;1:1999;2:26448;1:29009;1:29011;1:2454;5:3608;1:19215;1:14268;1:21918;1::');>`_
+===========================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
 High slots
 ----------
 
-- `800mm Heavy 'Scout' Repeating Artillery I <javascript:CCPEVE.showInfo(9327)>`_
-- `800mm Heavy 'Scout' Repeating Artillery I <javascript:CCPEVE.showInfo(9327)>`_
-- `800mm Heavy 'Scout' Repeating Artillery I <javascript:CCPEVE.showInfo(9327)>`_
-- `800mm Heavy 'Scout' Repeating Artillery I <javascript:CCPEVE.showInfo(9327)>`_
-- `800mm Heavy 'Scout' Repeating Artillery I <javascript:CCPEVE.showInfo(9327)>`_
-- `800mm Heavy 'Scout' Repeating Artillery I <javascript:CCPEVE.showInfo(9327)>`_
-- `800mm Heavy 'Scout' Repeating Artillery I <javascript:CCPEVE.showInfo(9327)>`_
+- 800mm Heavy 'Scout' Repeating Cannon I
+- 800mm Heavy 'Scout' Repeating Cannon I
+- 800mm Heavy 'Scout' Repeating Cannon I
+- 800mm Heavy 'Scout' Repeating Cannon I
+- 800mm Heavy 'Scout' Repeating Cannon I
+- 800mm Heavy 'Scout' Repeating Cannon I
+- 800mm Heavy 'Scout' Repeating Cannon I
 - `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
 
 Med slots

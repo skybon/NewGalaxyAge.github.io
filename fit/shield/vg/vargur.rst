@@ -2,18 +2,18 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/vargur.eft
 .. to edit it.
 
-`Vargur - 10 <javascript:CCPEVE.showFitting('28665:2048;1:1952;2:2456;15:12102;2:519;3:26428;1:26442;1:1999;1:2929;4:3986;1:3608;1:2553;1:1978;1:14268;1:4349;1:21918;35000::');>`_
-===================================================================================================================================================================================
+`Vargur - 10 <javascript:CCPEVE.showFitting('28665:2048;1:1952;2:12102;2:519;3:26428;1:26442;1:1999;1:2456;15:3986;1:3608;1:2553;1:1978;1:14268;1:4349;1:21918;35000::');>`_
+============================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
 High slots
 ----------
 
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
+- 800mm Repeating Cannon II
+- 800mm Repeating Cannon II
+- 800mm Repeating Cannon II
+- 800mm Repeating Cannon II
 - `Large Remote Capacitor Transmitter II x2 <javascript:CCPEVE.showInfo(12102)>`_
 - `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
 - `Large Remote Hull Repairer II <javascript:CCPEVE.showInfo(3986)>`_
