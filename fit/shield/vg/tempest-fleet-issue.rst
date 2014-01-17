@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/vg/tempest-fleet-issue.eft
 .. to edit it.
 
-`Tempest Fleet Issue - 10 <javascript:CCPEVE.showFitting('17732:1952;1:19814;1:519;4:2281;2:26442;1:16487;1:1999;3:26448;2:2456;5:3608;1:2553;1:14268;1::');>`_
-===============================================================================================================================================================
+`Tempest Fleet Issue - 10 <javascript:CCPEVE.showFitting('17732:1952;1:2456;5:19814;1:519;4:2281;2:26442;1:16487;1:1999;3:26448;2:2929;6:3608;1:2553;1:14268;1::');>`_
+======================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -12,12 +12,12 @@ High slots
 
 - `Large 'Regard' Remote Capacitor Transmitter <javascript:CCPEVE.showInfo(16487)>`_
 - `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
-- 800mm Repeating Cannon II
-- 800mm Repeating Cannon II
-- 800mm Repeating Cannon II
-- 800mm Repeating Cannon II
-- 800mm Repeating Cannon II
-- 800mm Repeating Cannon II
+- `800mm Repeating Cannon II <javascript:CCPEVE.showInfo(2929)>`_
+- `800mm Repeating Cannon II <javascript:CCPEVE.showInfo(2929)>`_
+- `800mm Repeating Cannon II <javascript:CCPEVE.showInfo(2929)>`_
+- `800mm Repeating Cannon II <javascript:CCPEVE.showInfo(2929)>`_
+- `800mm Repeating Cannon II <javascript:CCPEVE.showInfo(2929)>`_
+- `800mm Repeating Cannon II <javascript:CCPEVE.showInfo(2929)>`_
 
 Med slots
 ---------

@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/armor/vg/armageddon.eft
 .. to edit it.
 
-`Armageddon - армор - 10 <javascript:CCPEVE.showFitting('643:2048;1:20353;1:25890;1:1952;2:25892;1:11269;2:519;2:16455;1:2929;5:28211;5:17559;1:1978;1:16487;1:11229;1:26430;1::');>`_
-===========================================================================================================================================================================================
+`Armageddon - армор - 10 <javascript:CCPEVE.showFitting('643:2048;1:20353;1:25890;1:1952;2:25892;1:11269;2:519;2:16455;1:28211;5:17559;1:1978;1:16487;1:11229;1:26430;1::');>`_
+====================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -12,11 +12,11 @@ High slots
 
 - `Large 'Solace' Remote Armor Repairer <javascript:CCPEVE.showInfo(16455)>`_
 - `Large 'Regard' Remote Capacitor Transmitter <javascript:CCPEVE.showInfo(16487)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Artillery II <javascript:CCPEVE.showInfo(2929)>`_
+- 800mm Repeating Artillery II
+- 800mm Repeating Artillery II
+- 800mm Repeating Artillery II
+- 800mm Repeating Artillery II
+- 800mm Repeating Artillery II
 
 Med slots
 ---------
