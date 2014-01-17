@@ -1415,7 +1415,7 @@
         "slot": "high", 
         "id": 3573
     }, 
-    "6x2500mm Repeating Artillery I": {
+    "6x2500mm Repeating Cannon I": {
         "slot": "high", 
         "id": 20452
     }, 
@@ -1479,11 +1479,11 @@
         "slot": "high", 
         "id": 7247
     }, 
-    "800mm Heavy 'Jolt' Repeating Artillery I": {
+    "800mm Heavy 'Jolt' Repeating Cannon I": {
         "slot": "high", 
         "id": 21557
     }, 
-    "800mm Heavy 'Scout' Repeating Artillery I": {
+    "800mm Heavy 'Scout' Repeating Cannon I": {
         "slot": "high", 
         "id": 9327
     }, 
@@ -1523,11 +1523,11 @@
         "slot": "low", 
         "id": 11315
     }, 
-    "800mm Repeating Artillery I": {
+    "800mm Repeating Cannon I": {
         "slot": "high", 
         "id": 496
     }, 
-    "800mm Repeating Artillery II": {
+    "800mm Repeating Cannon II": {
         "slot": "high", 
         "id": 2929
     }, 
@@ -6491,7 +6491,7 @@
         "slot": "high", 
         "id": 13784
     }, 
-    "Domination 800mm Repeating Artillery": {
+    "Domination 800mm Repeating Cannon": {
         "slot": "high", 
         "id": 13785
     }, 
@@ -6567,7 +6567,7 @@
         "slot": "high", 
         "id": 13787
     }, 
-    "Domination Dual 650mm Repeating Artillery": {
+    "Domination Dual 650mm Repeating Cannon": {
         "slot": "high", 
         "id": 13788
     }, 
@@ -7507,7 +7507,7 @@
         "slot": "high", 
         "id": 9253
     }, 
-    "Dual 650mm 'Scout' Repeating Artillery I": {
+    "Dual 650mm 'Scout' Repeating Cannon I": {
         "slot": "high", 
         "id": 9287
     }, 
@@ -7523,11 +7523,11 @@
         "slot": "high", 
         "id": 9293
     }, 
-    "Dual 650mm Repeating Artillery I": {
+    "Dual 650mm Repeating Cannon I": {
         "slot": "high", 
         "id": 495
     }, 
-    "Dual 650mm Repeating Artillery II": {
+    "Dual 650mm Repeating Cannon II": {
         "slot": "high", 
         "id": 2953
     }, 
@@ -9251,7 +9251,7 @@
         "slot": "med", 
         "id": 14496
     }, 
-    "Gotan's Modified 800mm Repeating Artillery": {
+    "Gotan's Modified 800mm Repeating Cannon": {
         "slot": "high", 
         "id": 14459
     }, 
@@ -9271,7 +9271,7 @@
         "slot": "high", 
         "id": 14471
     }, 
-    "Gotan's Modified Dual 650mm Repeating Artillery": {
+    "Gotan's Modified Dual 650mm Repeating Cannon": {
         "slot": "high", 
         "id": 14475
     }, 
@@ -14351,7 +14351,7 @@
         "slot": "med", 
         "id": 14492
     }, 
-    "Mizuro's Modified 800mm Repeating Artillery": {
+    "Mizuro's Modified 800mm Repeating Cannon": {
         "slot": "high", 
         "id": 14457
     }, 
@@ -14371,7 +14371,7 @@
         "slot": "high", 
         "id": 14469
     }, 
-    "Mizuro's Modified Dual 650mm Repeating Artillery": {
+    "Mizuro's Modified Dual 650mm Repeating Cannon": {
         "slot": "high", 
         "id": 14473
     }, 
@@ -16315,7 +16315,7 @@
         "slot": "high", 
         "id": 16056
     }, 
-    "Republic Fleet 800mm Repeating Artillery": {
+    "Republic Fleet 800mm Repeating Cannon": {
         "slot": "high", 
         "id": 16057
     }, 
@@ -16395,7 +16395,7 @@
         "slot": "high", 
         "id": 16059
     }, 
-    "Republic Fleet Dual 650mm Repeating Artillery": {
+    "Republic Fleet Dual 650mm Repeating Cannon": {
         "slot": "high", 
         "id": 16060
     }, 
