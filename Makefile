@@ -34,7 +34,7 @@ deploy: clean html
 	cd $(BUILDDIR) && \
 		git add -A && \
 		git commit -m "Updated at `LANG=C date`" && \
-		git push origin master
+		git push origin HEAD:master
 	git add -A && \
 		git commit -m "Updated at `LANG=C date`" && \
 		git rebase origin/source && \
