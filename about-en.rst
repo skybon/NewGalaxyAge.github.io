@@ -9,11 +9,6 @@ Shield fleets:
 * RAISA Shield - RAISA Shield news
 * RAISA Shield CTA - fleet and move notifications
 
-Armor fleets:
-
-* RAISA Armor - RAISA Armor news
-* RAISA Armor CTA - fleet and move notifications
-
 RAISA Team
 -----------------
 

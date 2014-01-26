@@ -11,11 +11,6 @@ Shield-формат:
 * RAISA Shield - новости канала RAISA Shield
 * RAISA Shield CTA - оповещения о сборе флота и переездах
 
-Armor-формат:
-
-* RAISA Armor - новости канала RAISA Armor
-* RAISA Armor CTA - оповещения о сборе флота и переездах
-
 Команда RAISA
 -------------
 .. raw:: html

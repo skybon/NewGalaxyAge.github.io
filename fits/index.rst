@@ -1,27 +1,12 @@
 Фиты
 ====
 
-.. warning::
-    Страница находится в разработке
-
 Shield-формат
 -------------
 
 .. toctree::
   :maxdepth: 1
 
-  shield-vg
-  shield-as
-  shield-hq
-  shield-nocompens
+  shield-10
+  shield-20-40
 
-Armor-формат
-------------
-
-.. toctree::
-  :maxdepth: 1
-
-  armor-vg
-  armor-as
-  armor-hq
-  armor-nocompens
