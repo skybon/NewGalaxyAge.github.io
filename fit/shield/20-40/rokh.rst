@@ -2,7 +2,7 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/20-40/rokh.eft
 .. to edit it.
 
-`Rokh - 40 <javascript:CCPEVE.showFitting('24688:2048;1:1952;1:12803;1:1447;1:26088;1:2281;2:26442;1:12807;1:10190;2:1999;1:2032;1:22993;1:3090;8:12084;1:22999;1:2456;5:2553;1:25948;1::');>`_
+`Rokh - 40 <javascript:CCPEVE.showFitting('24688:2048;1:1952;1:12803;1:12807;1:26088;1:2281;2:26442;1:8173;1:10190;2:1999;1:2032;1:22993;1:3090;8:12084;1:22999;1:2456;5:2553;1:25948;1::');>`_
 ===============================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
@@ -33,7 +33,7 @@ Low slots
 ---------
 
 - `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
-- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Beta Reactor Control: Capacitor Power Relay I <javascript:CCPEVE.showInfo(8173)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_

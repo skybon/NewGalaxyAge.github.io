@@ -2,7 +2,7 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/20-40/hyperion.eft
 .. to edit it.
 
-`Hyperion <javascript:CCPEVE.showFitting('24690:2048;1:3841;1:1447;1:26088;2:2281;2:26442;1:10190;3:1999;2:3186;6:12084;1:2456;5:2553;1::');>`_
+`Hyperion <javascript:CCPEVE.showFitting('24690:2048;1:3841;1:26088;2:2281;2:26442;1:8173;1:10190;3:1999;2:3186;6:12084;1:2456;5:2553;1::');>`_
 ===============================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
@@ -30,7 +30,7 @@ Low slots
 ---------
 
 - `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
-- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Beta Reactor Control: Capacitor Power Relay I <javascript:CCPEVE.showInfo(8173)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
 - `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_

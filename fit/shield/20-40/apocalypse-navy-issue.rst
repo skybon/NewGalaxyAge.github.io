@@ -2,7 +2,7 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/20-40/apocalypse-navy-issue.eft
 .. to edit it.
 
-`Apocalypse Navy Issue - 40 <javascript:CCPEVE.showFitting('17726:2048;1:3841;1:26436;1:1447;3:26088;1:2281;2:26442;1:1999;1:3057;8:12084;1:2456;5:2364;3::');>`_
+`Apocalypse Navy Issue - 40 <javascript:CCPEVE.showFitting('17726:2048;1:3841;1:26436;1:26088;1:2281;2:26442;1:8173;3:1999;1:3057;8:12084;1:2456;5:2364;3::');>`_
 =================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
@@ -31,9 +31,9 @@ Low slots
 ---------
 
 - `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
-- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
-- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
-- `Capacitor Power Relay II <javascript:CCPEVE.showInfo(1447)>`_
+- `Beta Reactor Control: Capacitor Power Relay I <javascript:CCPEVE.showInfo(8173)>`_
+- `Beta Reactor Control: Capacitor Power Relay I <javascript:CCPEVE.showInfo(8173)>`_
+- `Beta Reactor Control: Capacitor Power Relay I <javascript:CCPEVE.showInfo(8173)>`_
 - `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
 - `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_
 - `Heat Sink II <javascript:CCPEVE.showInfo(2364)>`_

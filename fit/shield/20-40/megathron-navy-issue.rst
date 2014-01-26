@@ -30,14 +30,14 @@ Med slots
 Low slots
 ---------
 
-- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
-- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
-- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
-- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
-- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
-- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
-- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
 - `Damage Control II <javascript:CCPEVE.showInfo(2048)>`_
+- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
+- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
+- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
+- `Magnetic Field Stabilizer II <javascript:CCPEVE.showInfo(10190)>`_
+- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
+- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
+- `Tracking Enhancer II <javascript:CCPEVE.showInfo(1999)>`_
 
 Rigs
 ----
