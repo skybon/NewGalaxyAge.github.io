@@ -1,5 +1,5 @@
-Russian Allied Incursions: Shield and Armor
-===========================================
+О сообществе
+============
 
 :doc:`Information for English-speaking pilots here <about-en>`
 

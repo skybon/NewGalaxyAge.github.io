@@ -1,5 +1,5 @@
-Russian Allied Incursions: Shield and Armor
-===========================================
+Community information
+=====================
 
 Рассылки
 --------
