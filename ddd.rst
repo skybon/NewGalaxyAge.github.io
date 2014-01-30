@@ -25,8 +25,9 @@
 Приоритет целей для дроновода
 -------------------
 
+* Niarja Myelen
 * Schmaeel Medulla
-* Tama Cerebellum
 * Renyn Meten
+* Tama Cerebellum
 * Eystur Romben
-* По уничтожению данных целей дроновод уничтожает цели по тагам
+* После этих целей дроновод работает по тагам
