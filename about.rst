@@ -3,8 +3,20 @@
 
 :doc:`Information for English-speaking pilots here <about-en>`
 
+Каналы
+------
+
+* RAISA Armor - арморные флоты
+* RAISA Shield - шилдовые флоты
+* :doc:`RAISA Trusted <trusted>`
+
 Рассылки
 --------
+
+Armor-формат:
+
+* RAISA Armor - новости канала RAISA Armor
+* RAISA Shield CTA - оповещения о сборе флота и переездах
 
 Shield-формат:
 
