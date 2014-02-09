@@ -8,5 +8,5 @@ Shield-формат
   :maxdepth: 1
 
   shield-10
-  shield-20-40
+  shield-40
 
