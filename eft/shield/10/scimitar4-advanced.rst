@@ -1,15 +1,15 @@
-[Scimitar, Scimitar - 10 - бюджет]
+[Scimitar, Scimitar (Logistics 4) - 10 - ветеран]
 
 Power Diagnostic System II
 Capacitor Power Relay II
 Capacitor Power Relay II
 Capacitor Power Relay II
 
-Adaptive Invulnerability Field II
-10MN Afterburner II
-Remote Tracking Computer II
-Remote Tracking Computer II
-Remote Tracking Computer II
+Pithum B-Type Adaptive Invulnerability Field
+Corelum B-Type 10MN Afterburner
+Shadow Serpentis Remote Tracking Computer
+Cap Recharger II
+Cap Recharger II
 
 Large Remote Shield Booster II
 Large Remote Shield Booster II

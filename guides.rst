@@ -7,3 +7,4 @@
 .. toctree:: npc.rst
 .. toctree:: ddd.rst
 .. toctree:: basi-chat.rst
+.. toctree:: faq.rst

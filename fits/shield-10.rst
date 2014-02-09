@@ -11,7 +11,9 @@
 
 **\*\*\*\*\*** Vindicator ( :doc:`бюджет </fit/shield/10/vindicator-basic>` | :doc:`средний </fit/shield/10/vindicator-standard>` | :doc:`ветеран </fit/shield/10/vindicator-advanced>` )
 
-**\*\*\*\*\*** Scimitar ( :doc:`бюджет </fit/shield/10/scimitar-basic>` | :doc:`средний </fit/shield/10/scimitar-standard>` | :doc:`ветеран </fit/shield/10/scimitar-advanced>` )
+**\*\*\*\*\*** Scimitar (Logistics 5) ( :doc:`бюджет </fit/shield/10/scimitar5-basic>` | :doc:`средний </fit/shield/10/scimitar5-standard>` | :doc:`ветеран </fit/shield/10/scimitar5-advanced>` )
+
+\*\*\*\* Scimitar (Logistics 4) ( :doc:`бюджет </fit/shield/10/scimitar4-basic>` | :doc:`средний </fit/shield/10/scimitar4-standard>` | :doc:`ветеран </fit/shield/10/scimitar4-advanced>` )
 
 **\*\*\*\*\*** Nightmare ( :doc:`бюджет </fit/shield/10/nightmare-basic>` | :doc:`средний </fit/shield/10/nightmare-standard>` | :doc:`ветеран </fit/shield/10/nightmare-advanced>` )
 
