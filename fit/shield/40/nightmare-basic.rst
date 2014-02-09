@@ -20,11 +20,11 @@ High slots
 Med slots
 ---------
 
-- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
-- `100MN Microwarpdrive II <javascript:CCPEVE.showInfo(12084)>`_
 - `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
+- `100MN Microwarpdrive II <javascript:CCPEVE.showInfo(12084)>`_
+- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 - `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
 - `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
 

@@ -2,7 +2,7 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/40/nightmare-advanced.eft
 .. to edit it.
 
-`Nightmare - 40 - ветеран <javascript:CCPEVE.showFitting('17736:2048;1:2185;5:26378;1:2456;5:12824;4:12828;4:19359;1:15792;2:29001;2:19231;1:23105;4:15810;4:23109;4:12102;2:28999;2:23113;4:26442;1:29009;2:29011;2:25948;1:17520;2:3065;4:4347;1:28668;100::');>`_
+`Nightmare - 40 - ветеран <javascript:CCPEVE.showFitting('17736:2048;1:2185;5:26378;1:2456;5:12824;4:12828;4:19231;1:15792;3:29001;2:19359;1:23105;4:15810;4:23109;4:12102;2:28999;2:23113;4:26442;1:29009;2:29011;2:25948;1:17520;1:3065;4:4347;1:28668;100::');>`_
 ===========================================================================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
@@ -20,13 +20,13 @@ High slots
 Med slots
 ---------
 
-- `Federation Navy Tracking Computer <javascript:CCPEVE.showInfo(15792)>`_
-- `Federation Navy Tracking Computer <javascript:CCPEVE.showInfo(15792)>`_
-- `Federation Navy Sensor Booster <javascript:CCPEVE.showInfo(17520)>`_
-- `Federation Navy Sensor Booster <javascript:CCPEVE.showInfo(17520)>`_
-- `Pithum A-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19231)>`_
 - `Pithum A-Type Adaptive Invulnerability Field <javascript:CCPEVE.showInfo(4347)>`_
+- `Pithum A-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19231)>`_
 - `Gist X-Type 100MN Microwarpdrive <javascript:CCPEVE.showInfo(19359)>`_
+- `Federation Navy Sensor Booster <javascript:CCPEVE.showInfo(17520)>`_
+- `Federation Navy Tracking Computer <javascript:CCPEVE.showInfo(15792)>`_
+- `Federation Navy Tracking Computer <javascript:CCPEVE.showInfo(15792)>`_
+- `Federation Navy Tracking Computer <javascript:CCPEVE.showInfo(15792)>`_
 
 Low slots
 ---------

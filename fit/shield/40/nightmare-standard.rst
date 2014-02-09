@@ -2,7 +2,7 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/40/nightmare-standard.eft
 .. to edit it.
 
-`Nightmare - 40 - средний <javascript:CCPEVE.showFitting('17736:2048;1:2185;5:26378;1:19341;1:19215;1:2456;5:12824;4:12828;4:1952;2:29001;2:1978;2:23105;4:15810;4:23109;4:12102;2:28999;2:23113;4:26442;1:29009;2:29011;2:25948;1:3065;4:28668;100:4349;1::');>`_
+`Nightmare - 40 - средний <javascript:CCPEVE.showFitting('17736:2048;1:2185;5:26378;1:19341;1:19215;1:2456;5:12824;4:12828;4:1952;1:29001;2:1978;3:23105;4:15810;4:23109;4:12102;2:28999;2:23113;4:26442;1:29009;2:29011;2:25948;1:3065;4:28668;100:4349;1::');>`_
 =========================================================================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
@@ -20,13 +20,13 @@ High slots
 Med slots
 ---------
 
-- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
-- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
-- `Gist C-Type 100MN Microwarpdrive <javascript:CCPEVE.showInfo(19341)>`_
 - `Pithum C-Type Adaptive Invulnerability Field <javascript:CCPEVE.showInfo(4349)>`_
-- `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
-- `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
 - `Pithum C-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19215)>`_
+- `Gist C-Type 100MN Microwarpdrive <javascript:CCPEVE.showInfo(19341)>`_
+- `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
+- `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
+- `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
+- `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 
 Low slots
 ---------
