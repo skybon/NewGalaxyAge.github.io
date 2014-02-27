@@ -46,6 +46,6 @@ API
 
 .. raw:: html
 
-   <div style="margin-top:10px;"><iframe width='800' height='1200' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=1kM33OqsjgFc8TzKoWMw1p40bPoYBysUTVkU1wrfORn0&single=true&gid=0&range=A1%3AB2&output=html&widget=false'></iframe></div>
+   <div style="margin-top:10px;"><iframe width='800' height='1200' frameborder='0' src='https://docs.google.com/spreadsheets/d/1kM33OqsjgFc8TzKoWMw1p40bPoYBysUTVkU1wrfORn0/pubhtml'></iframe></div>
 
 Или на прямо у нас сайте - :doc:`тут <srp_info>`.
