@@ -44,8 +44,9 @@ API
 
 Фонд полностью прозрачен. Всю информацию о состоянии кошелька можно самостоятельно посмотреть через API:
 
-.. raw:: html
-
-   <div style="margin-top:10px;"><iframe width='800' height='1200' frameborder='0' src='https://docs.google.com/spreadsheets/d/1kM33OqsjgFc8TzKoWMw1p40bPoYBysUTVkU1wrfORn0/pubhtml'></iframe></div>
+**ID:** 2333664
+**Pass:** 9S994WtCxcRD7GsYsib9zSv1TENxbT7DJqagmr1G5hIgahF2cgXD0AWFpRLPwfAY
 
 Или на прямо у нас сайте - :doc:`тут <srp_info>`.
+
+При доступе через API смотрите главный корпоративный кошелёк (не работает в EVEMon)

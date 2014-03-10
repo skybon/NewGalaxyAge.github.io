@@ -1,9 +1,6 @@
 Описания сайтов
 ===============
 
-.. warning::
-    Страница находится в разработке.
-
 Vanguard (10)
 -------------
 
@@ -14,7 +11,7 @@ Vanguard (10)
     nmc
     ota
 
-Assoult (20)
+Assault (20)
 ------------
 
 .. toctree::
@@ -24,7 +21,7 @@ Assoult (20)
     ncs
     ocf
 
-HQ (40)
+Headquarters (40)
 -------
 
 .. toctree::
