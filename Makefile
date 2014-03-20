@@ -35,8 +35,8 @@ deploy: clean html
 		git add -A && \
 		git commit -m "Updated at `LANG=C date`" && \
 		git push origin HEAD:master
-	git add -A && \
-		git commit -m "Updated at `LANG=C date`" && \
-		git rebase origin/source && \
-		git push origin source
+#	git add -A && \
+#		git commit -m "Updated at `LANG=C date`" && \
+#		git rebase origin/source && \
+#		git push origin source
 	lockfile-remove deploy
