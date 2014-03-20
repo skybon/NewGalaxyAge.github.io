@@ -57,6 +57,6 @@ Ammo
 Drones
 ------
 
-- `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 - `Ogre II x4 <javascript:CCPEVE.showInfo(2446)>`_
+- `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 

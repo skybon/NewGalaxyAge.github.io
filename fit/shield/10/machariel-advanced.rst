@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/10/machariel-advanced.eft
 .. to edit it.
 
-`Machariel - 10 - ветеран <javascript:CCPEVE.showFitting('17738:26448;1:17520;2:25956;1:29001;1:26442;1:24427;1:15792;1:2961;7:29011;2:28211;5:2456;5:12761;1:4347;1:28668;1:15965;3:15806;4:19231;1::');>`_
-===================================================================================================================================================================================================================
+`Machariel - 10 - ветеран <javascript:CCPEVE.showFitting('17738:26448;1:17520;2:2456;5:25956;1:29001;1:26442;1:15792;1:2961;7:29011;2:28211;4:3608;1:12761;1:4347;1:28668;1:15965;3:15806;4:19231;1::');>`_
+==================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -17,7 +17,7 @@ High slots
 - `1400mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2961)>`_
 - `1400mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2961)>`_
 - `1400mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2961)>`_
-- `Drone Link Augmentor II <javascript:CCPEVE.showInfo(24427)>`_
+- `Large Remote Shield Booster II <javascript:CCPEVE.showInfo(3608)>`_
 
 Med slots
 ---------
@@ -57,6 +57,6 @@ Ammo
 Drones
 ------
 
-- `Garde II x5 <javascript:CCPEVE.showInfo(28211)>`_
+- `Garde II x4 <javascript:CCPEVE.showInfo(28211)>`_
 - `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 

@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/10/nightmare-advanced.eft
 .. to edit it.
 
-`Nightmare - 10 - ветеран <javascript:CCPEVE.showFitting('17736:26378;1:3608;1:12824;4:12828;4:19231;1:2456;15:15792;2:29001;2:14268;1:23105;4:15810;4:23109;4:12102;1:28999;2:23113;4:26442;1:29009;2:29011;2:25948;1:15965;1:17520;2:3065;4:4347;1:28668;100::');>`_
-=============================================================================================================================================================================================================================================================================
+`Nightmare - 10 - ветеран <javascript:CCPEVE.showFitting('17736:26378;1:3608;1:12824;4:12828;4:19231;1:2456;15:15792;3:29001;2:23105;4:15810;4:23109;4:12102;1:28999;2:23113;4:26442;1:29009;2:29011;2:25948;1:15965;1:17520;2:3065;4:4347;1:28668;100::');>`_
+=====================================================================================================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -20,13 +20,13 @@ High slots
 Med slots
 ---------
 
-- `Federation Navy Tracking Computer <javascript:CCPEVE.showInfo(15792)>`_
-- `Federation Navy Tracking Computer <javascript:CCPEVE.showInfo(15792)>`_
-- `Federation Navy Sensor Booster <javascript:CCPEVE.showInfo(17520)>`_
-- `Federation Navy Sensor Booster <javascript:CCPEVE.showInfo(17520)>`_
-- `Pithum A-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19231)>`_
 - `Pithum A-Type Adaptive Invulnerability Field <javascript:CCPEVE.showInfo(4347)>`_
-- `True Sansha Stasis Webifier <javascript:CCPEVE.showInfo(14268)>`_
+- `Pithum A-Type EM Ward Amplifier <javascript:CCPEVE.showInfo(19231)>`_
+- `Federation Navy Sensor Booster <javascript:CCPEVE.showInfo(17520)>`_
+- `Federation Navy Sensor Booster <javascript:CCPEVE.showInfo(17520)>`_
+- `Federation Navy Tracking Computer <javascript:CCPEVE.showInfo(15792)>`_
+- `Federation Navy Tracking Computer <javascript:CCPEVE.showInfo(15792)>`_
+- `Federation Navy Tracking Computer <javascript:CCPEVE.showInfo(15792)>`_
 
 Low slots
 ---------

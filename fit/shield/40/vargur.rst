@@ -2,30 +2,30 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/40/vargur.eft
 .. to edit it.
 
-`Vargur - 40 <javascript:CCPEVE.showFitting('28665:2048;1:1952;1:12102;2:519;3:21480;1:2281;1:26442;1:1999;1:2929;4:3986;1:2185;5:2456;5:2553;1:1978;1:26428;1:24348;1:4349;1:21918;35000::');>`_
-=================================================================================================================================================================================================
+`Vargur - 40 <javascript:CCPEVE.showFitting('28665:2048;1:1952;1:12102;2:519;3:21480;1:2185;5:26442;1:1999;1:2961;4:21918;35000:4250;1:2456;5:2553;1:1978;2:26428;1:4349;1:27930;1::');>`_
+==========================================================================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
 High slots
 ----------
 
-- `800mm Repeating Cannon II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Cannon II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Cannon II <javascript:CCPEVE.showInfo(2929)>`_
-- `800mm Repeating Cannon II <javascript:CCPEVE.showInfo(2929)>`_
+- `1400mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2961)>`_
+- `1400mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2961)>`_
+- `1400mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2961)>`_
+- `1400mm Howitzer Artillery II <javascript:CCPEVE.showInfo(2961)>`_
 - `Large Remote Capacitor Transmitter II x2 <javascript:CCPEVE.showInfo(12102)>`_
-- `Large Remote Hull Repairer II <javascript:CCPEVE.showInfo(3986)>`_
-- `Small Tractor Beam I <javascript:CCPEVE.showInfo(24348)>`_
+- `Medium Remote Hull Repairer I <javascript:CCPEVE.showInfo(27930)>`_
+- `Small Tractor Beam II <javascript:CCPEVE.showInfo(4250)>`_
 
 Med slots
 ---------
 
 - `Sensor Booster II <javascript:CCPEVE.showInfo(1952)>`_
 - `Pithum C-Type Adaptive Invulnerability Field <javascript:CCPEVE.showInfo(4349)>`_
-- `Adaptive Invulnerability Field II <javascript:CCPEVE.showInfo(2281)>`_
 - `100MN Digital Booster Rockets <javascript:CCPEVE.showInfo(21480)>`_
 - `EM Ward Amplifier II <javascript:CCPEVE.showInfo(2553)>`_
+- `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
 - `Tracking Computer II <javascript:CCPEVE.showInfo(1978)>`_
 
 Low slots

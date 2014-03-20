@@ -2,8 +2,8 @@
 .. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/eft/shield/10/hyperion.eft
 .. to edit it.
 
-`Hyperion - 10 <javascript:CCPEVE.showFitting('24690:1952;1:19814;1:26088;2:2281;2:26442;1:10190;4:1999;3:3186;6:2456;5:2553;1:14268;1::');>`_
-==============================================================================================================================================
+`Hyperion - 10 <javascript:CCPEVE.showFitting('24690:1952;1:26088;2:2281;2:26442;1:10190;4:1999;3:3186;6:2456;5:2553;1:14268;1::');>`_
+======================================================================================================================================
 
 *(кликните по заголовку чтобы открыть фит в Eve)*
 
@@ -47,6 +47,5 @@ Rigs
 Ammo
 ----
 
-- `Phased Weapon Navigation Array Generation Extron <javascript:CCPEVE.showInfo(19814)>`_
 - `Hobgoblin II x5 <javascript:CCPEVE.showInfo(2456)>`_
 
