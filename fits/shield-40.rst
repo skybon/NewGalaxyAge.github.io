@@ -21,7 +21,7 @@
 
 **\*\*\*\*** Machariel ( :doc:`бюджет </fit/shield/40/machariel-basic>` | :doc:`средний </fit/shield/40/machariel-standard>` | :doc:`ветеран </fit/shield/40/machariel-advanced>` )
 
-**\*\*\*\*** :doc:`Vargur </fit/shield/40/vargur>`
+\*\*\*\* :doc:`Vargur </fit/shield/40/vargur>`
 
 \*\*\*\* :doc:`Loki </fit/shield/40/loki>`
 
@@ -37,21 +37,15 @@
 
 \*\*\* :doc:`Hyperion </fit/shield/40/hyperion>`
 
-**\*\*\*** :doc:`Golem </fit/shield/40/golem>`
+\*\*\* :doc:`Abaddon </fit/shield/40/abaddon>`
+
+\*\* :doc:`Golem </fit/shield/40/golem>`
 
 \*\* :doc:`Tengu </fit/shield/40/tengu>`
 
 \*\* :doc:`Tempest </fit/shield/40/tempest>`
 
 \*\* :doc:`Raven Navy Issue </fit/shield/40/raven-navy-issue>`
-
-\*\* :doc:`Rattlesnake </fit/shield/40/rattlesnake>`
-
-\*\* :doc:`Dominix Navy Issue </fit/shield/40/dominix-navy-issue>`
-
-\*\* :doc:`Armageddon Navy Issue </fit/shield/40/armageddon-navy-issue>`
-
-\*\* :doc:`Abaddon </fit/shield/40/abaddon>`
 
 \* :doc:`Scorpion Navy Issue </fit/shield/40/scorpion-navy-issue>`
 
