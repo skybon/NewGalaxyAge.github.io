@@ -60,3 +60,5 @@
 \* :doc:`Drake </fit/shield/10/drake>`
 
 \* :doc:`Apocalypse Navy Issue </fit/shield/10/apocalypse-navy-issue>`
+
+\* :doc:`Typhoon </fit/shield/10/typhoon>`

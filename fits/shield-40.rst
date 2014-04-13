@@ -54,3 +54,5 @@
 \* :doc:`Drake </fit/shield/40/drake>`
 
 \* :doc:`Apocalypse Navy Issue </fit/shield/40/apocalypse-navy-issue>`
+
+\* :doc:`Typhoon </fit/shield/40/typhoon>`
