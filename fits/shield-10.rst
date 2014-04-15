@@ -23,7 +23,7 @@
 
 **\*\*\*\*** Machariel ( :doc:`бюджет </fit/shield/10/machariel-basic>` | :doc:`средний </fit/shield/10/machariel-standard>` | :doc:`ветеран </fit/shield/10/machariel-advanced>` )
 
-**\*\*\*\*** :doc:`Vargur </fit/shield/10/vargur>`
+\*\*\*\* :doc:`Vargur </fit/shield/10/vargur>`
 
 \*\*\*\* :doc:`Loki </fit/shield/10/loki>`
 
@@ -39,7 +39,7 @@
 
 \*\*\* :doc:`Hyperion </fit/shield/10/hyperion>`
 
-**\*\*\*** :doc:`Golem </fit/shield/10/golem>`
+\*\*\* :doc:`Golem </fit/shield/10/golem>`
 
 \*\* :doc:`Tengu </fit/shield/10/tengu>`
 
