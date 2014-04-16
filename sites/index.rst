@@ -7,26 +7,16 @@ Vanguard (10)
 .. toctree::
     :maxdepth: 1
 
-    nco
-    nmc
-    ota
-
-Assault (20)
-------------
-
-.. toctree::
-    :maxdepth: 1
-
-    ncn
-    ncs
-    ocf
+    10/nco
+    10/nmc
+    10/ota
 
 Headquarters (40)
--------
+-----------------
 
 .. toctree::
     :maxdepth: 1
 
-    nrf
-    tcrc
-    tpph
+    40/nrf
+    40/tcrc
+    40/tpph
