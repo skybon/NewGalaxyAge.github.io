@@ -11,9 +11,9 @@ Scimitar
 
 Logistics IV, 10
 ----------------
-* :doc:`Бюджетный </fit/shield/scimitar/scimitar4-10-1>`
-* :doc:`Средний </fit/shield/scimitar/scimitar4-10-2>`
-* :doc:`Ветеран </fit/shield/scimitar/scimitar4-10-3>`
+* Бюджетный: :doc:`Обычный </fit/shield/scimitar/scimitar4-10-1>` / :doc:`Развозчик </fit/shield/scimitar/scimitar4-10-utility-1>`
+* Средний: :doc:`Обычный </fit/shield/scimitar/scimitar4-10-2>` / :doc:`Развозчик </fit/shield/scimitar/scimitar4-10-utility-2>`
+* Ветеран: :doc:`Обычный </fit/shield/scimitar/scimitar4-10-3>` / :doc:`Развозчик </fit/shield/scimitar/scimitar4-10-utility-3>`
 
 Logistics IV, 40
 ----------------
@@ -23,9 +23,9 @@ Logistics IV, 40
 
 Logistics V, 10
 ---------------
-* :doc:`Бюджетный </fit/shield/scimitar/scimitar5-10-1>`
-* :doc:`Средний </fit/shield/scimitar/scimitar5-10-2>`
-* :doc:`Ветеран </fit/shield/scimitar/scimitar5-10-3>`
+* Бюджетный: :doc:`Обычный </fit/shield/scimitar/scimitar5-10-1>` / :doc:`Развозчик </fit/shield/scimitar/scimitar5-10-utility-1>`
+* Средний: :doc:`Обычный </fit/shield/scimitar/scimitar5-10-2>` / :doc:`Развозчик </fit/shield/scimitar/scimitar5-10-utility-2>`
+* Ветеран: :doc:`Обычный </fit/shield/scimitar/scimitar5-10-3>` / :doc:`Развозчик </fit/shield/scimitar/scimitar5-10-utility-3>`
 
 Logistics V, 40
 ---------------
