@@ -31,6 +31,5 @@
 
 
 .. csv-table:: Последние выплаты по страховке:
-    :class: compens
 
     {compens_table}
