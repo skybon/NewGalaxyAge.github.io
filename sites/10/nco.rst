@@ -27,7 +27,6 @@ NCO - Nation Commander Outpost
 
 * Sansha Nation Commander
 * Auga Hypophysis
-* Romi Thalamus
 * Tama Cerebellum
 * Schmaeel Medulla
 * Renyn Meten
@@ -35,7 +34,6 @@ NCO - Nation Commander Outpost
 Четвертая волна:
 
 * Niarja Myelen
-* Auga Hypophysis
 * Tama Cerebellum
 * Schmaeel Medulla
 * Renyn Meten

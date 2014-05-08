@@ -12,7 +12,6 @@ NMC - Nation Mining Colony
 * Mara Paleo
 * Romi Thalamus
 * Schmaeel Medulla
-* Renyn Meten
 * Eystur Rhomben
 
 Вторая волна:

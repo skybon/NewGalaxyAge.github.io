@@ -50,8 +50,7 @@ NRF - Nation Rebirth facility
 
 Клоз цели:
 
-* Vylade Deen
-* Ostingele Tectum
+* Vylade Dien
 * Romi Thalamus
 * Tama Cerebellum
 * Schmaeel Medulla
@@ -72,7 +71,8 @@ NRF - Nation Rebirth facility
 
 Клоз цели:
 
-* Vylade Deen
+* Vylade Dien
+* Deltole Tegmentum
 * Ostingele Tectum
 * Romi Thalamus
 * Tama Cerebellum
