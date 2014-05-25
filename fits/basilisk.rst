@@ -11,9 +11,9 @@ Basilisk
 
 10
 --
-* :doc:`Бюджетный </fit/shield/basilisk/basilisk-10-1>`
-* :doc:`Средний </fit/shield/basilisk/basilisk-10-2>`
-* :doc:`Ветеран </fit/shield/basilisk/basilisk-10-3>`
+* Бюджетный: :doc:`Обычный </fit/shield/basilisk/basilisk-10-1>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-10-utility-1>`
+* Средний: :doc:`Обычный </fit/shield/basilisk/basilisk-10-2>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-10-utility-2>`
+* Ветеран: :doc:`Обычный </fit/shield/basilisk/basilisk-10-3>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-10-utility-3>`
 
 40
 --
