@@ -30,9 +30,10 @@
 - Прочие корабли: :doc:`Фиты для 10 <fits/shield-10>` - :doc:`Фиты для 40 <fits/shield-40>`
 
 :doc:`ЧаВо по патронам и дронам <ammo>`
+:doc:`Рекомендуемые импланты <https://docs.google.com/document/d/1DdGbyZEonn-ixIFentDYYHP9r1XKiwREhMsM9XUsoz0>`_
 
 Кладезь
 -------
 
 - :doc:`Описание комплексов <sites/index>`
-- `Таблица NPC <https://docs.google.com/spreadsheet/ccc?key=0AjLGXOYricladExvNm82TkRhWllLdU5OVVI3UGl2WGc#gid=0>`_
+- `Таблица NPC <https://docs.google.com/spreadsheet/ccc?key=0AjLGXOYricladExvNm82TkRhWllLdU5OVVI3UGl2WGc>`_
