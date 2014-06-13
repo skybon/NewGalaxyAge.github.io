@@ -23,6 +23,8 @@
 
 Адрес: voice.raisa.su (`ПОДКЛЮЧИТЬСЯ <ts3server://voice.raisa.su>`_)
 
+`Статус сервера <http://www.tsviewer.com/index.php?page=ts_viewer&ID=1041697>`_
+
 Рассылки
 --------
 
@@ -41,10 +43,3 @@ Shield-формат:
 .. raw:: html
 
    <div style="margin-top:10px;"><iframe width='800' height='800' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0AgSlDnvUmcWUdHM3aWdnM2xQNS1kd2Q1c09PSWI2dVE&single=true&gid=0&range=A1%3AC100&output=html&widget=false'></iframe></div>
-
-Статус сервера TeamSpeak
-------------------------
-
-.. raw:: html
-
-   <div><iframe src="http://cache.www.gametracker.com/components/html0/?host=voice.raisa.su:9987&bgColor=FFFFFF&fontColor=333333&titleBgColor=FFFFFF&titleColor=000000&borderColor=BBBBBB&linkColor=091858&borderLinkColor=5C5C5C&showMap=0&currentPlayersHeight=1000&showCurrPlayers=1&showTopPlayers=0&showBlogs=0&width=240" frameborder="0" scrolling="no" width="240" height="1188"></iframe></div>
