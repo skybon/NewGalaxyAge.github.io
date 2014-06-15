@@ -20,3 +20,12 @@ Machariel
 * :doc:`Бюджетный </fit/shield/machariel/machariel-40-1>`
 * :doc:`Средний </fit/shield/machariel/machariel-40-2>`
 * :doc:`Ветеран </fit/shield/machariel/machariel-40-3>`
+
+Рекомендуемые импланты
+----------------------
+
+* `EG-606 <javascript:CCPEVE.showInfo(3258);>`_
+* `MR-706 <javascript:CCPEVE.showInfo(3192);>`_
+* `LT-806 <javascript:CCPEVE.showInfo(3276);>`_
+* `SS-906 <javascript:CCPEVE.showInfo(3195);>`_
+* `LP-1006 <javascript:CCPEVE.showInfo(3198);>`_

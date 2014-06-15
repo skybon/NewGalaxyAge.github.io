@@ -20,3 +20,12 @@ Vindicator
 * :doc:`Бюджетный </fit/shield/vindicator/vindicator-40-1>`
 * :doc:`Средний </fit/shield/vindicator/vindicator-40-2>`
 * :doc:`Ветеран </fit/shield/vindicator/vindicator-40-3>`
+
+Рекомендуемые импланты
+----------------------
+
+* `EO-606 <javascript:CCPEVE.showInfo(3246);>`_
+* `MR-706 <javascript:CCPEVE.showInfo(3192);>`_
+* `EM-806 <javascript:CCPEVE.showInfo(3239);>`_
+* `SS-906 <javascript:CCPEVE.showInfo(3195);>`_
+* `LH-1006 <javascript:CCPEVE.showInfo(3224);>`_
