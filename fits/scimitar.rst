@@ -1,7 +1,7 @@
 Scimitar
 ========
 
-.. image:: /pics/Scimitar.png
+.. image:: http://image.eveonline.com/Render/11978_256.png
 
 Минматарский логист, который не зависит от других логистов и помогает дамагером с помощью Remote Tracking Computer.
 

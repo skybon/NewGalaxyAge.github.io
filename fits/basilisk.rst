@@ -1,7 +1,7 @@
 Basilisk
 ========
 
-.. image:: /pics/Basilisk.png
+.. image:: http://image.eveonline.com/Render/11985_256.png
 
 Калдарский логист, который :doc:`работает в цепи </basi-chat>`. Снабжает софлотовцев энергией накопителя с помощью модуля Remote Capacitor Transmitter.
 

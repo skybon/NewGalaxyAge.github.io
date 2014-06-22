@@ -1,7 +1,7 @@
 Machariel
 =========
 
-.. image:: /pics/Machariel.png
+.. image:: http://image.eveonline.com/Render/17738_256.png
 
 Тяжёлая артиллерийская платформа Angel Cartel, знаменитая своей скоростью и маневренностью.
 

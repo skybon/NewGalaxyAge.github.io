@@ -1,7 +1,7 @@
 Nightmare
 =========
 
-.. image:: /pics/Nightmare.png
+.. image:: http://image.eveonline.com/Render/17736_256.png
 
 Ночной кошмар имени Санши Куваки, главная ударная сила его приспешников и отличная PvE-машина.
 

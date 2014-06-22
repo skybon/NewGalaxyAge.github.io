@@ -1,7 +1,7 @@
 Vindicator
 ==========
 
-.. image:: /pics/Vindicator.png
+.. image:: http://image.eveonline.com/Render/17740_256.png
 
 Гибридная платформа от Serpentis, заточенная под роль анти-мелочи.
 
