@@ -24,7 +24,7 @@ Machariel
 Рекомендуемые импланты
 ----------------------
 
-* `EG-606 <javascript:CCPEVE.showInfo(3258);>`_
+* `AC-606 <javascript:CCPEVE.showInfo(3124);>`_
 * `MR-706 <javascript:CCPEVE.showInfo(3192);>`_
 * `LT-806 <javascript:CCPEVE.showInfo(3276);>`_
 * `SS-906 <javascript:CCPEVE.showInfo(3195);>`_
