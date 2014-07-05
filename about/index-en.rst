@@ -1,3 +1,4 @@
+.. index:: About us
 Community information
 =====================
 

@@ -1,3 +1,4 @@
+.. index:: Machariel
 Machariel
 =========
 

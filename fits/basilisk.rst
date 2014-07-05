@@ -1,9 +1,10 @@
+.. index:: Basilisk
 Basilisk
 ========
 
 .. image:: http://image.eveonline.com/Render/11985_256.png
 
-Калдарский логист, который :doc:`работает в цепи </basi-chat>`. Снабжает софлотовцев энергией накопителя с помощью модуля Remote Capacitor Transmitter.
+Калдарский логист, который :doc:`работает в цепи </guides/basi-chat>`. Снабжает софлотовцев энергией накопителя с помощью модуля Remote Capacitor Transmitter.
 
 Минимальное требование - навык Logistics IV.
 

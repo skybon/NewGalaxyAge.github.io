@@ -1,3 +1,6 @@
+.. index:: OTA
+.. index:: Override Transfer Array
+
 OTA - Override Transfer Array
 =============================
 
@@ -14,25 +17,25 @@ OTA - Override Transfer Array
 Первая волна
 ------------
 
-* Niarja Myelen
-* Auga Hypophysis
-* Deltole Tagmentum
-* Tama Cerebellum
+* Niarja Myelen.
+* Auga Hypophysis.
+* Deltole Tagmentum.
+* Tama Cerebellum.
 
 Вторая волна
 ------------
 
-* Niarja Myelen
-* Auga Hypophysis
-* Deltole Tagmentum
-* Tama Cerebellum
+* Niarja Myelen.
+* Auga Hypophysis.
+* Deltole Tagmentum.
+* Tama Cerebellum.
 
 Третья волна
 ------------
 
-* Niarja Myelen
-* Auga Hypophysis
-* Deltole Tagmentum
-* Tama Cerebellum
+* Niarja Myelen.
+* Auga Hypophysis.
+* Deltole Tagmentum.
+* Tama Cerebellum.
 
 
