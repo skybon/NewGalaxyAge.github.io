@@ -60,8 +60,12 @@ class Ship:
 
 ships = []
 
+dirpath = 'npc/'
+filepath_source = dirpath + 'data.json'
+filepath_destination = dirpath + 'index.rst'
+
 ## Погнали!
-JSON = json.load(open('data.json'))
+JSON = json.load(open(filepath_source))
 
 for i, val in enumerate(JSON):
     weight = 0
@@ -71,12 +75,12 @@ for i, val in enumerate(JSON):
 
 ships.sort(key=lambda ship: ship.weight, reverse=True)
 
-with open('index.rst', 'w') as f:
+with open(filepath_destination, 'w') as f:
     writeln(f, "Описание NPC")
     writeln(f, 12 * '=') # FIXME magic number
 
 for val in ships:
-    with open('index.rst', 'a') as f:
+    with open(filepath_destination, 'a') as f:
         if lasttype != val.type:
             writeln(f, typeList[val.type])
             signcount = len(typeList[val.type]) / 2 # FIXME WTF вообще с Python, почему len() от русской строки удваивается?
