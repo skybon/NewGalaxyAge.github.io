@@ -1,13 +1,3 @@
-.. toctree::
-    :hidden:
-
-    /quickstart
-    /guides/index
-    /rules
-    /fits/index
-    /srp
-    /about/index
-
 .. index:: Главная
 .. title:: Начало
 

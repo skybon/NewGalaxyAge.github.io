@@ -1,5 +1,21 @@
 .. index:: Быстрый старт
 
+.. toctree::
+    :hidden:
+
+    guides/faq
+    guides/ammo
+
+    Виндикаторам: руководство дроновода <guides/ddd>
+    Василискам: построение капцепи <guides/basi-chat>
+
+    sites/index
+    npc/index
+
+    Глоссарий <guides/glossary>
+
+    Настройка Teamspeak <guides/teamspeak>
+
 Быстрый старт
 =============
 
@@ -11,18 +27,18 @@
 
 Общее
 -----
-- :doc:`Информация о сообществе </about/index>`
+- :doc:`Информация о сообществе <about/index>`
 - :doc:`ЧаВо по вторжениям <guides/faq>`
 - :doc:`Правила <rules>`
 - :doc:`Страхование <srp>`
-- :doc:`Trusted </about/trusted>`
+- :doc:`Trusted <about/trusted>`
 
 Курс молодого бойца
 -------------------
 - `Обучающее видео <http://youtu.be/z1kVlwP011Q>`_
-- :doc:`Настройка TeamSpeak 3 </guides/teamspeak>`
-- Виндикаторам: :doc:`руководство дроновода </guides/ddd>`
-- Василискам: :doc:`построение капцепи </guides/basi-chat>`
+- :doc:`Настройка TeamSpeak 3 <guides/teamspeak>`
+- Виндикаторам: :doc:`руководство дроновода <guides/ddd>`
+- Василискам: :doc:`построение капцепи <guides/basi-chat>`
 
 Фиты
 ----
@@ -31,11 +47,11 @@
 - Логисты: :doc:`Basilisk <fits/basilisk>` - :doc:`Scimitar <fits/scimitar>`
 - Прочие корабли: :doc:`Фиты для 10 <fits/shield-10>` - :doc:`Фиты для 40 <fits/shield-40>`
 
-:doc:`ЧаВо по патронам и дронам </guides/ammo>`
+:doc:`ЧаВо по патронам и дронам <guides/ammo>`
 
 Кладезь
 -------
 
-- :doc:`Глоссарий </guides/glossary>`
+- :doc:`Глоссарий <guides/glossary>`
 - :doc:`Описание комплексов <sites/index>`
 - `Таблица NPC <https://docs.google.com/spreadsheet/ccc?key=0AjLGXOYricladExvNm82TkRhWllLdU5OVVI3UGl2WGc>`_
