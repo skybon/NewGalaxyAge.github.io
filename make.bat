@@ -12,11 +12,6 @@ if "%1" == "" goto html
 
 if "%1" == "html" (
 	:html
-	echo.---------------------
-	echo.
-	echo. !!! DOESNT WORK !!!
-	echo.
-	echo.---------------------
 	python npc/update-npc.py
 	python update-fits.py
 	python wallet.py && cp srp.json %BUILDDIR%/
@@ -24,11 +19,6 @@ if "%1" == "html" (
 	echo ''>>%BUILDDIR%/.nojekyll
 	if errorlevel 1 exit /b 1
 	echo.
-	echo.---------------------
-	echo.
-	echo. !!! DOESNT WORK !!!
-	echo.
-	echo.---------------------
 	echo.Build finished. The HTML pages are in %BUILDDIR%/html.
 	goto end
 )
