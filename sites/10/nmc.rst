@@ -12,23 +12,23 @@ NMC - Nation Mining Colony
 
 Первая волна:
 
-* Mara Paleo.
-* Romi Thalamus.
-* Schmaeel Medulla.
-* Eystur Rhomben.
+* Mara Paleo
+* Romi Thalamus
+* Schmaeel Medulla
+* Eystur Rhomben
 
 Вторая волна:
 
-* Niarja Myelen.
-* Romi Thalamus.
-* Tama Cerebellum.
+* Niarja Myelen
+* Romi Thalamus
+* Tama Cerebellum
 
 Третья волна:
 
-* Niarja Myelen.
-* Auga Hypophysis.
-* Romi Thalamus.
-* Tama Cerebellum.
+* Niarja Myelen
+* Auga Hypophysis
+* Romi Thalamus
+* Tama Cerebellum
 
 Дополнительные задания:
 В начале третьей волны, при отсутствии агры на логисте, ФК отправляет его к шахтерской колонии на АБ. По уничтожению третьей волны, в шахтерской колонии появляется конт, в который сбрасываеться стак руды.
@@ -41,8 +41,8 @@ NMC - Nation Mining Colony
 Астероид, содержащий 70.000 x Lyavite находится в центре астероидного пояса в плексе. В случае добычи руды во время прохождения сайта, 
 происходят дореспы:
 
-* Orkashu Myelen.
-* Schmaeel Medulla.
-* Raa Thalamus.
+* Orkashu Myelen
+* Schmaeel Medulla
+* Raa Thalamus
 
 При сбрасывании в конт стака руды, астероид пропадет.

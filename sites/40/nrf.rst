@@ -14,54 +14,54 @@ NRF - Nation Rebirth Facility
 
 Снайп цели:
 
-* Mara Paleo.
-* Vylade Dien.
+* Mara Paleo
+* Vylade Dien
 
 Клоз цели:
 
-* Deltole Tegmentum.
-* Ultra Telen.
-* Ostingele Tectum.
-* Romi Thalamus.
-* Tama Cerebellum.
-* Schmaeel Medulla.
+* Deltole Tegmentum
+* Ultra Telen
+* Ostingele Tectum
+* Romi Thalamus
+* Tama Cerebellum
+* Schmaeel Medulla
 
 Вторая волна
 ------------
 
 Снайп цели:
 
-* Antem Neo.
-* Yulai Crus Cerebi.
+* Antem Neo
+* Yulai Crus Cerebi
 
 Клоз цели:
 
-* Ultra Telen.
-* Romi Thalamus.
-* Tama Cerebellum.
-* Schmaeel Medulla.
+* Ultra Telen
+* Romi Thalamus
+* Tama Cerebellum
+* Schmaeel Medulla
 
 Третья волна
 ------------
 
-* Mara Paleo (общая цель для всех).
+* Mara Paleo (общая цель для всех)
 
 Снайп цели:
 
-* Antem Neo.
-* Yulai Crus Cerebi.
+* Antem Neo
+* Yulai Crus Cerebi
 
 Клоз цели:
 
-* Vylade Dien.
-* Romi Thalamus.
-* Tama Cerebellum.
-* Schmaeel Medulla.
+* Vylade Dien
+* Romi Thalamus
+* Tama Cerebellum
+* Schmaeel Medulla
 
 Четвертая волна
 ---------------
 
-* Outuni Mesen (Общая цель для всех).
+* Outuni Mesen (Общая цель для всех)
 
 По уничтожении снайперские корабли двигаются на оптимал к снайперским целям, по их уничтожению возвращаются к основному составу флота
 
@@ -69,14 +69,14 @@ NRF - Nation Rebirth Facility
 
 Снайп цели:
 
-* Antem Neo.
-* Yulai Crus Cerebi.
+* Antem Neo
+* Yulai Crus Cerebi
 
 Клоз цели:
 
-* Vylade Dien.
-* Deltole Tegmentum.
-* Ostingele Tectum.
-* Romi Thalamus.
-* Tama Cerebellum.
-* Schmaeel Medulla.
+* Vylade Dien
+* Deltole Tegmentum
+* Ostingele Tectum
+* Romi Thalamus
+* Tama Cerebellum
+* Schmaeel Medulla
