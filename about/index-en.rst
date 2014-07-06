@@ -1,4 +1,5 @@
 .. index:: About us
+
 Community information
 =====================
 
@@ -11,7 +12,7 @@ Shield fleets:
 * RAISA Shield CTA - fleet and move notifications
 
 RAISA Team
------------------
+----------
 
 .. raw:: html
 

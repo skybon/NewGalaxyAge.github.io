@@ -1,4 +1,5 @@
 .. index:: Nightmare
+
 Nightmare
 =========
 
