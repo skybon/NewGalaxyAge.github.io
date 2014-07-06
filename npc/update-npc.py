@@ -18,28 +18,28 @@ def writelntab(file, string, tabcount):
 propertiesList = {
     "point": {
         "weight":   "0b10000",
-        "icon":     "/point.png",
-        "text":     "Поинты!"
+        "icon":     "/pics/prop-point.png",
+        "text":     "Поинт"
     },
     "neut": {
         "weight":   "0b01000",
-        "icon":     "/neut.png",
-        "text":     "Нейтрят!"
+        "icon":     "/pics/prop-neut.png",
+        "text":     "Нейтрят"
     },
     "jam": {
         "weight":   "0b00100",
-        "icon":     "/jam.png",
-        "text":     "Джамят!"
+        "icon":     "/pics/prop-jam.png",
+        "text":     "Джам"
     },
     "dps": {
         "weight":   "0b00010",
-        "icon":     "/dps.png",
-        "text":     "ДПСят!"
+        "icon":     "/pics/prop-dps.png",
+        "text":     "ДПС"
     },
     "web": {
         "weight":   "0b00001",
-        "icon":     "/web.png",
-        "text":     "Сеткуют!"
+        "icon":     "/pics/prop-web.png",
+        "text":     "Сетка"
     }
 }
 
@@ -88,5 +88,8 @@ for val in ships:
         writelntab(f, val.name, 1)
 
         for v in val.properties:
-            writelntab(f, '.. image:: ' + propertiesList[v]['icon'], 2)
-            writelntab(f, propertiesList[v]['text'], 2)
+            writelntab(f, '.. figure:: ' + propertiesList[v]['icon'], 2)
+            writelntab(f, ':figclass: prop-figure', 3)
+            writelntab(f, ':class: prop-img', 3)
+            writelntab(f, '', 3)
+            writelntab(f, propertiesList[v]['text'], 3)

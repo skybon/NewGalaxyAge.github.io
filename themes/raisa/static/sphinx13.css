@@ -422,3 +422,14 @@ div.viewcode-block:target {
     border-top: 1px solid #ac9;
     border-bottom: 1px solid #ac9;
 }
+
+.prop-figure {
+    width: 64px;
+    display: inline-block;
+    text-align: center;
+}
+
+.prop-img {
+    width: 48px;
+    height: 48px;
+}
