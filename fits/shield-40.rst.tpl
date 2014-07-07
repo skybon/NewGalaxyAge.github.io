@@ -1,4 +1,4 @@
-Прочие фиты на 10
+Прочие фиты на 40
 =================
 
 .. note::
@@ -11,8 +11,8 @@
 .. toctree::
     :glob:
     :maxdepth: 1
+    :hidden:
 
-    /fit/shield/10/4/*
-    /fit/shield/10/3/*
-    /fit/shield/10/2/*
-    /fit/shield/10/1/*
+    /fit/shield/40/*
+
+{data}
