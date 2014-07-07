@@ -64,6 +64,8 @@ dirpath = 'npc/'
 filepath_source = dirpath + 'data.json'
 filepath_destination = dirpath + 'index.rst'
 
+header = "Описание NPC"
+
 ## Погнали!
 JSON = json.load(open(filepath_source))
 
@@ -76,14 +78,14 @@ for i, val in enumerate(JSON):
 ships.sort(key=lambda ship: ship.weight, reverse=True)
 
 with open(filepath_destination, 'w') as f:
-    writeln(f, "Описание NPC")
-    writeln(f, 12 * '=') # FIXME magic number
+    writeln(f, header)
+    writeln(f, len(header.decode('utf-8')) * '=') # FIXME magic number
 
 for val in ships:
     with open(filepath_destination, 'a') as f:
         if lasttype != val.type:
             writeln(f, typeList[val.type])
-            signcount = len(typeList[val.type]) / 2 # FIXME WTF вообще с Python, почему len() от русской строки удваивается?
+            signcount = len(typeList[val.type].decode('utf-8'))
             writeln(f, signcount * '-')
             writeln(f, '.. glossary::')
             lasttype = val.type
