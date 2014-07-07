@@ -6,15 +6,6 @@ import logging
 import os
 import re
 import json
-import sys
-
-## Хелперы
-def isNumber(s):
-    try:
-        int(s)
-        return True
-    except ValueError:
-        return False
 
 ## Инициализация
 starList = {
@@ -56,6 +47,7 @@ _types_by_name = json.load(open('types_by_name.json')).items()
 
 TYPES = dict((k, v['id']) for k, v in _types_by_name)
 
+
 ## Функции
 def update_fit(eft_filename, rst_filename):
     logging.info('Updating file %s -> %s', eft_filename, rst_filename)
@@ -92,8 +84,8 @@ def update_fit(eft_filename, rst_filename):
         f.write('.. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/%s\n' % eft_filename)
         f.write('.. to edit it.\n\n')
 
-        starcount = starList[ship_name]
-        if isNumber(starcount) and 0 < starcount < 5:
+        starcount = int(starList[ship_name])
+        if 0 < starcount < 5:
             rst_link = '/' + rst_filename.split('.')[0].replace(os.path.sep, '/')
             fits[complex_type].append([starcount, ship_name, rst_link])
 
@@ -183,15 +175,13 @@ if __name__ == "__main__":
         for subdir in subdirs:
             os.mkdir(os.path.join(dirname, subdir))
 
-    for complex in fits:
-        fits[complex].sort(key=lambda ship: ship[0], reverse=True)
+    for complexType in fits:
+        fits[complexType].sort(key=lambda single_ship: single_ship[0], reverse=True)
 
-        for ship in fits[complex]:
-            starcount = int(ship[0])
-            minuscount = 5 - starcount
-            fits_data[complex] += '* ``%s%s`` :doc:`%s <%s>`\n' % (starcount * '*', minuscount * '-', ship[1], ship[2])
+        for ship in fits[complexType]:
+            fits_data[complexType] += '* ``%s%s`` :doc:`%s <%s>`\n' % (ship[0] * '*', (5 - ship[0]) * '-', ship[1], ship[2])
 
-        template = open(fits_file[complex] + '.tpl').read().decode('utf-8')
-        data = template.format(**{"data": fits_data[complex]}).encode('utf-8')
-        with open(fits_file[complex], 'w') as f:
+        template = open(fits_file[complexType] + '.tpl').read().decode('utf-8')
+        data = template.format(**{"data": fits_data[complexType]}).encode('utf-8')
+        with open(fits_file[complexType], 'w') as f:
             f.write(data)
