@@ -1,4 +1,9 @@
 .. index:: Machariel
+.. toctree::
+    :hidden:
+    :glob:
+
+    /fit/shield/machariel/*
 
 Machariel
 =========

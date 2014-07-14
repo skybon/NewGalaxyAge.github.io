@@ -1,4 +1,9 @@
 .. index:: Vindicator
+.. toctree::
+    :hidden:
+    :glob:
+
+    /fit/shield/vindicator/*
 
 Vindicator
 ==========

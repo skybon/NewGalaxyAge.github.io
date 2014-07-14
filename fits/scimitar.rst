@@ -1,4 +1,9 @@
 .. index:: Scimitar
+.. toctree::
+    :hidden:
+    :glob:
+
+    /fit/shield/scimitar/*
 
 Scimitar
 ========

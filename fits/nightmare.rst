@@ -1,4 +1,9 @@
 .. index:: Nightmare
+.. toctree::
+    :hidden:
+    :glob:
+
+    /fit/shield/nightmare/*
 
 Nightmare
 =========

@@ -1,4 +1,9 @@
 .. index:: Basilisk
+.. toctree::
+    :hidden:
+    :glob:
+
+    /fit/shield/basilisk/*
 
 Basilisk
 ========
