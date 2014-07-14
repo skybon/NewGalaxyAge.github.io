@@ -18,27 +18,27 @@ def writelntab(file, string, tabcount):
 propertiesList = {
     "point": {
         "weight":   "0b10000",
-        "icon":     "/pics/prop-point.png",
+        "icon":     "http://image.eveonline.com/Type/3242_64.png",
         "text":     "Поинт"
     },
     "neut": {
         "weight":   "0b01000",
-        "icon":     "/pics/prop-neut.png",
+        "icon":     "http://image.eveonline.com/Type/533_64.png",
         "text":     "Нейтрят"
     },
     "jam": {
         "weight":   "0b00100",
-        "icon":     "/pics/prop-jam.png",
+        "icon":     "http://image.eveonline.com/Type/1957_64.png",
         "text":     "Джам"
     },
     "dps": {
         "weight":   "0b00010",
-        "icon":     "/pics/prop-dps.png",
+        "icon":     "http://image.eveonline.com/Type/267_64.png",
         "text":     "ДПС"
     },
     "web": {
         "weight":   "0b00001",
-        "icon":     "/pics/prop-web.png",
+        "icon":     "http://image.eveonline.com/Type/526_64.png",
         "text":     "Сетка"
     }
 }
