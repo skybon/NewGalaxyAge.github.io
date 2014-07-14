@@ -7,8 +7,7 @@
 -------
 1) Gleam L - для ближних NPC, даёт прирост к трекингу.
 2) Imperial Navy Multifrequency - основной заряд.
-3) Imperial Navy Xray - цели на средней дистанции.
-4) Imperial Navy Standard - снайперский заряд.
+3) Imperial Navy Xray - цели на снайперской дистанции.
 
 Пульсы
 ------
@@ -50,7 +49,7 @@ Hammerhead II.
 
 Тяжёлые
 -------
-Ogre II.
+Gecko.
 
 Сторожевые
 ----------
