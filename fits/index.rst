@@ -14,6 +14,5 @@ Shield-формат
   basilisk
   scimitar
 
-  shield-10
-  shield-40
-
+  shield-VG
+  shield-HQ

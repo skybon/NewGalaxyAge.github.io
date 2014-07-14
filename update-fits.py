@@ -37,9 +37,9 @@ starList = {
     "Vargur": 4
 }
 
-fits = {"10": [], "40": []}
-fits_data = {"10": '', "40": ''}
-fits_file = {"10": "fits/shield-VG.rst", "40": "fits/shield-HQ.rst"}
+fits = {"VG": [], "HQ": []}
+fits_data = {"VG": '', "HQ": ''}
+fits_file = {"VG": "fits/shield-VG.rst", "HQ": "fits/shield-HQ.rst"}
 
 SHIP_IMAGE_URL_FMT = 'http://image.eveonline.com/Render/%d_512.png'
 

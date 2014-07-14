@@ -9,17 +9,17 @@ Machariel
 
 Мы используем только фракционные и т2 боеприпасы!
 
-10
+VG
 --
-* :doc:`Бюджетный </fit/shield/machariel/machariel-10-1>`
-* :doc:`Средний </fit/shield/machariel/machariel-10-2>`
-* :doc:`Ветеран </fit/shield/machariel/machariel-10-3>`
+* :doc:`Бюджетный </fit/shield/machariel/machariel-VG-1>`
+* :doc:`Средний </fit/shield/machariel/machariel-VG-2>`
+* :doc:`Ветеран </fit/shield/machariel/machariel-VG-3>`
 
-40
+HQ
 --
-* :doc:`Бюджетный </fit/shield/machariel/machariel-40-1>`
-* :doc:`Средний </fit/shield/machariel/machariel-40-2>`
-* :doc:`Ветеран </fit/shield/machariel/machariel-40-3>`
+* :doc:`Бюджетный </fit/shield/machariel/machariel-HQ-1>`
+* :doc:`Средний </fit/shield/machariel/machariel-HQ-2>`
+* :doc:`Ветеран </fit/shield/machariel/machariel-HQ-3>`
 
 Рекомендуемые импланты
 ----------------------

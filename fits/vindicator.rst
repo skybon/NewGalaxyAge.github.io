@@ -9,17 +9,17 @@ Vindicator
 
 Мы используем только фракционные и т2 боеприпасы!
 
-10
+VG
 --
-* :doc:`Бюджетный </fit/shield/vindicator/vindicator-10-1>`
-* :doc:`Средний </fit/shield/vindicator/vindicator-10-2>`
-* :doc:`Ветеран </fit/shield/vindicator/vindicator-10-3>`
+* :doc:`Бюджетный </fit/shield/vindicator/vindicator-VG-1>`
+* :doc:`Средний </fit/shield/vindicator/vindicator-VG-2>`
+* :doc:`Ветеран </fit/shield/vindicator/vindicator-VG-3>`
 
-40
+HQ
 --
-* :doc:`Бюджетный </fit/shield/vindicator/vindicator-40-1>`
-* :doc:`Средний </fit/shield/vindicator/vindicator-40-2>`
-* :doc:`Ветеран </fit/shield/vindicator/vindicator-40-3>`
+* :doc:`Бюджетный </fit/shield/vindicator/vindicator-HQ-1>`
+* :doc:`Средний </fit/shield/vindicator/vindicator-HQ-2>`
+* :doc:`Ветеран </fit/shield/vindicator/vindicator-HQ-3>`
 
 Рекомендуемые импланты
 ----------------------
