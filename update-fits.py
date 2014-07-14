@@ -172,6 +172,8 @@ if __name__ == "__main__":
                                os.path.join(dirname, '%s.rst' % name))
                 except:
                     logging.error('Problem with fit: %s', name, exc_info=True)
+        if not os.path.isdir(dirname):
+            os.mkdir(dirname)
         for subdir in subdirs:
             os.mkdir(os.path.join(dirname, subdir))
 

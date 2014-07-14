@@ -1,7 +1,19 @@
+.. index:: О сообществе
+.. toctree::
+    :glob:
+    :hidden:
+
+    /bio/*
+
 О сообществе
 ============
 
-:doc:`Information for English-speaking pilots here <about-en>`
+.. toctree::
+    :maxdepth: 1
+
+    Information for English-speaking pilots here <index-en>
+    RAISA Trusted <trusted>
+
 
 Вступление
 ----------

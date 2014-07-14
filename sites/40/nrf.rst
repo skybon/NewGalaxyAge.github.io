@@ -1,4 +1,7 @@
-NRF - Nation Rebirth facility
+.. index:: NRF
+.. index:: Nation Rebirth Facility
+
+NRF - Nation Rebirth Facility
 =============================
 
 Доп. задания:

@@ -1,3 +1,6 @@
+.. index:: TCRC
+.. index:: True Creations Research Center
+
 TCRC - True Creations Research Center
 =====================================
 
@@ -41,7 +44,7 @@ MTAC-D лочит конт выброшеный MTAC-P и ждёт команд�
 Перед отварпом уничтожаются корабли с поинтами:
 
 * Outuni Mesen (в случае их респа)
-* Auga Hypophysis 
+* Auga Hypophysis
 * Deltole Tegmentum (в случае их респа)
 * Schmaeel Medulla
 

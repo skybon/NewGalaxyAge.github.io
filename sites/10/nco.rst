@@ -1,3 +1,6 @@
+.. index:: NCO
+.. index:: Nation Commander Outpost
+
 NCO - Nation Commander Outpost
 ==============================
 

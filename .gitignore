@@ -8,5 +8,6 @@ deploy.lock
 build
 fit
 
+npc/index.rst
 fits/shield-VG.rst
 fits/shield-HQ.rst
