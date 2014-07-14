@@ -1,3 +1,6 @@
+.. index:: NMC
+.. index:: Nation Mining Colony
+
 NMC - Nation Mining Colony
 ==========================
 

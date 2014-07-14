@@ -13,6 +13,7 @@ ALLSPHINXOPTS   = -d .doctrees $(SPHINXOPTS) .
 .PHONY: clean html deploy
 
 html:
+	$(PYTHON) npc/update-npc.py
 	$(PYTHON) update-fits.py
 	$(PYTHON) wallet.py && cp srp.json $(BUILDDIR)/
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/

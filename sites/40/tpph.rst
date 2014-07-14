@@ -1,3 +1,6 @@
+.. index:: TPPH
+.. index:: True Power Provisional Headquarters
+
 TPPH - True Power Provisional Headquarters
 ==========================================
 

@@ -31,5 +31,6 @@
 
 
 .. csv-table:: Последние выплаты по страховке:
+    :escape: \
 
     {compens_table}
