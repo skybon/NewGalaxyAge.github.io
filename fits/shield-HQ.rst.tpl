@@ -1,4 +1,4 @@
-Прочие фиты на 40
+Прочие фиты на HQ
 =================
 
 .. note::
@@ -13,6 +13,6 @@
     :maxdepth: 1
     :hidden:
 
-    /fit/shield/40/*
+    /fit/shield/HQ/*
 
 {data}

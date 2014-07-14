@@ -1,4 +1,4 @@
-Прочие фиты на 10
+Прочие фиты на VG
 =================
 
 .. note::
@@ -13,6 +13,6 @@
     :maxdepth: 1
     :hidden:
 
-    /fit/shield/10/*
+    /fit/shield/VG/*
 
 {data}

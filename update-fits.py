@@ -39,7 +39,7 @@ starList = {
 
 fits = {"10": [], "40": []}
 fits_data = {"10": '', "40": ''}
-fits_file = {"10": "fits/shield-10.rst", "40": "fits/shield-40.rst"}
+fits_file = {"10": "fits/shield-VG.rst", "40": "fits/shield-HQ.rst"}
 
 SHIP_IMAGE_URL_FMT = 'http://image.eveonline.com/Render/%d_512.png'
 
@@ -179,7 +179,7 @@ if __name__ == "__main__":
         fits[complexType].sort(key=lambda single_ship: single_ship[0], reverse=True)
 
         for ship in fits[complexType]:
-            fits_data[complexType] += '* ``%s%s`` :doc:`%s <%s>`\n' % (ship[0] * '*', (5 - ship[0]) * '-', ship[1], ship[2])
+            fits_data[complexType] += '%s :doc:`%s <%s>`\n\n' % (ship[0] * '\*', ship[1], ship[2])
 
         template = open(fits_file[complexType] + '.tpl').read().decode('utf-8')
         data = template.format(**{"data": fits_data[complexType]}).encode('utf-8')
