@@ -1,4 +1,4 @@
-Прочие фиты на VG
+Прочие фиты на HQ
 =================
 
 .. note::
@@ -13,6 +13,6 @@
     :maxdepth: 1
     :hidden:
 
-    /fit/shield/VG/*
+    /fit/shield/hq/*
 
 {data}

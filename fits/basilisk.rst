@@ -18,12 +18,12 @@ Basilisk
 
 VG
 --
-* Бюджетный: :doc:`Обычный </fit/shield/basilisk/basilisk-VG-1>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-VG-utility-1>`
-* Средний: :doc:`Обычный </fit/shield/basilisk/basilisk-VG-2>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-VG-utility-2>`
-* Ветеран: :doc:`Обычный </fit/shield/basilisk/basilisk-VG-3>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-VG-utility-3>`
+* Бюджетный: :doc:`Обычный </fit/shield/basilisk/basilisk-vg-1>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-vg-utility-1>`
+* Средний: :doc:`Обычный </fit/shield/basilisk/basilisk-vg-2>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-vg-utility-2>`
+* Ветеран: :doc:`Обычный </fit/shield/basilisk/basilisk-vg-3>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-vg-utility-3>`
 
 HQ
 --
-* :doc:`Бюджетный </fit/shield/basilisk/basilisk-HQ-1>`
-* :doc:`Средний </fit/shield/basilisk/basilisk-HQ-2>`
-* :doc:`Ветеран </fit/shield/basilisk/basilisk-HQ-3>`
+* :doc:`Бюджетный </fit/shield/basilisk/basilisk-hq-1>`
+* :doc:`Средний </fit/shield/basilisk/basilisk-hq-2>`
+* :doc:`Ветеран </fit/shield/basilisk/basilisk-hq-3>`

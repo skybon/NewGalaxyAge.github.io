@@ -18,15 +18,15 @@ Machariel
 
 VG
 --
-* :doc:`Бюджетный </fit/shield/machariel/machariel-VG-1>`
-* :doc:`Средний </fit/shield/machariel/machariel-VG-2>`
-* :doc:`Ветеран </fit/shield/machariel/machariel-VG-3>`
+* :doc:`Бюджетный </fit/shield/machariel/machariel-vg-1>`
+* :doc:`Средний </fit/shield/machariel/machariel-vg-2>`
+* :doc:`Ветеран </fit/shield/machariel/machariel-vg-3>`
 
 HQ
 --
-* :doc:`Бюджетный </fit/shield/machariel/machariel-HQ-1>`
-* :doc:`Средний </fit/shield/machariel/machariel-HQ-2>`
-* :doc:`Ветеран </fit/shield/machariel/machariel-HQ-3>`
+* :doc:`Бюджетный </fit/shield/machariel/machariel-hq-1>`
+* :doc:`Средний </fit/shield/machariel/machariel-hq-2>`
+* :doc:`Ветеран </fit/shield/machariel/machariel-hq-3>`
 
 Рекомендуемые импланты
 ----------------------

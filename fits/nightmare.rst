@@ -18,15 +18,15 @@ Nightmare
 
 VG
 --
-* :doc:`Бюджетный </fit/shield/nightmare/nightmare-VG-1>`
-* :doc:`Средний </fit/shield/nightmare/nightmare-VG-2>`
-* :doc:`Ветеран </fit/shield/nightmare/nightmare-VG-3>`
+* :doc:`Бюджетный </fit/shield/nightmare/nightmare-vg-1>`
+* :doc:`Средний </fit/shield/nightmare/nightmare-vg-2>`
+* :doc:`Ветеран </fit/shield/nightmare/nightmare-vg-3>`
 
 HQ
 --
-* :doc:`Бюджетный </fit/shield/nightmare/nightmare-HQ-1>`
-* :doc:`Средний </fit/shield/nightmare/nightmare-HQ-2>`
-* :doc:`Ветеран </fit/shield/nightmare/nightmare-HQ-3>`
+* :doc:`Бюджетный </fit/shield/nightmare/nightmare-hq-1>`
+* :doc:`Средний </fit/shield/nightmare/nightmare-hq-2>`
+* :doc:`Ветеран </fit/shield/nightmare/nightmare-hq-3>`
 
 Рекомендуемые импланты
 ----------------------
