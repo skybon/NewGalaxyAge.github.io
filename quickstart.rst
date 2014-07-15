@@ -45,7 +45,7 @@
 
 - Пират БШ: :doc:`Machariel <fits/machariel>` - :doc:`Nightmare <fits/nightmare>` - :doc:`Vindicator <fits/vindicator>`
 - Логисты: :doc:`Basilisk <fits/basilisk>` - :doc:`Scimitar <fits/scimitar>`
-- Прочие корабли: :doc:`Фиты для VG <fits/shield-VG>` - :doc:`Фиты для HQ <fits/shield-HQ>`
+- Прочие корабли: :doc:`Фиты для VG <fits/shield-vg>` - :doc:`Фиты для HQ <fits/shield-hq>`
 
 :doc:`ЧаВо по патронам и дронам <guides/ammo>`
 
