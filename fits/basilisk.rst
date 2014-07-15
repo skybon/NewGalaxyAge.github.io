@@ -1,4 +1,9 @@
 .. index:: Basilisk
+.. toctree::
+    :hidden:
+    :glob:
+
+    /fit/shield/basilisk/*
 
 Basilisk
 ========
@@ -11,14 +16,14 @@ Basilisk
 
 Логистам настоятельно рекомендуется иметь навык Advanced Target Management IV!
 
-10
+VG
 --
-* Бюджетный: :doc:`Обычный </fit/shield/basilisk/basilisk-10-1>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-10-utility-1>`
-* Средний: :doc:`Обычный </fit/shield/basilisk/basilisk-10-2>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-10-utility-2>`
-* Ветеран: :doc:`Обычный </fit/shield/basilisk/basilisk-10-3>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-10-utility-3>`
+* Бюджетный: :doc:`Обычный </fit/shield/basilisk/basilisk-vg-1>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-vg-utility-1>`
+* Средний: :doc:`Обычный </fit/shield/basilisk/basilisk-vg-2>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-vg-utility-2>`
+* Ветеран: :doc:`Обычный </fit/shield/basilisk/basilisk-vg-3>` / :doc:`Развозчик </fit/shield/basilisk/basilisk-vg-utility-3>`
 
-40
+HQ
 --
-* :doc:`Бюджетный </fit/shield/basilisk/basilisk-40-1>`
-* :doc:`Средний </fit/shield/basilisk/basilisk-40-2>`
-* :doc:`Ветеран </fit/shield/basilisk/basilisk-40-3>`
+* :doc:`Бюджетный </fit/shield/basilisk/basilisk-hq-1>`
+* :doc:`Средний </fit/shield/basilisk/basilisk-hq-2>`
+* :doc:`Ветеран </fit/shield/basilisk/basilisk-hq-3>`

@@ -1,4 +1,9 @@
 .. index:: Nightmare
+.. toctree::
+    :hidden:
+    :glob:
+
+    /fit/shield/nightmare/*
 
 Nightmare
 =========
@@ -11,17 +16,17 @@ Nightmare
 
 Мы используем только фракционные и т2 боеприпасы!
 
-10
+VG
 --
-* :doc:`Бюджетный </fit/shield/nightmare/nightmare-10-1>`
-* :doc:`Средний </fit/shield/nightmare/nightmare-10-2>`
-* :doc:`Ветеран </fit/shield/nightmare/nightmare-10-3>`
+* :doc:`Бюджетный </fit/shield/nightmare/nightmare-vg-1>`
+* :doc:`Средний </fit/shield/nightmare/nightmare-vg-2>`
+* :doc:`Ветеран </fit/shield/nightmare/nightmare-vg-3>`
 
-40
+HQ
 --
-* :doc:`Бюджетный </fit/shield/nightmare/nightmare-40-1>`
-* :doc:`Средний </fit/shield/nightmare/nightmare-40-2>`
-* :doc:`Ветеран </fit/shield/nightmare/nightmare-40-3>`
+* :doc:`Бюджетный </fit/shield/nightmare/nightmare-hq-1>`
+* :doc:`Средний </fit/shield/nightmare/nightmare-hq-2>`
+* :doc:`Ветеран </fit/shield/nightmare/nightmare-hq-3>`
 
 Рекомендуемые импланты
 ----------------------
