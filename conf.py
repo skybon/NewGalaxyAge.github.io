@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 #
 # RAISA Shield documentation build configuration file, created by
 # sphinx-quickstart2 on Tue Oct  1 02:09:34 2013.
@@ -41,7 +41,7 @@ master_doc = 'tree'
 
 # General information about the project.
 project = u'RAISA'
-copyright = u'2013, Russian Allied Incursions: Shield and Armor'
+copyright = u'2013-2014, RAISA Incursions'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
