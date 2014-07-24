@@ -20,9 +20,9 @@ NRF - Nation Rebirth Facility
 Клоз цели:
 
 * Deltole Tegmentum
-* Ultra Telen
 * Ostingele Tectum
 * Romi Thalamus
+* Ultra Telen
 * Tama Cerebellum
 * Schmaeel Medulla
 
@@ -36,15 +36,15 @@ NRF - Nation Rebirth Facility
 
 Клоз цели:
 
-* Ultra Telen
 * Romi Thalamus
+* Ultra Telen
 * Tama Cerebellum
 * Schmaeel Medulla
 
 Третья волна
 ------------
 
-* Mara Paleo (общая цель для всех)
+* Vylade Dien (общая цель для всех)
 
 Снайп цели:
 
@@ -53,19 +53,20 @@ NRF - Nation Rebirth Facility
 
 Клоз цели:
 
-* Vylade Dien
 * Romi Thalamus
+* Mara Paleo
 * Tama Cerebellum
 * Schmaeel Medulla
 
 Четвертая волна
 ---------------
 
-* Outuni Mesen (Общая цель для всех)
+Снайперские корабли двигаются на оптимал к снайперским целям, по их уничтожению возвращаются к основному составу флота.
 
-По уничтожении снайперские корабли двигаются на оптимал к снайперским целям, по их уничтожению возвращаются к основному составу флота
+Общие цели:
 
-Сквадком логистов отмечает остов или выкидывает конт и отмечает его тагом Z, весь сквад логистов орбитит отмеченный предмет, для того, чтобы доставать до обоих звеньев флота.
+* Outuni Mesen
+* Vylade Dien
 
 Снайп цели:
 
@@ -74,7 +75,6 @@ NRF - Nation Rebirth Facility
 
 Клоз цели:
 
-* Vylade Dien
 * Deltole Tegmentum
 * Ostingele Tectum
 * Romi Thalamus

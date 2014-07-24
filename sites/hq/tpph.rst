@@ -12,9 +12,12 @@ TPPH - True Power Provisional Headquarters
 
 По заходу на комплекс поворот на 90 градусов налево и летим до следующих ворот на МВД (3-4 цикла).
 
+Снайпера:
 * Auga Hypophysis
-* Outuni Mesen
 * Vylade Dien
+
+Ближние ДД:
+* Outuni Mesen
 * Ostingele Tectum
 * Schmaeel Medulla
 * Renyn Meten
@@ -27,11 +30,11 @@ TPPH - True Power Provisional Headquarters
 Снайпера:
 
 * Mara Paleo
+* Auga Hypophysis
 * Antem Neo
 
 Ближние ДД:
 
-* Auga Hypophysis
 * Deltole Tegmentum
 * Romi Thalamus
 * Tama Cerebellum
@@ -45,32 +48,25 @@ TPPH - True Power Provisional Headquarters
 
 * Mara Paleo
 * Ostingele Tectum (последний - триггер следующей волны)
-* Romi Thalamus
-* Tama Cerebellum
-* Schmaeel Medulla
-* Renyn Meten
 
 2-ая волна:
 
 * Deltole Tegmentum
 * Intaki Colliculus
 * Ostingele Tectum (последний - триггер следующей волны)
-* Tama Cerebellum
-* Schmaeel Medulla
-* Renyn Meten
 
 3-ая волна:
 
-* Arnon Epithalamus (любой без тага - данный тип NPC ФК озвучивает голосом, и таги не назначаются)
+* Arnon Epithalamus (любой без тага)
 * Outuni Mesen
 * Vylade Deen
 * Antem Neo
 * Yulai Crus Cerebi
 * Ostingele Tectum
+* Romi Thalamus
 * Tama Cerebellum
 * Schmaeel Medulla
 * Renyn Meten
 
 
-Когда в гриде флот сносит фрегаты, следует команда выпустить тяжелых дронов (Центриков). По уничтожению всей неписи, лочится и уничтожается башня (Sansha Battletower). Тяжелые дроны отправляются на башню самостоятельно.
-По остатку 15% структуры башни, флот собирает дронов, а по уничтожению - получает выплату.
+После 3-й волны NPC флот открывает огонь по Sansha Battletower, по уничтожении которой поступает выплата. 
