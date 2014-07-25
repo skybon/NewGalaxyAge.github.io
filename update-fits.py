@@ -34,7 +34,8 @@ starList = {
     "Bhaalgorn": 4,
     "Loki": 4,
     "Megathron Navy Issue": 4,
-    "Vargur": 4
+    "Vargur": 4,
+    "Barghest": 4
 }
 
 fits = {"VG": [], "HQ": []}
@@ -84,8 +85,11 @@ def update_fit(eft_filename, rst_filename):
         f.write('.. Use https://github.com/RAISA-Shield/raisa-shield.github.io/edit/source/%s\n' % eft_filename)
         f.write('.. to edit it.\n\n')
 
-        starcount = int(starList[ship_name])
-        if 0 < starcount < 5:
+        try:
+            starcount = int(starList[ship_name])
+        except KeyError:
+            starcount = 0
+        if starcount != 5:
             rst_link = '/' + rst_filename.split('.')[0].replace(os.path.sep, '/')
             fits[complex_type].append([starcount, ship_name, rst_link])
 
