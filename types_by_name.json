@@ -31,6 +31,10 @@
         "slot": "high", 
         "id": 8105
     }, 
+    "'Arbalest' Rapid Heavy Missile Launcher I": {
+        "slot": "high", 
+        "id": 33440
+    }, 
     "'Arbalest' Rocket Launcher I": {
         "slot": "high", 
         "id": 16527
@@ -471,6 +475,10 @@
         "slot": "high", 
         "id": 16515
     }, 
+    "'Limos' Rapid Heavy Missile Launcher I": {
+        "slot": "high", 
+        "id": 33441
+    }, 
     "'Limos' Rocket Launcher I": {
         "slot": "high", 
         "id": 16523
@@ -502,6 +510,10 @@
     "'Malkuth' Heavy Missile Launcher I": {
         "slot": "high", 
         "id": 8101
+    }, 
+    "'Malkuth' Rapid Heavy Missile Launcher I": {
+        "slot": "high", 
+        "id": 33442
     }, 
     "'Malkuth' Rocket Launcher I": {
         "slot": "high", 
@@ -1487,7 +1499,7 @@
         "slot": "high", 
         "id": 9327
     }, 
-    "800mm Heavy Carbine Repeating Howitzer I": {
+    "800mm Heavy Carbine Repeating Cannon I": {
         "slot": "high", 
         "id": 9329
     }, 
@@ -1495,7 +1507,7 @@
         "slot": "high", 
         "id": 9331
     }, 
-    "800mm Heavy Prototype Repeating Siege Cannon": {
+    "800mm Heavy Prototype Automatic Cannon": {
         "slot": "high", 
         "id": 9333
     }, 
@@ -1538,6 +1550,14 @@
     "Abaddon": {
         "slot": "ship", 
         "id": 24692
+    }, 
+    "Abaddon Kador Edition": {
+        "slot": "ship", 
+        "id": 33625
+    }, 
+    "Abaddon Tash-Murkon Edition": {
+        "slot": "ship", 
+        "id": 33623
     }, 
     "Absolution": {
         "slot": "ship", 
@@ -2327,6 +2347,10 @@
         "slot": "ship", 
         "id": 22466
     }, 
+    "Astero": {
+        "slot": "ship", 
+        "id": 33468
+    }, 
     "Atron": {
         "slot": "ship", 
         "id": 608
@@ -2414,6 +2438,14 @@
     "Bantam": {
         "slot": "ship", 
         "id": 582
+    }, 
+    "Barghest": {
+        "slot": "ship", 
+        "id": 33820
+    }, 
+    "Barium Firework": {
+        "slot": "charge", 
+        "id": 33572
     }, 
     "Barium Firework CXIV": {
         "slot": "charge", 
@@ -2599,6 +2631,10 @@
         "slot": "ship", 
         "id": 11985
     }, 
+    "Bastion Module I": {
+        "slot": "high", 
+        "id": 33400
+    }, 
     "Beam Parallax Tracking Program": {
         "slot": "low", 
         "id": 6321
@@ -2626,6 +2662,10 @@
     "Bestower": {
         "slot": "ship", 
         "id": 1944
+    }, 
+    "Bestower Tash-Murkon Edition": {
+        "slot": "ship", 
+        "id": 33695
     }, 
     "Beta Hull Mod Expanded Cargo": {
         "slot": "low", 
@@ -2998,6 +3038,10 @@
     "Brutix Navy Issue": {
         "slot": "ship", 
         "id": 33151
+    }, 
+    "Brutix Serpentis Edition": {
+        "slot": "ship", 
+        "id": 33869
     }, 
     "Brynn's Modified 100MN Afterburner": {
         "slot": "med", 
@@ -3482,6 +3526,10 @@
     "Caldari Navy Power Diagnostic System": {
         "slot": "low", 
         "id": 31952
+    }, 
+    "Caldari Navy Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33446
     }, 
     "Caldari Navy Rapid Light Missile Launcher": {
         "slot": "high", 
@@ -4327,6 +4375,14 @@
         "slot": "high", 
         "id": 4252
     }, 
+    "Capital Transverse Bulkhead I": {
+        "slot": "rig", 
+        "id": 33902
+    }, 
+    "Capital Transverse Bulkhead II": {
+        "slot": "rig", 
+        "id": 33904
+    }, 
     "Capital Trimark Armor Pump I": {
         "slot": "rig", 
         "id": 30993
@@ -4383,6 +4439,14 @@
         "slot": "ship", 
         "id": 17634
     }, 
+    "Caracal Nugoeihuvi Edition": {
+        "slot": "ship", 
+        "id": 33643
+    }, 
+    "Caracal Wiyrkomi Edition": {
+        "slot": "ship", 
+        "id": 33645
+    }, 
     "Carbonized Lead L": {
         "slot": "charge", 
         "id": 194
@@ -4414,6 +4478,10 @@
     "Catalyst": {
         "slot": "ship", 
         "id": 16240
+    }, 
+    "Catalyst Serpentis Edition": {
+        "slot": "ship", 
+        "id": 33877
     }, 
     "Celestis": {
         "slot": "ship", 
@@ -4694,6 +4762,10 @@
     "Cerberus": {
         "slot": "ship", 
         "id": 11993
+    }, 
+    "Chameleon": {
+        "slot": "ship", 
+        "id": 33675
     }, 
     "Charon": {
         "slot": "ship", 
@@ -4995,6 +5067,10 @@
         "slot": "ship", 
         "id": 16236
     }, 
+    "Coercer Blood Raiders Edition": {
+        "slot": "ship", 
+        "id": 33879
+    }, 
     "Combat Scanner Probe I": {
         "slot": "charge", 
         "id": 30028
@@ -5110,6 +5186,10 @@
     "Connected Remote Sensor Booster": {
         "slot": "med", 
         "id": 5280
+    }, 
+    "Copper Firework": {
+        "slot": "charge", 
+        "id": 33573
     }, 
     "Copper Firework CXIV": {
         "slot": "charge", 
@@ -5571,6 +5651,10 @@
         "slot": "ship", 
         "id": 16238
     }, 
+    "Cormorant Guristas Edition": {
+        "slot": "ship", 
+        "id": 33881
+    }, 
     "Corpii A-Type Adaptive Nano Plating": {
         "slot": "low", 
         "id": 18708
@@ -5950,6 +6034,10 @@
     "Cyclone": {
         "slot": "ship", 
         "id": 16231
+    }, 
+    "Cyclone Thukker Tribe Edition": {
+        "slot": "ship", 
+        "id": 33871
     }, 
     "Cyclops": {
         "slot": "drone", 
@@ -6751,6 +6839,10 @@
         "slot": "charge", 
         "id": 20813
     }, 
+    "Domination Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33452
+    }, 
     "Domination Rapid Light Missile Launcher": {
         "slot": "high", 
         "id": 13919
@@ -7031,6 +7123,10 @@
         "slot": "high", 
         "id": 13929
     }, 
+    "Dread Guristas Drone Damage Amplifier": {
+        "slot": "low", 
+        "id": 33846
+    }, 
     "Dread Guristas Dual 150mm Railgun": {
         "slot": "high", 
         "id": 13881
@@ -7219,6 +7315,10 @@
         "slot": "charge", 
         "id": 27363
     }, 
+    "Dread Guristas Omnidirectional Tracking Enhancer": {
+        "slot": "low", 
+        "id": 33830
+    }, 
     "Dread Guristas Plutonium Charge L": {
         "slot": "charge", 
         "id": 21428
@@ -7234,6 +7334,10 @@
     "Dread Guristas Plutonium Charge XL": {
         "slot": "charge", 
         "id": 21440
+    }, 
+    "Dread Guristas Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33453
     }, 
     "Dread Guristas Rapid Light Missile Launcher": {
         "slot": "high", 
@@ -7511,7 +7615,7 @@
         "slot": "high", 
         "id": 9287
     }, 
-    "Dual 650mm Carbine Repeating Howitzer I": {
+    "Dual 650mm Carbine Repeating Cannon I": {
         "slot": "high", 
         "id": 9289
     }, 
@@ -7519,7 +7623,7 @@
         "slot": "high", 
         "id": 9291
     }, 
-    "Dual 650mm Prototype Repeating Siege Cannon": {
+    "Dual 650mm Prototype Automatic Cannon": {
         "slot": "high", 
         "id": 9293
     }, 
@@ -7815,10 +7919,6 @@
         "slot": "ship", 
         "id": 617
     }, 
-    "Eidolon": {
-        "slot": "ship", 
-        "id": 647
-    }, 
     "Einherji": {
         "slot": "drone", 
         "id": 23061
@@ -8011,6 +8111,10 @@
         "slot": "med", 
         "id": 14703
     }, 
+    "Estamel's Modified Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33454
+    }, 
     "Estamel's Modified Shield Boost Amplifier": {
         "slot": "med", 
         "id": 14714
@@ -8126,6 +8230,10 @@
     "Experimental Explosive Plating I": {
         "slot": "low", 
         "id": 16325
+    }, 
+    "Experimental Hyperspatial Accelerator": {
+        "slot": "low", 
+        "id": 33983
     }, 
     "Experimental Kinetic Plating I": {
         "slot": "low", 
@@ -8435,6 +8543,14 @@
         "slot": "ship", 
         "id": 17841
     }, 
+    "Federation Navy Drone Damage Amplifier": {
+        "slot": "low", 
+        "id": 33842
+    }, 
+    "Federation Navy Drone Navigation Computer": {
+        "slot": "med", 
+        "id": 33850
+    }, 
     "Federation Navy Dual 150mm Railgun": {
         "slot": "high", 
         "id": 15835
@@ -8687,6 +8803,10 @@
         "slot": "ship", 
         "id": 16227
     }, 
+    "Ferox Guristas Edition": {
+        "slot": "ship", 
+        "id": 33873
+    }, 
     "Festival Launcher": {
         "slot": "high", 
         "id": 19660
@@ -8847,6 +8967,10 @@
         "slot": "drone", 
         "id": 28211
     }, 
+    "Garmur": {
+        "slot": "ship", 
+        "id": 33816
+    }, 
     "Gas Cloud Harvester I": {
         "slot": "high", 
         "id": 25266
@@ -8894,6 +9018,10 @@
     "Gaze Survey Probe I": {
         "slot": "charge", 
         "id": 18637
+    }, 
+    "Gecko": {
+        "slot": "drone", 
+        "id": 33681
     }, 
     "Ghost Heavy Missile": {
         "slot": "charge", 
@@ -9298,6 +9426,10 @@
     "Gotan's Modified Large Proton Smartbomb": {
         "slot": "high", 
         "id": 14548
+    }, 
+    "Gotan's Modified Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33455
     }, 
     "Gotan's Modified Stasis Webifier": {
         "slot": "med", 
@@ -9831,6 +9963,10 @@
         "slot": "med", 
         "id": 14597
     }, 
+    "Hakim's Modified Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33456
+    }, 
     "Hakim's Modified Shield Boost Amplifier": {
         "slot": "med", 
         "id": 14636
@@ -10014,6 +10150,14 @@
     "Heavy F-RX Prototype Capacitor Boost": {
         "slot": "med", 
         "id": 5047
+    }, 
+    "Heavy Hull Maintenance Bot I": {
+        "slot": "drone", 
+        "id": 33671
+    }, 
+    "Heavy Hull Maintenance Bot II": {
+        "slot": "drone", 
+        "id": 33708
     }, 
     "Heavy Ion Blaster I": {
         "slot": "high", 
@@ -10199,6 +10343,14 @@
         "slot": "ship", 
         "id": 24690
     }, 
+    "Hyperion Aliastra Edition": {
+        "slot": "ship", 
+        "id": 33635
+    }, 
+    "Hyperion Innerzone Shipping Edition": {
+        "slot": "ship", 
+        "id": 33637
+    }, 
     "Ibis": {
         "slot": "ship", 
         "id": 601
@@ -10294,6 +10446,10 @@
     "Imperial Navy Curator": {
         "slot": "drone", 
         "id": 31868
+    }, 
+    "Imperial Navy Drone Damage Amplifier": {
+        "slot": "low", 
+        "id": 33844
     }, 
     "Imperial Navy Dual Heavy Beam Laser": {
         "slot": "high", 
@@ -10495,6 +10651,10 @@
         "slot": "charge", 
         "id": 23071
     }, 
+    "Imperial Navy Omnidirectional Tracking Enhancer": {
+        "slot": "low", 
+        "id": 33832
+    }, 
     "Imperial Navy Praetor": {
         "slot": "drone", 
         "id": 31870
@@ -10622,6 +10782,14 @@
     "Incursus": {
         "slot": "ship", 
         "id": 594
+    }, 
+    "Incursus Aliastra Edition": {
+        "slot": "ship", 
+        "id": 33667
+    }, 
+    "Incursus Innerzone Shipping Edition": {
+        "slot": "ship", 
+        "id": 33669
     }, 
     "Independent Shielding": {
         "slot": "charge", 
@@ -10939,6 +11107,10 @@
         "slot": "ship", 
         "id": 12005
     }, 
+    "Iteron Inner Zone Shipping Edition": {
+        "slot": "ship", 
+        "id": 33689
+    }, 
     "Iteron Mark V": {
         "slot": "ship", 
         "id": 657
@@ -11050,6 +11222,10 @@
     "Kaikka's Modified Large Shield Booster": {
         "slot": "med", 
         "id": 14700
+    }, 
+    "Kaikka's Modified Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33457
     }, 
     "Kaikka's Modified Shield Boost Amplifier": {
         "slot": "med", 
@@ -12155,6 +12331,14 @@
         "slot": "high", 
         "id": 24622
     }, 
+    "Large Transverse Bulkhead I": {
+        "slot": "rig", 
+        "id": 33898
+    }, 
+    "Large Transverse Bulkhead II": {
+        "slot": "rig", 
+        "id": 33900
+    }, 
     "Large Trimark Armor Pump I": {
         "slot": "rig", 
         "id": 25894
@@ -12339,6 +12523,10 @@
         "slot": "subsystem", 
         "id": 30080
     }, 
+    "Leopard": {
+        "slot": "ship", 
+        "id": 33513
+    }, 
     "Leviathan": {
         "slot": "ship", 
         "id": 3764
@@ -12362,6 +12550,14 @@
     "Light Electron Blaster II": {
         "slot": "high", 
         "id": 3162
+    }, 
+    "Light Hull Maintenance Bot I": {
+        "slot": "drone", 
+        "id": 33706
+    }, 
+    "Light Hull Maintenance Bot II": {
+        "slot": "drone", 
+        "id": 33712
     }, 
     "Light Ion Blaster I": {
         "slot": "high", 
@@ -12494,6 +12690,10 @@
     "Limited Explosive Plating I": {
         "slot": "low", 
         "id": 16323
+    }, 
+    "Limited Hyperspatial Accelerator": {
+        "slot": "low", 
+        "id": 33981
     }, 
     "Limited Ion Blaster I": {
         "slot": "high", 
@@ -12759,9 +12959,21 @@
         "slot": "ship", 
         "id": 22548
     }, 
+    "Mackinaw ORE Development Edition": {
+        "slot": "ship", 
+        "id": 33683
+    }, 
     "Maelstrom": {
         "slot": "ship", 
         "id": 24694
+    }, 
+    "Maelstrom Krusual Edition": {
+        "slot": "ship", 
+        "id": 33633
+    }, 
+    "Maelstrom Nefantar Edition": {
+        "slot": "ship", 
+        "id": 33631
     }, 
     "Magnate": {
         "slot": "ship", 
@@ -12846,6 +13058,10 @@
     "Mammoth": {
         "slot": "ship", 
         "id": 652
+    }, 
+    "Mammoth Nefantar Edition": {
+        "slot": "ship", 
+        "id": 33693
     }, 
     "Manticore": {
         "slot": "ship", 
@@ -13455,6 +13671,14 @@
         "slot": "rig", 
         "id": 31222
     }, 
+    "Medium Hull Maintenance Bot I": {
+        "slot": "drone", 
+        "id": 33704
+    }, 
+    "Medium Hull Maintenance Bot II": {
+        "slot": "drone", 
+        "id": 33710
+    }, 
     "Medium Hull Repairer I": {
         "slot": "med", 
         "id": 3653
@@ -13598,6 +13822,10 @@
     "Medium Mercoxit Mining Crystal Optimization I": {
         "slot": "rig", 
         "id": 32817
+    }, 
+    "Medium Micro Jump Drive": {
+        "slot": "med", 
+        "id": 33915
     }, 
     "Medium Murky Remote Capacitor Transmitter": {
         "slot": "high", 
@@ -13911,6 +14139,14 @@
         "slot": "high", 
         "id": 24620
     }, 
+    "Medium Transverse Bulkhead I": {
+        "slot": "rig", 
+        "id": 33894
+    }, 
+    "Medium Transverse Bulkhead II": {
+        "slot": "rig", 
+        "id": 33896
+    }, 
     "Medium Trimark Armor Pump I": {
         "slot": "rig", 
         "id": 31055
@@ -14034,6 +14270,14 @@
     "Merlin": {
         "slot": "ship", 
         "id": 603
+    }, 
+    "Merlin Nugoeihuvi Edition": {
+        "slot": "ship", 
+        "id": 33659
+    }, 
+    "Merlin Wiyrkomi Edition": {
+        "slot": "ship", 
+        "id": 33661
     }, 
     "Miasmos": {
         "slot": "ship", 
@@ -14399,6 +14643,10 @@
         "slot": "high", 
         "id": 14544
     }, 
+    "Mizuro's Modified Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33458
+    }, 
     "Mizuro's Modified Stasis Webifier": {
         "slot": "med", 
         "id": 14648
@@ -14751,6 +14999,10 @@
         "slot": "ship", 
         "id": 650
     }, 
+    "Nestor": {
+        "slot": "ship", 
+        "id": 33472
+    }, 
     "Neutron Blaster Cannon I": {
         "slot": "high", 
         "id": 573
@@ -14967,13 +15219,29 @@
         "slot": "ship", 
         "id": 2006
     }, 
+    "Omen Kador Edition": {
+        "slot": "ship", 
+        "id": 33639
+    }, 
     "Omen Navy Issue": {
         "slot": "ship", 
         "id": 17709
     }, 
+    "Omen Tash-Murkon Edition": {
+        "slot": "ship", 
+        "id": 33641
+    }, 
     "Omni Positional ECCM Sensor System I": {
         "slot": "med", 
         "id": 7965
+    }, 
+    "Omnidirectional Tracking Enhancer I": {
+        "slot": "low", 
+        "id": 33822
+    }, 
+    "Omnidirectional Tracking Enhancer II": {
+        "slot": "low", 
+        "id": 33824
     }, 
     "Omnidirectional Tracking Link I": {
         "slot": "med", 
@@ -15019,13 +15287,33 @@
         "slot": "ship", 
         "id": 4302
     }, 
+    "Orbital EMP S": {
+        "slot": "charge", 
+        "id": 32801
+    }, 
+    "Orbital Hybrid S": {
+        "slot": "charge", 
+        "id": 32803
+    }, 
+    "Orbital Laser S": {
+        "slot": "charge", 
+        "id": 32799
+    }, 
     "Orca": {
         "slot": "ship", 
         "id": 28606
     }, 
+    "Orca ORE Development Edition": {
+        "slot": "ship", 
+        "id": 33685
+    }, 
     "Ore compression thingie": {
         "slot": "low", 
         "id": 22537
+    }, 
+    "Orthrus": {
+        "slot": "ship", 
+        "id": 33818
     }, 
     "Oshima's System Scanner": {
         "slot": "med", 
@@ -15142,10 +15430,6 @@
     "Phantasmata Missile": {
         "slot": "charge", 
         "id": 30426
-    }, 
-    "Phantom": {
-        "slot": "ship", 
-        "id": 3878
     }, 
     "Phase Switching Remote Tracking Computer": {
         "slot": "med", 
@@ -15475,6 +15759,10 @@
         "slot": "ship", 
         "id": 9860
     }, 
+    "Police Pursuit Comet": {
+        "slot": "ship", 
+        "id": 33677
+    }, 
     "Power Diagnostic System I": {
         "slot": "low", 
         "id": 1539
@@ -15551,9 +15839,17 @@
         "slot": "ship", 
         "id": 16233
     }, 
+    "Prophecy Blood Raiders Edition": {
+        "slot": "ship", 
+        "id": 33875
+    }, 
     "Prorator": {
         "slot": "ship", 
         "id": 12733
+    }, 
+    "Prospect": {
+        "slot": "ship", 
+        "id": 33697
     }, 
     "Protected Gravimetric Backup Cluster I": {
         "slot": "low", 
@@ -15767,6 +16063,10 @@
         "slot": "med", 
         "id": 6131
     }, 
+    "Prototype Hyperspatial Accelerator": {
+        "slot": "low", 
+        "id": 33985
+    }, 
     "Prototype Iris Probe Launcher": {
         "slot": "high", 
         "id": 2083
@@ -15794,6 +16094,14 @@
     "Punisher": {
         "slot": "ship", 
         "id": 597
+    }, 
+    "Punisher Kador Edition": {
+        "slot": "ship", 
+        "id": 33655
+    }, 
+    "Punisher Tash-Murkon Edition": {
+        "slot": "ship", 
+        "id": 33657
     }, 
     "Purifier": {
         "slot": "ship", 
@@ -15846,6 +16154,10 @@
     "QA Mega Module": {
         "slot": "low", 
         "id": 30223
+    }, 
+    "QA Mining Laser Upgrade": {
+        "slot": "low", 
+        "id": 33762
     }, 
     "QA Multiship Module - 10 Players": {
         "slot": "low", 
@@ -15986,6 +16298,14 @@
     "Ragnarok": {
         "slot": "ship", 
         "id": 23773
+    }, 
+    "Rapid Heavy Missile Launcher I": {
+        "slot": "high", 
+        "id": 33448
+    }, 
+    "Rapid Heavy Missile Launcher II": {
+        "slot": "high", 
+        "id": 33450
     }, 
     "Rapid Light Missile Launcher I": {
         "slot": "high", 
@@ -16579,6 +16899,10 @@
         "slot": "charge", 
         "id": 21933
     }, 
+    "Republic Fleet Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33459
+    }, 
     "Republic Fleet Rapid Light Missile Launcher": {
         "slot": "high", 
         "id": 17484
@@ -16715,6 +17039,14 @@
         "slot": "ship", 
         "id": 587
     }, 
+    "Rifter Krusual Edition": {
+        "slot": "ship", 
+        "id": 33665
+    }, 
+    "Rifter Nefantar Edition": {
+        "slot": "ship", 
+        "id": 33663
+    }, 
     "Rock-Scanning Sensor Array I": {
         "slot": "med", 
         "id": 6571
@@ -16731,6 +17063,14 @@
         "slot": "ship", 
         "id": 24688
     }, 
+    "Rokh Nugoeihuvi Edition": {
+        "slot": "ship", 
+        "id": 33627
+    }, 
+    "Rokh Wiyrkomi Edition": {
+        "slot": "ship", 
+        "id": 33629
+    }, 
     "Rook": {
         "slot": "ship", 
         "id": 11959
@@ -16738,6 +17078,10 @@
     "Rorqual": {
         "slot": "ship", 
         "id": 28352
+    }, 
+    "Rorqual ORE Development Edition": {
+        "slot": "ship", 
+        "id": 33687
     }, 
     "Rubin Basic Particle Bore Stream": {
         "slot": "high", 
@@ -17279,6 +17623,22 @@
         "slot": "rig", 
         "id": 26962
     }, 
+    "Sentient Drone Damage Amplifier": {
+        "slot": "low", 
+        "id": 33848
+    }, 
+    "Sentient Drone Navigation Computer": {
+        "slot": "med", 
+        "id": 33852
+    }, 
+    "Sentient Omnidirectional Tracking Enhancer": {
+        "slot": "low", 
+        "id": 33828
+    }, 
+    "Sentient Omnidirectional Tracking Link": {
+        "slot": "med", 
+        "id": 33826
+    }, 
     "Sentinel": {
         "slot": "ship", 
         "id": 11190
@@ -17786,6 +18146,10 @@
     "Shaqil's Modified Heavy Nosferatu": {
         "slot": "high", 
         "id": 15451
+    }, 
+    "Shaqil's Modified Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33461
     }, 
     "Shield Boost Amplifier I": {
         "slot": "med", 
@@ -18995,6 +19359,14 @@
         "slot": "high", 
         "id": 4250
     }, 
+    "Small Transverse Bulkhead I": {
+        "slot": "rig", 
+        "id": 33890
+    }, 
+    "Small Transverse Bulkhead II": {
+        "slot": "rig", 
+        "id": 33892
+    }, 
     "Small Trimark Armor Pump I": {
         "slot": "rig", 
         "id": 30987
@@ -19047,6 +19419,10 @@
         "slot": "med", 
         "id": 20367
     }, 
+    "Snowball": {
+        "slot": "charge", 
+        "id": 33569
+    }, 
     "Snowball CXIV": {
         "slot": "charge", 
         "id": 30221
@@ -19055,6 +19431,10 @@
         "slot": "charge", 
         "id": 24608
     }, 
+    "Sodium Firework": {
+        "slot": "charge", 
+        "id": 33571
+    }, 
     "Sodium Firework CXIV": {
         "slot": "charge", 
         "id": 32993
@@ -19062,10 +19442,6 @@
     "SpaceAnchor": {
         "slot": "med", 
         "id": 2528
-    }, 
-    "Specter": {
-        "slot": "ship", 
-        "id": 611
     }, 
     "Speculative Ship Identifier I": {
         "slot": "med", 
@@ -19102,6 +19478,14 @@
     "Stabber Fleet Issue": {
         "slot": "ship", 
         "id": 17713
+    }, 
+    "Stabber Krusual Edition": {
+        "slot": "ship", 
+        "id": 33649
+    }, 
+    "Stabber Nefantar Edition": {
+        "slot": "ship", 
+        "id": 33647
     }, 
     "Stabilized Weapon Mounts": {
         "slot": "low", 
@@ -19154,6 +19538,14 @@
     "Storm S": {
         "slot": "charge", 
         "id": 12627
+    }, 
+    "Stratios": {
+        "slot": "ship", 
+        "id": 33470
+    }, 
+    "Stratios Emergency Responder": {
+        "slot": "ship", 
+        "id": 33553
     }, 
     "Strip Miner I": {
         "slot": "high", 
@@ -19363,18 +19755,6 @@
         "slot": "high", 
         "id": 7171
     }, 
-    "Tactical EMP S": {
-        "slot": "charge", 
-        "id": 32801
-    }, 
-    "Tactical Hybrid S": {
-        "slot": "charge", 
-        "id": 32803
-    }, 
-    "Tactical Laser S": {
-        "slot": "charge", 
-        "id": 32799
-    }, 
     "Taipan": {
         "slot": "ship", 
         "id": 33081
@@ -19526,6 +19906,10 @@
     "Tayra": {
         "slot": "ship", 
         "id": 649
+    }, 
+    "Tayra Wiyrkomi Edition": {
+        "slot": "ship", 
+        "id": 33691
     }, 
     "Tempest": {
         "slot": "ship", 
@@ -19723,6 +20107,10 @@
         "slot": "med", 
         "id": 14701
     }, 
+    "Thon's Modified Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33462
+    }, 
     "Thon's Modified Shield Boost Amplifier": {
         "slot": "med", 
         "id": 14710
@@ -19747,6 +20135,14 @@
         "slot": "ship", 
         "id": 627
     }, 
+    "Thorax Aliastra Edition": {
+        "slot": "ship", 
+        "id": 33651
+    }, 
+    "Thorax Innerzone Shipping Edition": {
+        "slot": "ship", 
+        "id": 33653
+    }, 
     "Thorium Charge L": {
         "slot": "charge", 
         "id": 235
@@ -19766,6 +20162,10 @@
     "Thrasher": {
         "slot": "ship", 
         "id": 16242
+    }, 
+    "Thrasher Thukker Tribe Edition": {
+        "slot": "ship", 
+        "id": 33883
     }, 
     "Thukker Large Shield Extender": {
         "slot": "med", 
@@ -19858,6 +20258,10 @@
     "Tobias' Modified Large Shield Booster": {
         "slot": "med", 
         "id": 14599
+    }, 
+    "Tobias' Modified Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33463
     }, 
     "Tobias' Modified Shield Boost Amplifier": {
         "slot": "med", 
@@ -20158,6 +20562,10 @@
     "True Sansha Quad Beam Laser": {
         "slot": "high", 
         "id": 13833
+    }, 
+    "True Sansha Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33464
     }, 
     "True Sansha Rapid Light Missile Launcher": {
         "slot": "high", 
@@ -20635,6 +21043,10 @@
         "slot": "med", 
         "id": 32943
     }, 
+    "Unit D-34343's Modified Omnidirectional Tracking Enhancer": {
+        "slot": "low", 
+        "id": 33834
+    }, 
     "Unit D-34343's Modified Omnidirectional Tracking Link": {
         "slot": "med", 
         "id": 32935
@@ -20654,6 +21066,10 @@
     "Unit F-435454's Modified Drone Navigation Computer": {
         "slot": "med", 
         "id": 32945
+    }, 
+    "Unit F-435454's Modified Omnidirectional Tracking Enhancer": {
+        "slot": "low", 
+        "id": 33836
     }, 
     "Unit F-435454's Modified Omnidirectional Tracking Link": {
         "slot": "med", 
@@ -20675,6 +21091,10 @@
         "slot": "med", 
         "id": 32947
     }, 
+    "Unit P-343554's Modified Omnidirectional Tracking Enhancer": {
+        "slot": "low", 
+        "id": 33838
+    }, 
     "Unit P-343554's Modified Omnidirectional Tracking Link": {
         "slot": "med", 
         "id": 32939
@@ -20694,6 +21114,10 @@
     "Unit W-634's Modified Drone Navigation Computer": {
         "slot": "med", 
         "id": 32949
+    }, 
+    "Unit W-634's Modified Omnidirectional Tracking Enhancer": {
+        "slot": "low", 
+        "id": 33840
     }, 
     "Unit W-634's Modified Omnidirectional Tracking Link": {
         "slot": "med", 
@@ -20919,6 +21343,10 @@
         "slot": "med", 
         "id": 14702
     }, 
+    "Vepas' Modified Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33465
+    }, 
     "Vepas' Modified Shield Boost Amplifier": {
         "slot": "med", 
         "id": 14712
@@ -20998,10 +21426,6 @@
     "Violator": {
         "slot": "ship", 
         "id": 33083
-    }, 
-    "Visitant": {
-        "slot": "ship", 
-        "id": 658
     }, 
     "Vizan's Modified Adaptive Nano Plating": {
         "slot": "low", 
@@ -21227,6 +21651,10 @@
         "slot": "low", 
         "id": 6293
     }, 
+    "Whiptail": {
+        "slot": "ship", 
+        "id": 33673
+    }, 
     "Widow": {
         "slot": "ship", 
         "id": 22436
@@ -21238,10 +21666,6 @@
     "Worm": {
         "slot": "ship", 
         "id": 17930
-    }, 
-    "Wraith": {
-        "slot": "ship", 
-        "id": 610
     }, 
     "Wreathe": {
         "slot": "ship", 
@@ -21358,6 +21782,10 @@
     "Xray XL": {
         "slot": "charge", 
         "id": 17694
+    }, 
+    "YO-5000 Rapid Heavy Missile Launcher": {
+        "slot": "high", 
+        "id": 33466
     }, 
     "Zealot": {
         "slot": "ship", 
