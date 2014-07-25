@@ -4,6 +4,7 @@
     :hidden:
 
     /bio/*
+    trusted
 
 Команда RAISA
 =============
