@@ -14,7 +14,7 @@ Scimitar
 
 Минимальное требование - навык Logistics IV.
 
-Логистам настоятельно рекомендуется иметь навык Advanced Target Management IV!
+Логистам настоятельно рекомендуется иметь навык Advanced Target Management III!
 
 Logistics IV, VG
 ----------------
