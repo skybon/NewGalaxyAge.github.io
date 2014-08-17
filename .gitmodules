@@ -1,4 +1,4 @@
 [submodule "build"]
     path = build
-    url = git@github.com:secondfry/new-era-galaxy.git
+    url = git@github.com:NewGalaxyAge/NewGalaxyAge.github.io.git
     branch = gh-pages
