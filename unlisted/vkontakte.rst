@@ -3,4 +3,4 @@
 Наша страница ВКонтакте
 =======================
 
-http://vk.com/raisa_incursions
+http://vk.com/RAISA_incursions

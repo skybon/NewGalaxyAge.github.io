@@ -18,7 +18,7 @@ html:
 	$(PYTHON) wallet.py && cp srp.json $(BUILDDIR)/
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/
 	touch $(BUILDDIR)/.nojekyll
-	echo "raisa.su" > $(BUILDDIR)/CNAME
+	echo "new-galaxy-age.tk" > $(BUILDDIR)/CNAME
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/"
 

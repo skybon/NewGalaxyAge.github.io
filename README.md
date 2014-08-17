@@ -1,5 +1,5 @@
-Сайт сообщества RAISA
-=====================
+Сайт сообщества New Galaxy Age
+==============================
 
 Сайт использует [Sphinx](http://sphinx.readthedocs.org/en/latest/) при генерации страниц.
 
@@ -9,7 +9,7 @@
 * \*.rst - страницы сайта в формате [reST](http://docutils.sf.net/rst.html)
 * sites/ - описания саньшовых плексов
 * eft/ - фиты в текстовом формате EFT
-* themes/raisa/ - html-шаблон, css-стили, статика
+* themes/New Galaxy Age/ - html-шаблон, css-стили, статика
 
 Как внести изменения
 --------------------
@@ -20,14 +20,14 @@
 Request, после принятия которого изменения появятся на сайте при его пересборке
 людьми, ответственными за это.
 
-Если вы состоите в списке ФК RAISA и умеете обращаться с Git, Python и
+Если вы состоите в списке ФК New Galaxy Age и умеете обращаться с Git, Python и
 Sphinx, то можете работать с этим репозиторием напрямую.
 Свяжитесь со Zwo Zateki или Grim Altero и вам дадут доступ.
 
 Что нужно сделать по сайту
 --------------------------
 
-Текущие задачи можно посмотреть в [Issues](https://github.com/RAISA-Shield/raisa-shield.github.io/issues).
+Текущие задачи можно посмотреть в [Issues](https://github.com/New Galaxy Age-Shield/New Galaxy Age-shield.github.io/issues).
 Хотите что-нибудь из этого сделать, но не знаете как - спросите у ei-grad.
 
-Если есть идеи/предложения по сайту - создавайте новый [Issue](https://github.com/RAISA-Shield/raisa-shield.github.io/issues/new).
+Если есть идеи/предложения по сайту - создавайте новый [Issue](https://github.com/New Galaxy Age-Shield/New Galaxy Age-shield.github.io/issues/new).

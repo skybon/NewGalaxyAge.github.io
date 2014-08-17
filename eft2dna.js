@@ -1,6 +1,6 @@
 var types_by_name = null;
 
-$.getJSON('http://raisa-shield.github.io/_static/types_by_name.json')
+$.getJSON('http://RAISA-shield.github.io/_static/types_by_name.json')
 .success(function(data) {
     types_by_name = data;
 });
